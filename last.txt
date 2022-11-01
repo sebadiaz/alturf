@@ -1,4 +1,4 @@
-mar. 01 nov. 2022 12:00:04 CET
+mar. 01 nov. 2022 16:00:04 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=01-11-2022&publish_down=02-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-01/5305/json
 https://www.letrot.com/stats/courses/programme/2022-11-01/5901/json
@@ -815,7 +815,6 @@ https://www.letrot.com/stats/fiche-course/2022-11-01/1407/2/partants/tableau
 6:[ 0.97610219  0.02389781 16.        ]
 7:[0.97660254 0.02339746 8.        ]
 8:[0.97706656 0.02293344 6.        ]
-9:[0.97920984 0.02079016 9.        ]
 10:[0.97929573 0.02070427 2.        ]
 11:[0.9794863 0.0205137 3.       ]
 12:[ 0.98024356  0.01975644 15.        ]
