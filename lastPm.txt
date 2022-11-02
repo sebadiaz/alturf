@@ -1,4 +1,4 @@
-mer. 02 nov. 2022 20:45:04 CET
+mer. 02 nov. 2022 20:50:04 CET
 ['02112022']
 https://offline.turfinfo.api.pmu.fr/rest/client/7/programme/02112022
 https://offline.turfinfo.api.pmu.fr/rest/client/7/programme/02112022/R1/C1
