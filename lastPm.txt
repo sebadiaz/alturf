@@ -1,4 +1,4 @@
-jeu. 03 nov. 2022 08:35:03 CET
+jeu. 03 nov. 2022 08:40:03 CET
 ['03112022']
 https://offline.turfinfo.api.pmu.fr/rest/client/7/programme/03112022
 https://offline.turfinfo.api.pmu.fr/rest/client/7/programme/03112022/R1/C1
