@@ -1,4 +1,4 @@
-sam. 05 nov. 2022 12:00:04 CET
+sam. 05 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=05-11-2022&publish_down=06-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-05/1702/json
 https://www.letrot.com/stats/courses/programme/2022-11-05/5008/json
@@ -263,8 +263,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-05/5008/4/partants/tableau
 8:[0.94046789 0.05953211 2.        ]
 9:[0.95939619 0.04060381 5.        ]
 10:[0.96721471 0.03278529 9.        ]
-11:[ 0.97771717  0.02228283 12.        ]
-12:[ 0.98680633  0.01319367 11.        ]
+12:[ 0.97771717  0.02228283 12.        ]
 Hippodrome \"le Vieux Château\" GRAIGNES
 2022-11-05/5008/5
 https://www.letrot.com/stats/fiche-course/2022-11-05/5008/5/partants/drivers/paginate
