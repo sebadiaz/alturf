@@ -1,4 +1,4 @@
-lun. 07 nov. 2022 12:00:01 CET
+lun. 07 nov. 2022 16:00:05 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=07-11-2022&publish_down=08-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-07/1302/json
 https://www.letrot.com/stats/courses/programme/2022-11-07/7500/json
@@ -225,13 +225,12 @@ https://www.letrot.com/stats/fiche-course/2022-11-07/7500/3/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2022-11-07/7500/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-07/7500/3/partants/tableau
 1:[ 0.22476523  0.77523477 10.        ]
-2:[0.33230288 0.66769712 8.        ]
-3:[0.78606588 0.21393412 3.        ]
-4:[0.94451674 0.05548326 6.        ]
-5:[0.94532326 0.05467674 4.        ]
-6:[0.95200009 0.04799991 9.        ]
-7:[0.95891927 0.04108073 1.        ]
-8:[0.95911964 0.04088036 2.        ]
+3:[0.33230288 0.66769712 8.        ]
+4:[0.78606588 0.21393412 3.        ]
+5:[0.94451674 0.05548326 6.        ]
+6:[0.94532326 0.05467674 4.        ]
+7:[0.95200009 0.04799991 9.        ]
+8:[0.95891927 0.04108073 1.        ]
 9:[0.9673862 0.0326138 7.       ]
 10:[0.9801947 0.0198053 5.       ]
 Vincennes Hippodrome de Paris VINCENNES
@@ -394,15 +393,14 @@ https://www.letrot.com/stats/fiche-course/2022-11-07/4701/3/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-07/4701/3/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-07/4701/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-07/4701/3/partants/tableau
-1:[0.66462435 0.33537565 9.        ]
-2:[0.9560491 0.0439509 8.       ]
-3:[0.96606798 0.03393202 4.        ]
-4:[0.96826275 0.03173725 3.        ]
-5:[0.9733651 0.0266349 6.       ]
-6:[0.97381065 0.02618935 5.        ]
-7:[0.97395886 0.02604114 2.        ]
-8:[0.97698733 0.02301267 7.        ]
-9:[0.97846775 0.02153225 1.        ]
+2:[0.66462435 0.33537565 9.        ]
+3:[0.9560491 0.0439509 8.       ]
+4:[0.96606798 0.03393202 4.        ]
+5:[0.96826275 0.03173725 3.        ]
+6:[0.9733651 0.0266349 6.       ]
+7:[0.97381065 0.02618935 5.        ]
+8:[0.97395886 0.02604114 2.        ]
+9:[0.97698733 0.02301267 7.        ]
 Hippodrome d'Agen AGEN-LA GARENNE
 2022-11-07/4701/4
 https://www.letrot.com/stats/fiche-course/2022-11-07/4701/4/partants/drivers/paginate
@@ -597,8 +595,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-07/1400/4/partants/tableau
 1:[ 0.88844367  0.11155633 16.        ]
 2:[0.95449313 0.04550687 9.        ]
 3:[ 0.96199941  0.03800059 15.        ]
-4:[0.9620199 0.0379801 5.       ]
-5:[0.96669271 0.03330729 3.        ]
+4:[0.96669271 0.03330729 3.        ]
 6:[ 0.97257959  0.02742041 14.        ]
 7:[ 0.97275917  0.02724083 13.        ]
 8:[0.97352976 0.02647024 7.        ]
