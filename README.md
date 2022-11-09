@@ -1,5 +1,5 @@
 # Daily Turf on ['09112022']
-##### Last Refresh 2022-11-09 21:50:07.700497
+##### Last Refresh 2022-11-09 22:00:07.982770
 
 ## 2022-11-09 13:15:00 HIPPODROME DE NANTES 1 1
 ### TROT_MONTE
