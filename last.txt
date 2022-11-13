@@ -1,4 +1,4 @@
-dim. 13 nov. 2022 12:00:05 CET
+dim. 13 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=13-11-2022&publish_down=14-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-13/7500/json
 https://www.letrot.com/stats/courses/programme/2022-11-13/8202/json
@@ -192,19 +192,18 @@ https://www.letrot.com/stats/fiche-course/2022-11-13/8202/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-13/8202/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-13/8202/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-13/8202/1/partants/tableau
-1:[ 0.89328058  0.10671942 12.        ]
-2:[ 0.96188346  0.03811654 13.        ]
-3:[0.96519379 0.03480621 4.        ]
-4:[0.96531841 0.03468159 5.        ]
-5:[0.96626276 0.03373724 1.        ]
+1:[ 0.90482744  0.09517256 12.        ]
+2:[0.96519379 0.03480621 4.        ]
+3:[0.96531841 0.03468159 5.        ]
+4:[0.96626276 0.03373724 1.        ]
+5:[ 0.9664522  0.0335478 13.       ]
 6:[0.96670384 0.03329616 3.        ]
-7:[0.96982132 0.03017868 8.        ]
-8:[ 0.973412  0.026588 11.      ]
-9:[0.97431877 0.02568123 7.        ]
-10:[0.97477177 0.02522823 2.        ]
-11:[ 0.97613441  0.02386559 10.        ]
-12:[0.98343751 0.01656249 9.        ]
-13:[0.98809219 0.01190781 6.        ]
+7:[0.97477177 0.02522823 2.        ]
+9:[0.97531252 0.02468748 7.        ]
+10:[ 0.97551991  0.02448009 11.        ]
+11:[ 0.97780369  0.02219631 10.        ]
+12:[0.98433972 0.01566028 9.        ]
+13:[0.98833774 0.01166226 6.        ]
 Hippodrome de Marchès CASTELSARRASIN
 2022-11-13/8202/2
 https://www.letrot.com/stats/fiche-course/2022-11-13/8202/2/partants/drivers/paginate
