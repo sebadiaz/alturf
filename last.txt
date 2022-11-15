@@ -1,4 +1,4 @@
-mar. 15 nov. 2022 12:00:09 CET
+mar. 15 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=15-11-2022&publish_down=16-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-15/7500/json
 https://www.letrot.com/stats/courses/programme/2022-11-16/5008/json
@@ -13,11 +13,10 @@ https://www.letrot.com/stats/fiche-course/2022-11-15/7500/1/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2022-11-15/7500/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-15/7500/1/partants/tableau
 1:[0.23326425 0.76673575 6.        ]
-2:[0.67863941 0.32136059 5.        ]
-3:[ 0.70251709  0.29748291 10.        ]
-4:[ 0.72167541  0.27832459 13.        ]
-5:[ 0.75485111  0.24514889 12.        ]
-6:[0.7548849 0.2451151 2.       ]
+3:[0.67863941 0.32136059 5.        ]
+4:[ 0.70251709  0.29748291 10.        ]
+5:[ 0.72167541  0.27832459 13.        ]
+6:[ 0.75485111  0.24514889 12.        ]
 7:[ 0.78865558  0.21134442 15.        ]
 8:[0.82556588 0.17443412 8.        ]
 9:[0.90710282 0.09289718 7.        ]
