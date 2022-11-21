@@ -1,4 +1,4 @@
-lun. 21 nov. 2022 08:00:05 CET
+lun. 21 nov. 2022 12:00:06 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=21-11-2022&publish_down=22-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-21/7500/json
 https://www.letrot.com/stats/courses/programme/2022-11-21/4413/json
@@ -159,10 +159,9 @@ https://www.letrot.com/stats/fiche-course/2022-11-21/7500/8/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2022-11-21/7500/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-21/7500/8/partants/tableau
 1:[0.19631981 0.80368019 3.        ]
-2:[0.40595262 0.59404738 5.        ]
-3:[0.73455437 0.26544563 4.        ]
-4:[ 0.85014583  0.14985417 10.        ]
-5:[ 0.86391553  0.13608447 13.        ]
+2:[0.73455437 0.26544563 4.        ]
+3:[ 0.85014583  0.14985417 10.        ]
+4:[ 0.86391553  0.13608447 13.        ]
 6:[ 0.93236988  0.06763012 14.        ]
 7:[0.93468168 0.06531832 1.        ]
 8:[0.94822722 0.05177278 8.        ]
@@ -229,10 +228,9 @@ https://www.letrot.com/stats/fiche-course/2022-11-21/4413/3/partants/tableau
 7:[0.96724364 0.03275636 8.        ]
 8:[0.96886299 0.03113701 7.        ]
 9:[0.96997117 0.03002883 1.        ]
-10:[ 0.97346394  0.02653606 13.        ]
-11:[0.97897095 0.02102905 2.        ]
-12:[0.98259703 0.01740297 3.        ]
-13:[0.98516471 0.01483529 5.        ]
+10:[0.97897095 0.02102905 2.        ]
+11:[0.98259703 0.01740297 3.        ]
+12:[0.98516471 0.01483529 5.        ]
 Hippodrome du Petit Port NANTES
 2022-11-21/4413/4
 https://www.letrot.com/stats/fiche-course/2022-11-21/4413/4/partants/drivers/paginate
@@ -269,11 +267,10 @@ https://www.letrot.com/stats/fiche-course/2022-11-21/4413/5/partants/tableau
 5:[0.96945679 0.03054321 4.        ]
 6:[0.9728594 0.0271406 9.       ]
 7:[0.97363198 0.02636802 5.        ]
-8:[ 0.97649273  0.02350727 12.        ]
-9:[0.97939818 0.02060182 1.        ]
-10:[0.98090062 0.01909938 2.        ]
-11:[0.98276145 0.01723855 3.        ]
-12:[ 0.98490376  0.01509624 10.        ]
+8:[0.97939818 0.02060182 1.        ]
+9:[0.98090062 0.01909938 2.        ]
+10:[0.98276145 0.01723855 3.        ]
+11:[ 0.98490376  0.01509624 10.        ]
 Hippodrome du Petit Port NANTES
 2022-11-21/4413/6
 https://www.letrot.com/stats/fiche-course/2022-11-21/4413/6/partants/drivers/paginate
