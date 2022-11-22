@@ -1,5 +1,5 @@
 # Daily Turf on ['22112022']
-##### Last Refresh 2022-11-22 22:40:07.816382
+##### Last Refresh 2022-11-22 22:50:09.450082
 
 ## 2022-11-22 13:50:00 HIPPODROME DE DEAUVILLE 1 1
 ### PLAT
