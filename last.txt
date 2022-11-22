@@ -1,4 +1,4 @@
-mar. 22 nov. 2022 12:00:06 CET
+mar. 22 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=22-11-2022&publish_down=23-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-22/7500/json
 https://www.letrot.com/stats/courses/programme/2022-11-23/7616/json
@@ -152,13 +152,12 @@ https://www.letrot.com/stats/fiche-course/2022-11-22/7500/7/partants/tableau
 5:[0.92223981 0.07776019 6.        ]
 6:[ 0.95094668  0.04905332 12.        ]
 7:[ 0.96077482  0.03922518 14.        ]
-8:[0.96107535 0.03892465 5.        ]
-9:[0.96676433 0.03323567 3.        ]
-10:[0.96980095 0.03019905 2.        ]
-11:[ 0.97115333  0.02884667 10.        ]
-12:[0.97662979 0.02337021 1.        ]
-13:[ 0.9781481  0.0218519 13.       ]
-14:[0.97951871 0.02048129 8.        ]
+9:[0.96107535 0.03892465 5.        ]
+10:[0.96676433 0.03323567 3.        ]
+11:[0.96980095 0.03019905 2.        ]
+12:[ 0.97115333  0.02884667 10.        ]
+13:[0.97662979 0.02337021 1.        ]
+14:[ 0.9781481  0.0218519 13.       ]
 Vincennes Hippodrome de Paris VINCENNES
 2022-11-22/7500/8
 https://www.letrot.com/stats/fiche-course/2022-11-22/7500/8/partants/drivers/paginate
