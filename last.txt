@@ -1,4 +1,4 @@
-mar. 22 nov. 2022 16:00:01 CET
+mar. 22 nov. 2022 18:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=22-11-2022&publish_down=23-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-22/7500/json
 https://www.letrot.com/stats/courses/programme/2022-11-23/7616/json
@@ -11,17 +11,17 @@ https://www.letrot.com/stats/fiche-course/2022-11-22/7500/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-22/7500/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-22/7500/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-22/7500/1/partants/tableau
-1:[ 0.23121945  0.76878055 11.        ]
-2:[0.34284948 0.65715052 5.        ]
-3:[0.34861958 0.65138042 6.        ]
-4:[ 0.61788704  0.38211296 12.        ]
-5:[0.66654447 0.33345553 8.        ]
-6:[0.72515603 0.27484397 7.        ]
-7:[0.85832306 0.14167694 3.        ]
-8:[0.95503238 0.04496762 4.        ]
-9:[0.95585946 0.04414054 1.        ]
-10:[0.96408286 0.03591714 2.        ]
-11:[0.9791113 0.0208887 9.       ]
+1:[ 0.21779378  0.78220622 11.        ]
+2:[0.31809552 0.68190448 5.        ]
+3:[0.57668412 0.42331588 6.        ]
+4:[0.70571852 0.29428148 1.        ]
+5:[ 0.76579692  0.23420308 12.        ]
+6:[0.8171061 0.1828939 7.       ]
+7:[0.81815934 0.18184066 8.        ]
+8:[0.92852763 0.07147237 3.        ]
+9:[0.9639674 0.0360326 4.       ]
+10:[0.96958687 0.03041313 2.        ]
+11:[0.97967594 0.02032406 9.        ]
 12:[ 0.98408281  0.01591719 10.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2022-11-22/7500/2
