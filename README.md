@@ -1,5 +1,5 @@
 # Daily Turf on ['23112022']
-##### Last Refresh 2022-11-23 20:30:08.474341
+##### Last Refresh 2022-11-23 20:40:08.431643
 
 ## 2022-11-23 13:55:00 HIPPODROME DE MAUQUENCHY 1 1
 ### TROT_ATTELE
