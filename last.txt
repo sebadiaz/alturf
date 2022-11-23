@@ -1,4 +1,4 @@
-mer. 23 nov. 2022 12:00:01 CET
+mer. 23 nov. 2022 16:00:09 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=23-11-2022&publish_down=24-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-23/7616/json
 https://www.letrot.com/stats/courses/programme/2022-11-23/1303/json
@@ -46,7 +46,6 @@ https://www.letrot.com/stats/fiche-course/2022-11-23/7616/2/partants/tableau
 7:[0.92466708 0.07533292 2.        ]
 8:[0.96670422 0.03329578 9.        ]
 9:[0.97623057 0.02376943 8.        ]
-10:[ 0.97641341  0.02358659 10.        ]
 11:[0.97832448 0.02167552 5.        ]
 Hippodrome de Mauquenchy MAUQUENCHY
 2022-11-23/7616/3
