@@ -1,4 +1,4 @@
-sam. 26 nov. 2022 16:00:07 CET
+sam. 26 nov. 2022 18:00:06 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=26-11-2022&publish_down=27-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-26/5102/json
 https://www.letrot.com/stats/courses/programme/2022-11-26/7500/json
@@ -22,15 +22,14 @@ https://www.letrot.com/stats/fiche-course/2022-11-26/5102/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-26/5102/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-26/5102/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-26/5102/1/partants/tableau
-1:[0.84467526 0.15532474 9.        ]
-2:[ 0.92055614  0.07944386 13.        ]
-3:[0.96138018 0.03861982 3.        ]
-4:[0.97230261 0.02769739 6.        ]
-5:[ 0.97291067  0.02708933 12.        ]
-6:[0.97717778 0.02282222 2.        ]
-7:[0.9779823 0.0220177 7.       ]
-8:[0.97808738 0.02191262 8.        ]
-9:[0.97855487 0.02144513 4.        ]
+1:[ 0.92055614  0.07944386 13.        ]
+2:[0.96138018 0.03861982 3.        ]
+3:[0.97230261 0.02769739 6.        ]
+4:[ 0.97291067  0.02708933 12.        ]
+5:[0.97717778 0.02282222 2.        ]
+6:[0.9779823 0.0220177 7.       ]
+7:[0.97808738 0.02191262 8.        ]
+8:[0.97855487 0.02144513 4.        ]
 10:[ 0.98065443  0.01934557 10.        ]
 11:[0.98114797 0.01885203 5.        ]
 12:[0.98804957 0.01195043 1.        ]
