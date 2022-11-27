@@ -1,4 +1,4 @@
-dim. 27 nov. 2022 12:00:01 CET
+dim. 27 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=27-11-2022&publish_down=28-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-27/5901/json
 https://www.letrot.com/stats/courses/programme/2022-11-27/1304/json
@@ -194,11 +194,11 @@ https://www.letrot.com/stats/fiche-course/2022-11-27/1304/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/1/partants/tableau
-1:[0.95150627 0.04849373 3.        ]
-2:[0.95360384 0.04639616 1.        ]
-3:[0.96014669 0.03985331 6.        ]
-5:[0.96891433 0.03108567 7.        ]
-6:[0.97187943 0.02812057 8.        ]
+1:[0.17851713 0.82148287 6.        ]
+2:[0.18524953 0.81475047 7.        ]
+3:[0.20135015 0.79864985 8.        ]
+5:[0.95375416 0.04624584 1.        ]
+6:[0.96028531 0.03971469 3.        ]
 7:[0.97605261 0.02394739 5.        ]
 8:[0.9792821 0.0207179 2.       ]
 Hippodrome de la Crau SALON DE PROVENCE
@@ -209,7 +209,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-27/1304/2/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/2/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/2/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-11-27/1304/2/partants/tableau
-1:[0.1024827 0.8975173 2.       ]
+1:[0.10279612 0.89720388 2.        ]
 2:[ 0.10697523  0.89302477 12.        ]
 3:[0.32578993 0.67421007 8.        ]
 4:[0.51929734 0.48070266 1.        ]
@@ -270,7 +270,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-27/1304/5/partants/tableau
 5:[0.93512194 0.06487806 4.        ]
 6:[0.9354363 0.0645637 1.       ]
 7:[0.94280109 0.05719891 8.        ]
-8:[0.9548883 0.0451117 6.       ]
+8:[0.95503466 0.04496534 6.        ]
 9:[ 0.96003968  0.03996032 11.        ]
 10:[0.96518988 0.03481012 3.        ]
 11:[ 0.96969302  0.03030698 10.        ]
@@ -295,7 +295,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-27/1304/6/partants/tableau
 6:[0.81573212 0.18426788 2.        ]
 7:[0.81912725 0.18087275 5.        ]
 8:[0.84250953 0.15749047 3.        ]
-9:[0.87360047 0.12639953 4.        ]
+9:[0.87397575 0.12602425 4.        ]
 10:[0.93893111 0.06106889 1.        ]
 11:[ 0.97909487  0.02090513 11.        ]
 13:[0.98419152 0.01580848 6.        ]
