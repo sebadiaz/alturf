@@ -1,4 +1,4 @@
-mar. 29 nov. 2022 12:00:01 CET
+mar. 29 nov. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=29-11-2022&publish_down=30-11-2022
 https://www.letrot.com/stats/courses/programme/2022-11-29/7616/json
 https://www.letrot.com/stats/courses/programme/2022-11-29/7500/json
@@ -86,9 +86,9 @@ https://www.letrot.com/stats/fiche-course/2022-11-29/7616/4/partants/tableau
 10:[0.97833566 0.02166434 3.        ]
 11:[ 0.97975753  0.02024247 10.        ]
 12:[0.98218771 0.01781229 9.        ]
-14:[0.98251395 0.01748605 6.        ]
-15:[0.98288226 0.01711774 2.        ]
-16:[0.98531873 0.01468127 5.        ]
+14:[0.98288226 0.01711774 2.        ]
+15:[0.98531873 0.01468127 5.        ]
+16:[0.98659542 0.01340458 6.        ]
 Hippodrome de Mauquenchy MAUQUENCHY
 2022-11-29/7616/5
 https://www.letrot.com/stats/fiche-course/2022-11-29/7616/5/partants/drivers/paginate
@@ -219,7 +219,7 @@ https://www.letrot.com/stats/fiche-course/2022-11-29/7500/2/partants/tableau
 13:[ 0.9747562  0.0252438 16.       ]
 14:[0.97637132 0.02362868 1.        ]
 15:[ 0.97679583  0.02320417 10.        ]
-16:[ 0.97873148  0.02126852 12.        ]
+16:[ 0.9799132  0.0200868 12.       ]
 Vincennes Hippodrome de Paris VINCENNES
 2022-11-29/7500/3
 https://www.letrot.com/stats/fiche-course/2022-11-29/7500/3/partants/drivers/paginate
