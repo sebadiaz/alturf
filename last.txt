@@ -1,0 +1,915 @@
+ven. 02 déc. 2022 08:00:01 CET
+https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=02-12-2022&publish_down=03-12-2022
+https://www.letrot.com/stats/courses/programme/2022-12-02/2801/json
+https://www.letrot.com/stats/courses/programme/2022-12-02/7500/json
+https://www.letrot.com/stats/courses/programme/2022-12-03/1302/json
+https://www.letrot.com/stats/courses/programme/2022-12-03/7500/json
+https://www.letrot.com/stats/courses/programme/2022-12-03/4901/json
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/1
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/1/partants/tableau
+1:[ 0.12213031  0.87786969 10.        ]
+2:[0.14031176 0.85968824 6.        ]
+3:[0.83463401 0.16536599 8.        ]
+4:[0.90322224 0.09677776 9.        ]
+5:[ 0.91154033  0.08845967 11.        ]
+6:[ 0.94938516  0.05061484 12.        ]
+7:[0.96659276 0.03340724 7.        ]
+8:[0.97289323 0.02710677 3.        ]
+9:[0.97498281 0.02501719 1.        ]
+10:[0.97793913 0.02206087 5.        ]
+11:[0.97966139 0.02033861 4.        ]
+12:[0.97974713 0.02025287 2.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/2
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/2/partants/tableau
+1:[ 0.23093133  0.76906867 10.        ]
+2:[ 0.36395595  0.63604405 11.        ]
+3:[0.52033465 0.47966535 9.        ]
+4:[0.79858668 0.20141332 3.        ]
+5:[0.84894827 0.15105173 4.        ]
+6:[0.85454687 0.14545313 2.        ]
+7:[0.8587369 0.1412631 6.       ]
+8:[ 0.92692641  0.07307359 12.        ]
+9:[0.93524626 0.06475374 7.        ]
+10:[0.94232545 0.05767455 1.        ]
+11:[0.98033713 0.01966287 8.        ]
+12:[0.98682421 0.01317579 5.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/3
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/3/partants/tableau
+1:[ 0.3520905  0.6479095 14.       ]
+2:[0.96781266 0.03218734 3.        ]
+3:[0.97021559 0.02978441 7.        ]
+4:[ 0.97103991  0.02896009 12.        ]
+5:[ 0.97420431  0.02579569 11.        ]
+6:[0.97445362 0.02554638 1.        ]
+7:[0.97468295 0.02531705 4.        ]
+8:[0.9770304 0.0229696 8.       ]
+9:[0.97772704 0.02227296 6.        ]
+10:[0.97800282 0.02199718 9.        ]
+11:[0.9794453 0.0205547 5.       ]
+12:[ 0.97991438  0.02008562 15.        ]
+13:[ 0.98348416  0.01651584 16.        ]
+14:[ 0.98461487  0.01538513 13.        ]
+15:[ 0.98490821  0.01509179 10.        ]
+16:[0.98836752 0.01163248 2.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/4
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/4/partants/tableau
+1:[ 0.2587153  0.7412847 10.       ]
+2:[0.82529608 0.17470392 8.        ]
+3:[ 0.8392745  0.1607255 12.       ]
+4:[0.89237019 0.10762981 2.        ]
+5:[0.9111684 0.0888316 6.       ]
+6:[0.91155636 0.08844364 4.        ]
+7:[0.9299651 0.0700349 1.       ]
+8:[0.9588105 0.0411895 5.       ]
+9:[0.96088834 0.03911166 3.        ]
+10:[0.96339 0.03661 9.     ]
+11:[0.9761495 0.0238505 7.       ]
+12:[ 0.97931712  0.02068288 11.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/5
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/5/partants/tableau
+1:[0.29996929 0.70003071 7.        ]
+2:[0.8263731 0.1736269 4.       ]
+3:[0.90137418 0.09862582 5.        ]
+4:[ 0.92238871  0.07761129 14.        ]
+5:[ 0.9313935  0.0686065 13.       ]
+6:[0.94091507 0.05908493 2.        ]
+7:[0.94232507 0.05767493 6.        ]
+8:[0.96777684 0.03222316 1.        ]
+9:[ 0.96911464  0.03088536 11.        ]
+10:[0.97413156 0.02586844 9.        ]
+11:[ 0.97861063  0.02138937 10.        ]
+12:[0.97909593 0.02090407 3.        ]
+13:[0.98098753 0.01901247 8.        ]
+14:[ 0.98318382  0.01681618 12.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/6
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/6/partants/tableau
+1:[ 0.86334478  0.13665522 12.        ]
+2:[ 0.90571671  0.09428329 11.        ]
+3:[0.92251527 0.07748473 9.        ]
+4:[ 0.9272391  0.0727609 10.       ]
+5:[0.93728306 0.06271694 6.        ]
+6:[0.95570573 0.04429427 3.        ]
+7:[ 0.9625845  0.0374155 14.       ]
+8:[0.96913022 0.03086978 7.        ]
+9:[ 0.97166616  0.02833384 13.        ]
+10:[0.97479444 0.02520556 1.        ]
+11:[0.97670941 0.02329059 8.        ]
+12:[0.98044675 0.01955325 4.        ]
+13:[0.98188899 0.01811101 5.        ]
+14:[0.98605723 0.01394277 2.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/7
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/7/partants/tableau
+1:[0.62355035 0.37644965 1.        ]
+2:[0.76638304 0.23361696 9.        ]
+3:[ 0.78688649  0.21311351 12.        ]
+4:[ 0.8356995  0.1643005 11.       ]
+5:[0.95696732 0.04303268 3.        ]
+6:[0.95856384 0.04143616 2.        ]
+7:[0.95971562 0.04028438 8.        ]
+8:[0.96228608 0.03771392 4.        ]
+9:[0.97543966 0.02456034 7.        ]
+10:[ 0.97545583  0.02454417 10.        ]
+11:[0.98238841 0.01761159 6.        ]
+12:[0.99110866 0.00889134 5.        ]
+Hippodrome de Chartres CHARTRES
+2022-12-02/2801/8
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/2801/8/partants/tableau
+1:[0.39747415 0.60252585 1.        ]
+2:[0.43692338 0.56307662 8.        ]
+3:[ 0.79979556  0.20020444 12.        ]
+4:[0.89184939 0.10815061 6.        ]
+5:[ 0.91065819  0.08934181 16.        ]
+6:[ 0.9322623  0.0677377 14.       ]
+7:[ 0.9438722  0.0561278 11.       ]
+8:[0.95078686 0.04921314 3.        ]
+9:[0.96277912 0.03722088 2.        ]
+10:[ 0.96348453  0.03651547 13.        ]
+11:[0.981466 0.018534 7.      ]
+12:[0.98276119 0.01723881 4.        ]
+13:[0.98278884 0.01721116 5.        ]
+14:[0.98412139 0.01587861 9.        ]
+15:[9.91785770e-01 8.21422962e-03 1.50000000e+01]
+16:[9.91830648e-01 8.16935211e-03 1.00000000e+01]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/1
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/1/partants/tableau
+1:[0.19805666 0.80194334 4.        ]
+2:[ 0.28746964  0.71253036 12.        ]
+3:[0.35252025 0.64747975 8.        ]
+4:[0.77266844 0.22733156 5.        ]
+5:[ 0.78031928  0.21968072 10.        ]
+6:[ 0.78864812  0.21135188 13.        ]
+7:[ 0.81982983  0.18017017 14.        ]
+8:[0.84809389 0.15190611 6.        ]
+9:[ 0.92237223  0.07762777 15.        ]
+10:[0.94336984 0.05663016 7.        ]
+11:[0.95799927 0.04200073 3.        ]
+12:[0.96098143 0.03901857 2.        ]
+13:[0.9732317 0.0267683 9.       ]
+14:[0.97537897 0.02462103 1.        ]
+15:[ 0.98133832  0.01866168 11.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/2
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/2/partants/tableau
+1:[ 0.34195606  0.65804394 11.        ]
+2:[ 0.42053077  0.57946923 12.        ]
+3:[0.61467853 0.38532147 9.        ]
+4:[0.66958479 0.33041521 6.        ]
+5:[0.77628481 0.22371519 4.        ]
+6:[0.83350848 0.16649152 2.        ]
+7:[0.83936149 0.16063851 8.        ]
+8:[0.90852558 0.09147442 1.        ]
+9:[0.92915846 0.07084154 7.        ]
+10:[ 0.96168985  0.03831015 10.        ]
+11:[0.97506211 0.02493789 5.        ]
+12:[0.98000937 0.01999063 3.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/3
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/3/partants/tableau
+1:[ 0.58164883  0.41835117 12.        ]
+2:[0.82960378 0.17039622 5.        ]
+3:[0.85141816 0.14858184 8.        ]
+4:[0.92223694 0.07776306 6.        ]
+5:[0.92612259 0.07387741 2.        ]
+6:[0.94500891 0.05499109 7.        ]
+7:[0.952155 0.047845 9.      ]
+8:[0.97042573 0.02957427 4.        ]
+9:[0.97251588 0.02748412 1.        ]
+10:[0.97443379 0.02556621 3.        ]
+11:[ 0.97838252  0.02161748 11.        ]
+12:[ 0.97978303  0.02021697 10.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/4
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/4/partants/tableau
+1:[0.47927117 0.52072883 8.        ]
+2:[0.59634383 0.40365617 2.        ]
+3:[ 0.65800401  0.34199599 10.        ]
+4:[ 0.67979022  0.32020978 12.        ]
+5:[0.73984096 0.26015904 1.        ]
+6:[0.78412275 0.21587725 9.        ]
+7:[0.82885077 0.17114923 3.        ]
+8:[ 0.85464332  0.14535668 16.        ]
+9:[0.87984776 0.12015224 4.        ]
+10:[ 0.94955407  0.05044593 11.        ]
+11:[0.95582346 0.04417654 6.        ]
+12:[ 0.96615506  0.03384494 15.        ]
+13:[ 0.97979555  0.02020445 14.        ]
+14:[ 0.9818157  0.0181843 13.       ]
+15:[0.98252058 0.01747942 5.        ]
+16:[0.98254199 0.01745801 7.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/5
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/5/partants/tableau
+1:[0.15635784 0.84364216 9.        ]
+2:[0.33340473 0.66659527 8.        ]
+3:[0.43832906 0.56167094 6.        ]
+4:[ 0.44720531  0.55279469 12.        ]
+5:[0.55736371 0.44263629 3.        ]
+6:[0.74512736 0.25487264 5.        ]
+7:[0.78942887 0.21057113 2.        ]
+8:[ 0.87032974  0.12967026 13.        ]
+9:[0.88487133 0.11512867 1.        ]
+10:[ 0.92291063  0.07708937 11.        ]
+11:[0.96383267 0.03616733 4.        ]
+12:[ 0.96750175  0.03249825 10.        ]
+13:[0.97412156 0.02587844 7.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/6
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/6/partants/tableau
+1:[ 0.82410885  0.17589115 11.        ]
+2:[0.84531115 0.15468885 2.        ]
+3:[ 0.8733416  0.1266584 12.       ]
+4:[0.88726897 0.11273103 3.        ]
+5:[0.91710098 0.08289902 5.        ]
+6:[0.92381253 0.07618747 7.        ]
+7:[ 0.94268298  0.05731702 13.        ]
+8:[0.94507338 0.05492662 4.        ]
+9:[0.95757962 0.04242038 9.        ]
+10:[0.9600769 0.0399231 6.       ]
+11:[ 0.97583546  0.02416454 10.        ]
+12:[0.97958853 0.02041147 8.        ]
+13:[0.98110362 0.01889638 1.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/7
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/7/partants/tableau
+1:[ 0.11323689  0.88676311 13.        ]
+2:[0.25938062 0.74061938 1.        ]
+3:[ 0.31976175  0.68023825 11.        ]
+4:[0.32947984 0.67052016 5.        ]
+5:[0.64507602 0.35492398 6.        ]
+6:[0.78196324 0.21803676 4.        ]
+7:[ 0.79010848  0.20989152 12.        ]
+8:[0.79018318 0.20981682 2.        ]
+9:[0.85464672 0.14535328 7.        ]
+10:[0.90456807 0.09543193 3.        ]
+11:[ 0.95863332  0.04136668 10.        ]
+12:[ 0.96875939  0.03124061 14.        ]
+13:[ 0.96946633  0.03053367 15.        ]
+14:[0.97108748 0.02891252 9.        ]
+15:[0.98156447 0.01843553 8.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-02/7500/8
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-02/7500/8/partants/tableau
+1:[0.94846485 0.05153515 8.        ]
+2:[0.960626 0.039374 4.      ]
+3:[ 0.97187031  0.02812969 11.        ]
+4:[ 0.97362079  0.02637921 12.        ]
+5:[0.97512992 0.02487008 6.        ]
+6:[0.97556216 0.02443784 7.        ]
+7:[0.97679074 0.02320926 3.        ]
+8:[0.97768409 0.02231591 5.        ]
+9:[0.97956921 0.02043079 1.        ]
+10:[0.97998295 0.02001705 9.        ]
+11:[ 0.98051152  0.01948848 14.        ]
+12:[0.98160036 0.01839964 2.        ]
+13:[ 0.98619669  0.01380331 10.        ]
+14:[ 0.98688751  0.01311249 13.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/1
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/1/partants/tableau
+1:[ 0.65329443  0.34670557 12.        ]
+2:[ 0.86093764  0.13906236 11.        ]
+3:[0.88335307 0.11664693 7.        ]
+4:[0.8897116 0.1102884 9.       ]
+5:[ 0.92931964  0.07068036 10.        ]
+6:[ 0.96097925  0.03902075 15.        ]
+7:[0.96407917 0.03592083 3.        ]
+8:[0.97101968 0.02898032 4.        ]
+9:[0.97245115 0.02754885 6.        ]
+10:[0.97605104 0.02394896 8.        ]
+11:[ 0.97643436  0.02356564 16.        ]
+12:[0.97938619 0.02061381 5.        ]
+13:[0.97988751 0.02011249 2.        ]
+14:[0.97998083 0.02001917 1.        ]
+15:[ 0.98134722  0.01865278 13.        ]
+16:[ 0.98336587  0.01663413 14.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/2
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/2/partants/tableau
+1:[ 0.72799579  0.27200421 10.        ]
+2:[0.7883255 0.2116745 3.       ]
+3:[0.80370625 0.19629375 4.        ]
+4:[0.80649445 0.19350555 6.        ]
+5:[0.86759044 0.13240956 5.        ]
+6:[ 0.92873713  0.07126287 11.        ]
+7:[0.9747822 0.0252178 8.       ]
+8:[0.97733174 0.02266826 9.        ]
+9:[0.97887975 0.02112025 2.        ]
+10:[0.97946703 0.02053297 7.        ]
+11:[0.98207924 0.01792076 1.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/3
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/3/partants/tableau
+1:[ 0.45249476  0.54750524 13.        ]
+2:[0.74155363 0.25844637 6.        ]
+3:[ 0.86906535  0.13093465 12.        ]
+4:[ 0.90149569  0.09850431 10.        ]
+5:[0.91867743 0.08132257 9.        ]
+6:[0.93127023 0.06872977 5.        ]
+7:[0.93808471 0.06191529 7.        ]
+8:[0.93874567 0.06125433 8.        ]
+9:[0.94349771 0.05650229 4.        ]
+10:[ 0.95076247  0.04923753 11.        ]
+11:[0.95889014 0.04110986 2.        ]
+12:[0.96266688 0.03733312 3.        ]
+13:[0.97662611 0.02337389 1.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/4
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/4/partants/tableau
+1:[ 0.55054786  0.44945214 12.        ]
+2:[0.7793596 0.2206404 3.       ]
+3:[ 0.79415764  0.20584236 11.        ]
+4:[ 0.92264758  0.07735242 10.        ]
+5:[0.92849185 0.07150815 8.        ]
+6:[0.9428777 0.0571223 9.       ]
+7:[0.9770971 0.0229029 1.       ]
+8:[0.97920891 0.02079109 2.        ]
+9:[0.97996747 0.02003253 4.        ]
+10:[0.97998193 0.02001807 5.        ]
+11:[0.98192885 0.01807115 7.        ]
+12:[0.98199688 0.01800312 6.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/5
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/5/partants/tableau
+1:[0.319583 0.680417 1.      ]
+2:[ 0.37925783  0.62074217 11.        ]
+3:[0.44392017 0.55607983 8.        ]
+4:[ 0.67941777  0.32058223 14.        ]
+5:[0.754762 0.245238 4.      ]
+6:[0.82945491 0.17054509 6.        ]
+7:[ 0.8671443  0.1328557 13.       ]
+8:[0.89171558 0.10828442 9.        ]
+9:[ 0.94159205  0.05840795 16.        ]
+10:[ 0.95721968  0.04278032 12.        ]
+11:[ 0.95885667  0.04114333 15.        ]
+12:[0.96014901 0.03985099 7.        ]
+13:[0.97396266 0.02603734 3.        ]
+14:[ 0.97524439  0.02475561 10.        ]
+15:[0.9840751 0.0159249 2.       ]
+16:[0.98453581 0.01546419 5.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/6
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/6/partants/tableau
+1:[ 0.75721542  0.24278458 10.        ]
+2:[0.84193972 0.15806028 1.        ]
+3:[ 0.91293652  0.08706348 13.        ]
+4:[0.93623077 0.06376923 4.        ]
+5:[ 0.94220768  0.05779232 12.        ]
+6:[ 0.94239051  0.05760949 11.        ]
+7:[0.94939766 0.05060234 3.        ]
+8:[0.95311671 0.04688329 5.        ]
+9:[0.95632111 0.04367889 6.        ]
+10:[0.95894918 0.04105082 9.        ]
+11:[ 0.97340178  0.02659822 14.        ]
+12:[0.97355212 0.02644788 7.        ]
+13:[0.9790216 0.0209784 8.       ]
+14:[0.98104549 0.01895451 2.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/7
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/7/partants/tableau
+1:[0.32761767 0.67238233 6.        ]
+2:[ 0.45234197  0.54765803 10.        ]
+3:[0.74119947 0.25880053 3.        ]
+4:[ 0.84077361  0.15922639 14.        ]
+5:[0.85275171 0.14724829 5.        ]
+6:[0.87341277 0.12658723 4.        ]
+7:[0.93286515 0.06713485 9.        ]
+8:[0.95643682 0.04356318 8.        ]
+9:[ 0.96496676  0.03503324 15.        ]
+10:[0.9673128 0.0326872 1.       ]
+11:[0.97667514 0.02332486 7.        ]
+12:[ 0.97885718  0.02114282 13.        ]
+13:[0.97888056 0.02111944 2.        ]
+14:[ 0.97971347  0.02028653 12.        ]
+15:[ 0.98325872  0.01674128 11.        ]
+Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
+2022-12-03/1302/8
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/1302/8/partants/tableau
+1:[0.55558028 0.44441972 2.        ]
+2:[0.792986 0.207014 7.      ]
+3:[0.86865506 0.13134494 6.        ]
+4:[0.88507533 0.11492467 8.        ]
+5:[ 0.95810789  0.04189211 10.        ]
+6:[0.96489476 0.03510524 9.        ]
+7:[0.96839557 0.03160443 3.        ]
+8:[0.97809564 0.02190436 5.        ]
+9:[0.98014597 0.01985403 4.        ]
+10:[0.98251239 0.01748761 1.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/1
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/1/partants/tableau
+1:[0.49416528 0.50583472 4.        ]
+2:[ 0.58604037  0.41395963 10.        ]
+3:[0.67636806 0.32363194 8.        ]
+4:[0.79488966 0.20511034 9.        ]
+5:[0.82433621 0.17566379 7.        ]
+6:[0.90456103 0.09543897 5.        ]
+7:[ 0.91725842  0.08274158 13.        ]
+8:[0.93642613 0.06357387 1.        ]
+9:[0.95129184 0.04870816 6.        ]
+10:[0.95885584 0.04114416 3.        ]
+11:[ 0.97839975  0.02160025 14.        ]
+13:[0.9802059 0.0197941 2.       ]
+14:[ 0.98059307  0.01940693 11.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/2
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/2/partants/tableau
+1:[0.24044575 0.75955425 9.        ]
+2:[0.68153922 0.31846078 4.        ]
+3:[0.70394146 0.29605854 5.        ]
+4:[0.71972659 0.28027341 3.        ]
+5:[0.92848891 0.07151109 2.        ]
+6:[0.95727093 0.04272907 1.        ]
+7:[0.96988586 0.03011414 6.        ]
+8:[0.97879975 0.02120025 8.        ]
+9:[0.98090081 0.01909919 7.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/3
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/3/partants/tableau
+1:[0.37681613 0.62318387 1.        ]
+2:[0.52742264 0.47257736 4.        ]
+3:[0.56410148 0.43589852 9.        ]
+4:[ 0.77663029  0.22336971 11.        ]
+5:[0.84868937 0.15131063 6.        ]
+6:[ 0.87061493  0.12938507 14.        ]
+7:[0.88733857 0.11266143 7.        ]
+8:[0.89590722 0.10409278 2.        ]
+9:[0.95306532 0.04693468 8.        ]
+10:[ 0.95666595  0.04333405 12.        ]
+11:[ 0.97775961  0.02224039 13.        ]
+12:[0.97909106 0.02090894 5.        ]
+13:[0.98268788 0.01731212 3.        ]
+14:[ 0.98802818  0.01197182 10.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/4
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/4/partants/tableau
+1:[ 0.39969812  0.60030188 16.        ]
+2:[0.61415821 0.38584179 8.        ]
+3:[0.69794489 0.30205511 2.        ]
+4:[0.76464476 0.23535524 6.        ]
+5:[0.84030334 0.15969666 9.        ]
+6:[ 0.86441656  0.13558344 12.        ]
+7:[ 0.865491  0.134509 11.      ]
+8:[0.87109795 0.12890205 5.        ]
+9:[ 0.89218452  0.10781548 13.        ]
+10:[ 0.91534871  0.08465129 14.        ]
+11:[ 0.93053144  0.06946856 15.        ]
+12:[ 0.95701763  0.04298237 10.        ]
+13:[0.9602778 0.0397222 1.       ]
+14:[0.97310107 0.02689893 3.        ]
+15:[0.97940612 0.02059388 7.        ]
+16:[0.9816044 0.0183956 4.       ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/5
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/5/partants/tableau
+1:[0.27332947 0.72667053 3.        ]
+2:[0.54914631 0.45085369 8.        ]
+3:[0.82555888 0.17444112 9.        ]
+4:[0.87082549 0.12917451 1.        ]
+5:[0.92412112 0.07587888 2.        ]
+6:[0.93035734 0.06964266 7.        ]
+7:[0.95781774 0.04218226 4.        ]
+8:[0.97199903 0.02800097 6.        ]
+9:[0.98478672 0.01521328 5.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/6
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/6/partants/tableau
+1:[0.11023397 0.88976603 5.        ]
+2:[0.46995506 0.53004494 7.        ]
+3:[0.60619056 0.39380944 8.        ]
+4:[0.62901499 0.37098501 3.        ]
+5:[0.6319462 0.3680538 2.       ]
+6:[0.7284587 0.2715413 6.       ]
+7:[0.91199512 0.08800488 1.        ]
+8:[0.9832615 0.0167385 4.       ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/7
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/7/partants/tableau
+1:[0.13588004 0.86411996 1.        ]
+2:[0.29354401 0.70645599 2.        ]
+3:[0.59878945 0.40121055 7.        ]
+4:[0.65275709 0.34724291 3.        ]
+5:[ 0.82259283  0.17740717 10.        ]
+6:[0.84146983 0.15853017 5.        ]
+7:[0.85814297 0.14185703 9.        ]
+8:[0.88670391 0.11329609 8.        ]
+9:[ 0.88716594  0.11283406 12.        ]
+10:[0.91608481 0.08391519 6.        ]
+11:[0.94496693 0.05503307 4.        ]
+12:[ 0.97041734  0.02958266 11.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/8
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/8/partants/tableau
+1:[0.19917085 0.80082915 8.        ]
+2:[ 0.28787331  0.71212669 10.        ]
+3:[0.70924849 0.29075151 6.        ]
+4:[0.77443237 0.22556763 2.        ]
+5:[ 0.89963272  0.10036728 11.        ]
+6:[0.92448888 0.07551112 7.        ]
+7:[0.92562929 0.07437071 4.        ]
+8:[ 0.94430238  0.05569762 12.        ]
+9:[0.94817306 0.05182694 9.        ]
+10:[0.96653126 0.03346874 3.        ]
+11:[0.97946384 0.02053616 5.        ]
+12:[0.98782443 0.01217557 1.        ]
+Vincennes Hippodrome de Paris VINCENNES
+2022-12-03/7500/9
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/7500/9/partants/tableau
+1:[0.38339053 0.61660947 1.        ]
+2:[0.43756444 0.56243556 9.        ]
+3:[0.82126911 0.17873089 6.        ]
+4:[ 0.84367293  0.15632707 10.        ]
+5:[0.85988645 0.14011355 2.        ]
+6:[0.89488469 0.10511531 4.        ]
+7:[0.93702358 0.06297642 5.        ]
+8:[0.96627781 0.03372219 8.        ]
+9:[0.97340614 0.02659386 3.        ]
+10:[0.98735009 0.01264991 7.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/1
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/1/partants/tableau
+1:[0.28744524 0.71255476 3.        ]
+2:[0.72885577 0.27114423 9.        ]
+3:[0.72928886 0.27071114 5.        ]
+4:[ 0.919227  0.080773 11.      ]
+5:[0.96184331 0.03815669 2.        ]
+6:[0.96189639 0.03810361 4.        ]
+7:[0.96230928 0.03769072 7.        ]
+8:[ 0.96374611  0.03625389 14.        ]
+9:[0.97092866 0.02907134 6.        ]
+10:[ 0.97199356  0.02800644 12.        ]
+11:[0.97293584 0.02706416 8.        ]
+12:[ 0.9756256  0.0243744 10.       ]
+13:[ 0.97706834  0.02293166 15.        ]
+14:[0.97784676 0.02215324 1.        ]
+15:[ 0.97930174  0.02069826 16.        ]
+16:[ 0.97980021  0.02019979 13.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/2
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/2/partants/tableau
+1:[0.69433233 0.30566767 4.        ]
+2:[0.72930904 0.27069096 7.        ]
+3:[0.75247773 0.24752227 3.        ]
+4:[0.87712585 0.12287415 1.        ]
+5:[ 0.87991748  0.12008252 11.        ]
+6:[0.95407905 0.04592095 5.        ]
+7:[ 0.95813747  0.04186253 14.        ]
+8:[ 0.96047785  0.03952215 15.        ]
+9:[0.9621012 0.0378988 6.       ]
+10:[ 0.96705449  0.03294551 13.        ]
+11:[0.97300879 0.02699121 8.        ]
+12:[0.97469139 0.02530861 2.        ]
+13:[ 0.97758512  0.02241488 10.        ]
+14:[ 0.97797089  0.02202911 16.        ]
+15:[0.97808119 0.02191881 9.        ]
+16:[ 0.9782307  0.0217693 12.       ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/3
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/3/partants/tableau
+1:[ 0.16563699  0.83436301 10.        ]
+2:[0.57400304 0.42599696 8.        ]
+3:[ 0.7774434  0.2225566 13.       ]
+4:[0.81943337 0.18056663 2.        ]
+5:[0.83140864 0.16859136 1.        ]
+6:[0.8504353 0.1495647 5.       ]
+7:[0.85949031 0.14050969 6.        ]
+8:[0.86583417 0.13416583 4.        ]
+9:[ 0.92744979  0.07255021 11.        ]
+10:[0.94287969 0.05712031 3.        ]
+11:[ 0.96075059  0.03924941 14.        ]
+12:[0.96440271 0.03559729 7.        ]
+13:[0.97459394 0.02540606 9.        ]
+14:[ 0.97781011  0.02218989 16.        ]
+15:[ 0.97967233  0.02032767 12.        ]
+16:[9.8589868e-01 1.4101320e-02 1.5000000e+01]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/4
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/4/partants/tableau
+1:[0.25932642 0.74067358 3.        ]
+2:[ 0.75001975  0.24998025 12.        ]
+3:[ 0.76919307  0.23080693 14.        ]
+4:[ 0.84409467  0.15590533 11.        ]
+5:[0.86414749 0.13585251 4.        ]
+6:[ 0.88442581  0.11557419 16.        ]
+7:[ 0.90496758  0.09503242 13.        ]
+8:[0.95838395 0.04161605 5.        ]
+9:[0.95969007 0.04030993 2.        ]
+10:[0.96866794 0.03133206 9.        ]
+11:[0.97094872 0.02905128 8.        ]
+12:[0.97459337 0.02540663 7.        ]
+13:[ 0.97468968  0.02531032 15.        ]
+14:[ 0.9769145  0.0230855 10.       ]
+15:[0.98037032 0.01962968 6.        ]
+16:[0.98191616 0.01808384 1.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/5
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/5/partants/tableau
+1:[0.35192794 0.64807206 6.        ]
+2:[0.76332627 0.23667373 1.        ]
+3:[0.77748588 0.22251412 7.        ]
+4:[ 0.88962017  0.11037983 16.        ]
+5:[0.89843084 0.10156916 9.        ]
+6:[ 0.91323995  0.08676005 14.        ]
+7:[0.91799323 0.08200677 3.        ]
+8:[0.95320437 0.04679563 2.        ]
+9:[ 0.9581309  0.0418691 15.       ]
+10:[ 0.96161459  0.03838541 13.        ]
+11:[0.96375718 0.03624282 4.        ]
+12:[0.96761288 0.03238712 8.        ]
+13:[ 0.96784514  0.03215486 10.        ]
+14:[ 0.97875053  0.02124947 12.        ]
+15:[0.98495126 0.01504874 5.        ]
+16:[ 0.98740734  0.01259266 11.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/6
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/6/partants/tableau
+1:[0.90993574 0.09006426 1.        ]
+2:[0.92453258 0.07546742 4.        ]
+3:[0.93288982 0.06711018 5.        ]
+4:[ 0.95418967  0.04581033 11.        ]
+5:[0.95600527 0.04399473 7.        ]
+6:[ 0.96394199  0.03605801 12.        ]
+7:[ 0.96499459  0.03500541 15.        ]
+8:[0.96557924 0.03442076 8.        ]
+9:[ 0.97112359  0.02887641 10.        ]
+10:[0.97357865 0.02642135 6.        ]
+11:[ 0.97727811  0.02272189 16.        ]
+12:[0.98121871 0.01878129 3.        ]
+13:[0.98192241 0.01807759 9.        ]
+14:[0.98205321 0.01794679 2.        ]
+15:[ 0.98350578  0.01649422 14.        ]
+16:[9.87426617e-01 1.25733825e-02 1.30000000e+01]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/7
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/7/partants/tableau
+1:[0.50160373 0.49839627 8.        ]
+2:[0.69935462 0.30064538 3.        ]
+3:[ 0.77864616  0.22135384 10.        ]
+4:[0.88651719 0.11348281 2.        ]
+5:[0.88795179 0.11204821 6.        ]
+6:[0.89682894 0.10317106 9.        ]
+7:[ 0.91576889  0.08423111 13.        ]
+8:[ 0.92161361  0.07838639 14.        ]
+9:[0.93319752 0.06680248 4.        ]
+10:[ 0.96599951  0.03400049 12.        ]
+11:[ 0.96998712  0.03001288 15.        ]
+12:[0.97022476 0.02977524 5.        ]
+13:[0.97219863 0.02780137 7.        ]
+14:[ 0.97428204  0.02571796 11.        ]
+15:[ 0.97492555  0.02507445 16.        ]
+16:[0.97629026 0.02370974 1.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/8
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/8/partants/tableau
+1:[ 0.82457258  0.17542742 10.        ]
+2:[ 0.83926854  0.16073146 15.        ]
+3:[ 0.9230711  0.0769289 11.       ]
+4:[ 0.92816239  0.07183761 18.        ]
+5:[ 0.9326083  0.0673917 13.       ]
+6:[ 0.94173044  0.05826956 17.        ]
+7:[0.96940626 0.03059374 4.        ]
+8:[0.9718469 0.0281531 7.       ]
+9:[0.97419692 0.02580308 6.        ]
+10:[ 0.97491245  0.02508755 14.        ]
+11:[0.975185 0.024815 2.      ]
+12:[0.9757683 0.0242317 8.       ]
+13:[ 0.9787826  0.0212174 12.       ]
+14:[0.98070707 0.01929293 9.        ]
+15:[ 0.98086006  0.01913994 16.        ]
+16:[0.98361693 0.01638307 3.        ]
+17:[0.98435999 0.01564001 5.        ]
+18:[0.98681517 0.01318483 1.        ]
+Hippodrome d'Eventard ANGERS
+2022-12-03/4901/9
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2022-12-03/4901/9/partants/tableau
+1:[0.81358002 0.18641998 8.        ]
+2:[ 0.92961596  0.07038404 12.        ]
+3:[0.94866899 0.05133101 4.        ]
+4:[ 0.95452243  0.04547757 13.        ]
+5:[0.95628877 0.04371123 7.        ]
+6:[0.9586742 0.0413258 5.       ]
+7:[0.96781772 0.03218228 9.        ]
+8:[0.96970272 0.03029728 2.        ]
+9:[0.97425932 0.02574068 1.        ]
+10:[ 0.97521578  0.02478422 14.        ]
+11:[0.97751801 0.02248199 6.        ]
+12:[ 0.9786496  0.0213504 10.       ]
+13:[ 0.97979817  0.02020183 11.        ]
+14:[0.98198107 0.01801893 3.        ]
