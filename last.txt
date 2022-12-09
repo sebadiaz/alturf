@@ -1,4 +1,4 @@
-ven. 09 déc. 2022 12:00:08 CET
+ven. 09 déc. 2022 16:00:08 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=09-12-2022&publish_down=10-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-09/7616/json
 https://www.letrot.com/stats/courses/programme/2022-12-09/7500/json
@@ -82,7 +82,7 @@ https://www.letrot.com/stats/fiche-course/2022-12-09/7616/4/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2022-12-09/7616/4/partants/tableau
 1:[0.27038431 0.72961569 9.        ]
 2:[ 0.35831725  0.64168275 15.        ]
-3:[0.61175511 0.38824489 2.        ]
+3:[0.61087396 0.38912604 2.        ]
 4:[ 0.63749578  0.36250422 10.        ]
 5:[ 0.81977327  0.18022673 14.        ]
 6:[0.86169833 0.13830167 5.        ]
