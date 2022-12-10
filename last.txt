@@ -1,4 +1,4 @@
-sam. 10 déc. 2022 08:00:08 CET
+sam. 10 déc. 2022 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=10-12-2022&publish_down=11-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-10/7500/json
 https://www.letrot.com/stats/courses/programme/2022-12-10/1475/json
@@ -167,9 +167,8 @@ https://www.letrot.com/stats/fiche-course/2022-12-10/7500/8/partants/tableau
 4:[ 0.76099306  0.23900694 12.        ]
 5:[0.76644963 0.23355037 4.        ]
 6:[ 0.89200712  0.10799288 14.        ]
-7:[0.93127654 0.06872346 9.        ]
-8:[0.93132041 0.06867959 2.        ]
-9:[0.95568866 0.04431134 7.        ]
+7:[0.93132041 0.06867959 2.        ]
+8:[0.95568866 0.04431134 7.        ]
 10:[ 0.96633276  0.03366724 16.        ]
 11:[ 0.97113693  0.02886307 11.        ]
 12:[0.97370842 0.02629158 6.        ]
