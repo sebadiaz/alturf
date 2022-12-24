@@ -1,4 +1,4 @@
-sam. 24 déc. 2022 12:00:09 CET
+sam. 24 déc. 2022 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=24-12-2022&publish_down=25-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-24/7500/json
 https://www.letrot.com/stats/courses/programme/2022-12-24/8203/json
@@ -88,15 +88,14 @@ https://www.letrot.com/stats/fiche-course/2022-12-24/7500/5/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-12-24/7500/5/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-24/7500/5/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-24/7500/5/partants/tableau
-1:[0.59720815 0.40279185 9.        ]
-2:[0.71381062 0.28618938 7.        ]
-3:[ 0.78395312  0.21604688 11.        ]
-4:[0.86425572 0.13574428 4.        ]
-5:[ 0.90369402  0.09630598 10.        ]
-6:[0.90920491 0.09079509 5.        ]
-7:[0.96040425 0.03959575 6.        ]
-8:[0.96665304 0.03334696 1.        ]
-9:[0.97292289 0.02707711 8.        ]
+1:[0.71381062 0.28618938 7.        ]
+2:[ 0.78395312  0.21604688 11.        ]
+3:[0.86425572 0.13574428 4.        ]
+4:[ 0.90369402  0.09630598 10.        ]
+5:[0.90920491 0.09079509 5.        ]
+6:[0.96040425 0.03959575 6.        ]
+7:[0.96665304 0.03334696 1.        ]
+8:[0.97292289 0.02707711 8.        ]
 10:[0.98020058 0.01979942 3.        ]
 11:[0.98329122 0.01670878 2.        ]
 Vincennes Hippodrome de Paris VINCENNES
@@ -268,13 +267,12 @@ https://www.letrot.com/stats/fiche-course/2022-12-24/8203/4/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-12-24/8203/4/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-24/8203/4/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-24/8203/4/partants/tableau
-1:[0.46235868 0.53764132 7.        ]
-2:[0.58197398 0.41802602 8.        ]
-3:[0.84167939 0.15832061 9.        ]
-4:[0.88939212 0.11060788 3.        ]
-5:[ 0.93018559  0.06981441 11.        ]
-6:[0.93307525 0.06692475 5.        ]
-7:[ 0.94793855  0.05206145 12.        ]
+1:[0.58197398 0.41802602 8.        ]
+2:[0.84167939 0.15832061 9.        ]
+3:[0.88939212 0.11060788 3.        ]
+4:[ 0.93018559  0.06981441 11.        ]
+5:[0.93307525 0.06692475 5.        ]
+6:[ 0.94793855  0.05206145 12.        ]
 8:[0.97079428 0.02920572 6.        ]
 9:[ 0.97351235  0.02648765 10.        ]
 10:[0.97449726 0.02550274 2.        ]
