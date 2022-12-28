@@ -1,4 +1,4 @@
-mer. 28 déc. 2022 08:00:01 CET
+mer. 28 déc. 2022 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=28-12-2022&publish_down=29-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-28/4417/json
 https://www.letrot.com/stats/courses/programme/2022-12-29/3302/json
@@ -32,9 +32,8 @@ https://www.letrot.com/stats/fiche-course/2022-12-28/4417/2/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2022-12-28/4417/2/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-28/4417/2/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2022-12-28/4417/2/partants/tableau
-1:[ 0.94781719  0.05218281 14.        ]
-2:[0.96431596 0.03568404 8.        ]
-3:[0.96626246 0.03373754 1.        ]
+2:[ 0.94781719  0.05218281 14.        ]
+3:[0.96431596 0.03568404 8.        ]
 4:[0.96716523 0.03283477 5.        ]
 5:[0.97070198 0.02929802 9.        ]
 6:[0.97327468 0.02672532 2.        ]
