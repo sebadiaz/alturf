@@ -1,5 +1,5 @@
 # Daily Turf on ['28122022']
-##### Last Refresh 2022-12-28 21:40:11.081387
+##### Last Refresh 2022-12-28 21:50:10.650513
 
 ## 2022-12-28 12:07:00 HIPPODROME DE CAGNES/MER 1 1
 ### OBSTACLE
