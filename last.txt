@@ -1,4 +1,4 @@
-mer. 28 déc. 2022 16:00:10 CET
+mer. 28 déc. 2022 18:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=28-12-2022&publish_down=29-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-28/4417/json
 https://www.letrot.com/stats/courses/programme/2022-12-29/3302/json
@@ -42,10 +42,10 @@ https://www.letrot.com/stats/fiche-course/2022-12-28/4417/2/partants/tableau
 9:[ 0.97763097  0.02236903 12.        ]
 10:[ 0.98016149  0.01983851 10.        ]
 11:[ 0.98181561  0.01818439 15.        ]
-12:[0.98297547 0.01702453 7.        ]
-13:[ 0.98352639  0.01647361 11.        ]
-14:[0.98494037 0.01505963 3.        ]
-15:[ 0.98606176  0.01393824 13.        ]
+12:[ 0.98289997  0.01710003 13.        ]
+13:[0.98297547 0.01702453 7.        ]
+14:[ 0.98352639  0.01647361 11.        ]
+15:[0.98494037 0.01505963 3.        ]
 Hippodrome du Calvaire - Magdeleine PONTCHATEAU
 2022-12-28/4417/3
 https://www.letrot.com/stats/fiche-course/2022-12-28/4417/3/partants/drivers/paginate
@@ -447,7 +447,7 @@ https://www.letrot.com/stats/fiche-course/2022-12-29/7500/5/partants/tableau
 12:[0.97407362 0.02592638 6.        ]
 13:[0.97519991 0.02480009 7.        ]
 14:[0.9756499 0.0243501 9.       ]
-15:[ 0.98289706  0.01710294 14.        ]
+15:[ 0.98237454  0.01762546 14.        ]
 16:[0.98673271 0.01326729 4.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2022-12-29/7500/6
