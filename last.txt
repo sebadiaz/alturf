@@ -1,4 +1,4 @@
-ven. 30 déc. 2022 08:00:01 CET
+ven. 30 déc. 2022 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=30-12-2022&publish_down=31-12-2022
 https://www.letrot.com/stats/courses/programme/2022-12-30/8201/json
 https://www.letrot.com/stats/courses/programme/2022-12-30/7500/json
@@ -134,9 +134,8 @@ https://www.letrot.com/stats/fiche-course/2022-12-30/8201/6/partants/tableau
 10:[0.9723069 0.0276931 8.       ]
 11:[ 0.97630105  0.02369895 12.        ]
 12:[0.97882771 0.02117229 9.        ]
-13:[ 0.97981966  0.02018034 15.        ]
-14:[0.9805801 0.0194199 6.       ]
-15:[0.9827478 0.0172522 2.       ]
+13:[0.9805801 0.0194199 6.       ]
+14:[0.9827478 0.0172522 2.       ]
 Hippodrome de Borde-Vieille BEAUMONT DE LOMAGNE
 2022-12-30/8201/7
 https://www.letrot.com/stats/fiche-course/2022-12-30/8201/7/partants/drivers/paginate
