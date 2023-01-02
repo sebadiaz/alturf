@@ -1,5 +1,5 @@
 # Daily Turf on ['02012023']
-##### Last Refresh 2023-01-02 21:00:11.946020
+##### Last Refresh 2023-01-02 21:10:11.123784
 
 ## 2023-01-02 11:55:00 HIPPODROME DE PAU 1 1
 ### OBSTACLE
