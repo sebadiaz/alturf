@@ -1,4 +1,4 @@
-mar. 03 janv. 2023 16:00:09 CET
+mar. 03 janv. 2023 18:00:10 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=03-01-2023&publish_down=04-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-03/3103/json
 https://www.letrot.com/stats/courses/programme/2023-01-03/7500/json
@@ -12,13 +12,13 @@ https://www.letrot.com/stats/fiche-course/2023-01-03/3103/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-01-03/3103/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-03/3103/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-03/3103/1/partants/tableau
-1:[0.74312262 0.25687738 3.        ]
-2:[0.83848554 0.16151446 4.        ]
-3:[0.90569815 0.09430185 7.        ]
-4:[0.97767538 0.02232462 5.        ]
-5:[0.97933894 0.02066106 2.        ]
-6:[0.98026035 0.01973965 1.        ]
-7:[0.98415396 0.01584604 6.        ]
+1:[0.36364116 0.63635884 5.        ]
+2:[0.36846606 0.63153394 6.        ]
+3:[0.70567272 0.29432728 3.        ]
+4:[0.86045986 0.13954014 4.        ]
+5:[0.92278112 0.07721888 7.        ]
+6:[0.97958612 0.02041388 2.        ]
+7:[0.98049673 0.01950327 1.        ]
 Hippodrome de La Cépière TOULOUSE
 2023-01-03/3103/2
 https://www.letrot.com/stats/fiche-course/2023-01-03/3103/2/partants/drivers/paginate
