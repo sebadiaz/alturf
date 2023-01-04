@@ -1,4 +1,4 @@
-mer. 04 janv. 2023 12:00:01 CET
+mer. 04 janv. 2023 16:00:10 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=04-01-2023&publish_down=05-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-04/0601/json
 https://www.letrot.com/stats/courses/programme/2023-01-04/7500/json
@@ -37,8 +37,7 @@ https://www.letrot.com/stats/fiche-course/2023-01-04/0601/2/partants/tableau
 3:[0.75465919 0.24534081 6.        ]
 4:[0.81243884 0.18756116 1.        ]
 5:[0.87456411 0.12543589 2.        ]
-6:[0.92242055 0.07757945 7.        ]
-7:[ 0.94799509  0.05200491 10.        ]
+6:[ 0.94799509  0.05200491 10.        ]
 8:[0.96009057 0.03990943 3.        ]
 9:[0.97741889 0.02258111 5.        ]
 10:[0.98184879 0.01815121 9.        ]
