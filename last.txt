@@ -1,4 +1,4 @@
-lun. 09 janv. 2023 12:00:16 CET
+lun. 09 janv. 2023 16:00:12 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=09-01-2023&publish_down=10-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-09/3103/json
 https://www.letrot.com/stats/courses/programme/2023-01-09/7500/json
@@ -388,11 +388,10 @@ https://www.letrot.com/stats/fiche-course/2023-01-09/4404/3/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2023-01-09/4404/3/partants/tableau
 1:[ 0.34880846  0.65119154 10.        ]
 2:[0.39310912 0.60689088 7.        ]
-3:[ 0.54592559  0.45407441 14.        ]
-4:[0.80856747 0.19143253 8.        ]
-5:[ 0.82462718  0.17537282 11.        ]
-6:[0.86092388 0.13907612 1.        ]
-7:[0.90692043 0.09307957 3.        ]
+4:[ 0.54592559  0.45407441 14.        ]
+5:[0.80856747 0.19143253 8.        ]
+6:[ 0.82462718  0.17537282 11.        ]
+7:[0.86092388 0.13907612 1.        ]
 8:[0.93353855 0.06646145 6.        ]
 9:[0.94686272 0.05313728 4.        ]
 10:[ 0.95622161  0.04377839 13.        ]
