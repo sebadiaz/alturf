@@ -1,4 +1,4 @@
-jeu. 12 janv. 2023 12:00:01 CET
+jeu. 12 janv. 2023 16:00:12 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=12-01-2023&publish_down=13-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-12/0601/json
 https://www.letrot.com/stats/courses/programme/2023-01-12/4413/json
@@ -59,16 +59,15 @@ https://www.letrot.com/stats/fiche-course/2023-01-12/0601/3/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2023-01-12/0601/3/partants/tableau
 1:[0.57299017 0.42700983 9.        ]
 2:[0.61431712 0.38568288 7.        ]
-3:[0.74886357 0.25113643 8.        ]
-4:[0.87509869 0.12490131 1.        ]
-5:[ 0.91046584  0.08953416 10.        ]
-6:[ 0.9597703  0.0402297 12.       ]
-7:[0.96862896 0.03137104 2.        ]
-8:[0.97003808 0.02996192 5.        ]
-9:[0.97125688 0.02874312 6.        ]
-10:[ 0.97130513  0.02869487 11.        ]
-11:[0.97228911 0.02771089 4.        ]
-12:[0.97311117 0.02688883 3.        ]
+4:[0.74886357 0.25113643 8.        ]
+5:[0.87509869 0.12490131 1.        ]
+6:[ 0.91046584  0.08953416 10.        ]
+7:[ 0.9597703  0.0402297 12.       ]
+8:[0.96862896 0.03137104 2.        ]
+9:[0.97003808 0.02996192 5.        ]
+10:[0.97125688 0.02874312 6.        ]
+11:[ 0.97130513  0.02869487 11.        ]
+12:[0.97228911 0.02771089 4.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
 2023-01-12/0601/4
 https://www.letrot.com/stats/fiche-course/2023-01-12/0601/4/partants/drivers/paginate
