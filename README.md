@@ -1,5 +1,5 @@
 # Daily Turf on ['16012023']
-##### Last Refresh 2023-01-16 22:20:18.150572
+##### Last Refresh 2023-01-16 22:30:13.495809
 
 ## 2023-01-16 13:05:00 HIPPODROME DE CAGNES/MER 1 1
 ### PLAT
