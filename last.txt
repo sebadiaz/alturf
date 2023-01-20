@@ -1,4 +1,4 @@
-ven. 20 janv. 2023 12:00:12 CET
+ven. 20 janv. 2023 18:00:18 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=20-01-2023&publish_down=21-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-20/0601/json
 https://www.letrot.com/stats/courses/programme/2023-01-20/4405/json
@@ -50,11 +50,10 @@ https://www.letrot.com/stats/fiche-course/2023-01-20/0601/3/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2023-01-20/0601/3/partants/tableau
 1:[0.68833573 0.31166427 5.        ]
 2:[0.69413275 0.30586725 6.        ]
-3:[0.81404946 0.18595054 7.        ]
-4:[0.83396633 0.16603367 1.        ]
-5:[0.85112501 0.14887499 9.        ]
-6:[0.90432583 0.09567417 4.        ]
-7:[0.92081305 0.07918695 3.        ]
+4:[0.81404946 0.18595054 7.        ]
+5:[0.83396633 0.16603367 1.        ]
+6:[0.85112501 0.14887499 9.        ]
+7:[0.90432583 0.09567417 4.        ]
 8:[0.93917915 0.06082085 2.        ]
 9:[0.98291869 0.01708131 8.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
@@ -135,13 +134,12 @@ https://www.letrot.com/stats/fiche-course/2023-01-20/0601/8/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-01-20/0601/8/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-20/0601/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-20/0601/8/partants/tableau
-1:[0.13944396 0.86055604 7.        ]
-2:[0.14401142 0.85598858 4.        ]
-3:[0.42418787 0.57581213 8.        ]
-4:[0.47531701 0.52468299 9.        ]
-5:[0.74266819 0.25733181 6.        ]
-6:[0.89193134 0.10806866 5.        ]
-7:[0.97482909 0.02517091 1.        ]
+2:[0.13944396 0.86055604 7.        ]
+3:[0.14401142 0.85598858 4.        ]
+4:[0.42418787 0.57581213 8.        ]
+5:[0.47531701 0.52468299 9.        ]
+6:[0.74266819 0.25733181 6.        ]
+7:[0.89193134 0.10806866 5.        ]
 8:[0.97770514 0.02229486 2.        ]
 9:[0.98849145 0.01150855 3.        ]
 Hippodrome de la Loire CORDEMAIS
