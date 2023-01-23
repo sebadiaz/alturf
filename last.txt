@@ -1,4 +1,4 @@
-lun. 23 janv. 2023 08:00:01 CET
+lun. 23 janv. 2023 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=23-01-2023&publish_down=24-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-23/4701/json
 https://www.letrot.com/stats/courses/programme/2023-01-23/7500/json
@@ -145,15 +145,14 @@ https://www.letrot.com/stats/fiche-course/2023-01-23/4701/8/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-01-23/4701/8/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-23/4701/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-23/4701/8/partants/tableau
-1:[0.65301029 0.34698971 7.        ]
-2:[0.82321909 0.17678091 8.        ]
-3:[0.82521899 0.17478101 3.        ]
-4:[0.82598734 0.17401266 6.        ]
-5:[ 0.8681313  0.1318687 10.       ]
-6:[0.89360965 0.10639035 2.        ]
-7:[0.90867826 0.09132174 4.        ]
-8:[0.9575298 0.0424702 5.       ]
-9:[0.97910405 0.02089595 1.        ]
+2:[0.65301029 0.34698971 7.        ]
+3:[0.82321909 0.17678091 8.        ]
+4:[0.82521899 0.17478101 3.        ]
+5:[0.82598734 0.17401266 6.        ]
+6:[ 0.8681313  0.1318687 10.       ]
+7:[0.89360965 0.10639035 2.        ]
+8:[0.90867826 0.09132174 4.        ]
+9:[0.9575298 0.0424702 5.       ]
 10:[0.98254785 0.01745215 9.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2023-01-23/7500/1
