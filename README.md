@@ -1,5 +1,5 @@
 # Daily Turf on ['25012023']
-##### Last Refresh 2023-01-25 22:00:13.891161
+##### Last Refresh 2023-01-25 22:10:14.562353
 
 ## 2023-01-25 13:05:00 HIPPODROME DE PAU 1 1
 ### PLAT
