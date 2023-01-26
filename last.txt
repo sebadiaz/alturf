@@ -1,4 +1,4 @@
-jeu. 26 janv. 2023 12:00:12 CET
+jeu. 26 janv. 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=26-01-2023&publish_down=27-01-2023
 https://www.letrot.com/stats/courses/programme/2023-01-26/7500/json
 https://www.letrot.com/stats/courses/programme/2023-01-27/0601/json
@@ -58,20 +58,19 @@ https://www.letrot.com/stats/fiche-course/2023-01-26/7500/3/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-01-26/7500/3/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-26/7500/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-26/7500/3/partants/tableau
-1:[0.39566747 0.60433253 8.        ]
-2:[ 0.95125074  0.04874926 10.        ]
-3:[0.96795767 0.03204233 1.        ]
-4:[ 0.9719669  0.0280331 14.       ]
-5:[ 0.9730376  0.0269624 12.       ]
-6:[0.9735431 0.0264569 7.       ]
-7:[ 0.97474323  0.02525677 13.        ]
-8:[0.97483842 0.02516158 4.        ]
-9:[0.97584606 0.02415394 6.        ]
-10:[0.97600901 0.02399099 2.        ]
-11:[0.97650352 0.02349648 3.        ]
-12:[ 0.9787682  0.0212318 11.       ]
-13:[0.98312321 0.01687679 5.        ]
-14:[0.98415932 0.01584068 9.        ]
+1:[0.43184775 0.56815225 8.        ]
+2:[0.95044892 0.04955108 9.        ]
+3:[ 0.9544028  0.0455972 12.       ]
+4:[ 0.96915232  0.03084768 13.        ]
+5:[0.9707409 0.0292591 3.       ]
+6:[0.97163041 0.02836959 5.        ]
+7:[0.97265326 0.02734674 6.        ]
+8:[0.97444603 0.02555397 1.        ]
+9:[ 0.97616558  0.02383442 10.        ]
+10:[0.97698524 0.02301476 2.        ]
+11:[0.98222104 0.01777896 7.        ]
+12:[ 0.98652012  0.01347988 11.        ]
+13:[0.98859376 0.01140624 4.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2023-01-26/7500/4
 https://www.letrot.com/stats/fiche-course/2023-01-26/7500/4/partants/drivers/paginate
@@ -111,7 +110,6 @@ https://www.letrot.com/stats/fiche-course/2023-01-26/7500/5/partants/tableau
 10:[0.9027936 0.0972064 7.       ]
 11:[0.91327107 0.08672893 1.        ]
 12:[0.92447855 0.07552145 9.        ]
-13:[ 0.93576861  0.06423139 13.        ]
 14:[ 0.93636397  0.06363603 12.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2023-01-26/7500/6
