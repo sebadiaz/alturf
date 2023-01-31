@@ -1,4 +1,4 @@
-mar. 31 janv. 2023 08:00:14 CET
+mar. 31 janv. 2023 12:00:02 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=31-01-2023&publish_down=01-02-2023
 https://www.letrot.com/stats/courses/programme/2023-01-31/3302/json
 https://www.letrot.com/stats/courses/programme/2023-01-31/1302/json
@@ -195,10 +195,9 @@ https://www.letrot.com/stats/fiche-course/2023-01-31/1302/3/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-01-31/1302/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-31/1302/3/partants/tableau
 1:[0.72839758 0.27160242 6.        ]
-2:[0.83069854 0.16930146 5.        ]
-3:[0.88284736 0.11715264 3.        ]
-4:[0.90152333 0.09847667 9.        ]
-5:[0.9315339 0.0684661 8.       ]
+2:[0.88284736 0.11715264 3.        ]
+3:[0.90152333 0.09847667 9.        ]
+4:[0.9315339 0.0684661 8.       ]
 6:[0.95914181 0.04085819 4.        ]
 7:[0.96974939 0.03025061 2.        ]
 8:[0.9759798 0.0240202 1.       ]
@@ -248,10 +247,9 @@ https://www.letrot.com/stats/fiche-course/2023-01-31/1302/6/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-01-31/1302/6/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-01-31/1302/6/partants/tableau
 1:[0.56870522 0.43129478 6.        ]
-2:[0.6771835 0.3228165 5.       ]
-3:[0.84606007 0.15393993 7.        ]
-4:[0.87289671 0.12710329 4.        ]
-5:[0.92090481 0.07909519 9.        ]
+2:[0.84606007 0.15393993 7.        ]
+3:[0.87289671 0.12710329 4.        ]
+4:[0.92090481 0.07909519 9.        ]
 6:[0.94676568 0.05323432 3.        ]
 7:[0.97862565 0.02137435 2.        ]
 8:[0.979401 0.020599 8.      ]
@@ -287,10 +285,9 @@ https://www.letrot.com/stats/fiche-course/2023-01-31/1302/8/partants/tableau
 3:[0.43006054 0.56993946 2.        ]
 4:[0.77984938 0.22015062 8.        ]
 5:[0.82741745 0.17258255 3.        ]
-6:[0.93474014 0.06525986 4.        ]
-7:[0.96685563 0.03314437 9.        ]
-8:[0.97926111 0.02073889 1.        ]
-9:[0.98259684 0.01740316 6.        ]
+7:[0.93474014 0.06525986 4.        ]
+8:[0.96685563 0.03314437 9.        ]
+9:[0.97926111 0.02073889 1.        ]
 Hippodrome d'Eventard ANGERS
 2023-02-01/4901/1
 https://www.letrot.com/stats/fiche-course/2023-02-01/4901/1/partants/drivers/paginate
