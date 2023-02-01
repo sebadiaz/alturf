@@ -1,4 +1,4 @@
-mer. 01 févr. 2023 12:00:23 CET
+mer. 01 févr. 2023 16:00:15 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=01-02-2023&publish_down=02-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-01/4901/json
 https://www.letrot.com/stats/courses/programme/2023-02-01/0601/json
@@ -269,7 +269,6 @@ https://www.letrot.com/stats/fiche-course/2023-02-01/0601/5/partants/tableau
 3:[0.86307767 0.13692233 3.        ]
 4:[0.89490788 0.10509212 4.        ]
 5:[0.95060922 0.04939078 5.        ]
-6:[0.95864383 0.04135617 6.        ]
 7:[0.96977347 0.03022653 7.        ]
 8:[0.98600596 0.01399404 1.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
@@ -344,8 +343,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-02/6902/2/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2023-02-02/6902/2/partants/tableau
 1:[0.83614496 0.16385504 5.        ]
 2:[0.91271715 0.08728285 7.        ]
-3:[0.93382034 0.06617966 4.        ]
-4:[0.96210757 0.03789243 2.        ]
+3:[0.96210757 0.03789243 2.        ]
 5:[0.96692095 0.03307905 8.        ]
 6:[0.9676078 0.0323922 9.       ]
 7:[0.96992045 0.03007955 6.        ]
@@ -456,13 +454,12 @@ https://www.letrot.com/stats/fiche-course/2023-02-02/6902/8/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-02/6902/8/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-02/6902/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-02/6902/8/partants/tableau
-1:[ 0.31900255  0.68099745 10.        ]
-2:[0.75188697 0.24811303 7.        ]
-3:[0.78639042 0.21360958 6.        ]
-4:[0.97709858 0.02290142 5.        ]
-5:[0.97795485 0.02204515 3.        ]
-6:[0.97874625 0.02125375 9.        ]
-7:[0.97942304 0.02057696 1.        ]
+2:[ 0.31900255  0.68099745 10.        ]
+3:[0.75188697 0.24811303 7.        ]
+4:[0.78639042 0.21360958 6.        ]
+5:[0.97709858 0.02290142 5.        ]
+6:[0.97795485 0.02204515 3.        ]
+7:[0.97874625 0.02125375 9.        ]
 8:[0.9806208 0.0193792 8.       ]
 9:[ 0.9810755  0.0189245 11.       ]
 10:[0.98247216 0.01752784 4.        ]
