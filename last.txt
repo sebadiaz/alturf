@@ -1,4 +1,4 @@
-jeu. 02 févr. 2023 12:00:01 CET
+jeu. 02 févr. 2023 16:00:28 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=02-02-2023&publish_down=03-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-02/6902/json
 https://www.letrot.com/stats/courses/programme/2023-02-02/7500/json
@@ -244,10 +244,10 @@ https://www.letrot.com/stats/fiche-course/2023-02-02/7500/5/partants/tableau
 7:[0.93912206 0.06087794 5.        ]
 8:[0.93956704 0.06043296 2.        ]
 9:[ 0.95967028  0.04032972 11.        ]
-10:[0.96254321 0.03745679 6.        ]
-11:[ 0.96490936  0.03509064 15.        ]
-12:[ 0.9686127  0.0313873 14.       ]
-13:[0.9706337 0.0293663 8.       ]
+10:[ 0.96490936  0.03509064 15.        ]
+11:[ 0.9686127  0.0313873 14.       ]
+12:[0.9706337 0.0293663 8.       ]
+13:[0.97520692 0.02479308 6.        ]
 14:[0.97619832 0.02380168 7.        ]
 15:[ 0.9816049  0.0183951 13.       ]
 Vincennes Hippodrome de Paris VINCENNES
