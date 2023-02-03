@@ -1,4 +1,4 @@
-ven. 03 févr. 2023 12:00:02 CET
+ven. 03 févr. 2023 16:00:17 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=03-02-2023&publish_down=04-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-03/0601/json
 https://www.letrot.com/stats/courses/programme/2023-02-03/7500/json
@@ -43,14 +43,13 @@ https://www.letrot.com/stats/fiche-course/2023-02-03/0601/3/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/3/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/3/partants/tableau
-1:[0.6854026 0.3145974 8.       ]
-2:[0.96625691 0.03374309 6.        ]
-3:[0.96965704 0.03034296 5.        ]
-4:[0.97208514 0.02791486 7.        ]
-5:[0.97502916 0.02497084 4.        ]
-6:[0.97503086 0.02496914 3.        ]
-7:[0.97577601 0.02422399 2.        ]
-8:[0.97722245 0.02277755 1.        ]
+2:[0.6854026 0.3145974 8.       ]
+3:[0.96625691 0.03374309 6.        ]
+4:[0.96965704 0.03034296 5.        ]
+5:[0.97208514 0.02791486 7.        ]
+6:[0.97502916 0.02497084 4.        ]
+7:[0.97503086 0.02496914 3.        ]
+8:[0.97577601 0.02422399 2.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
 2023-02-03/0601/4
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/4/partants/drivers/paginate
@@ -81,14 +80,13 @@ https://www.letrot.com/stats/fiche-course/2023-02-03/0601/5/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/5/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/5/partants/tableau
 1:[0.12867603 0.87132397 3.        ]
-2:[0.70977681 0.29022319 9.        ]
-3:[0.91364786 0.08635214 8.        ]
-4:[0.92083161 0.07916839 4.        ]
-5:[0.97262698 0.02737302 5.        ]
-6:[0.97430105 0.02569895 6.        ]
-7:[0.97483526 0.02516474 1.        ]
-8:[0.97788791 0.02211209 7.        ]
-9:[0.97893856 0.02106144 2.        ]
+2:[0.91364786 0.08635214 8.        ]
+3:[0.92083161 0.07916839 4.        ]
+4:[0.97262698 0.02737302 5.        ]
+5:[0.97430105 0.02569895 6.        ]
+6:[0.97483526 0.02516474 1.        ]
+7:[0.97788791 0.02211209 7.        ]
+8:[0.97893856 0.02106144 2.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
 2023-02-03/0601/6
 https://www.letrot.com/stats/fiche-course/2023-02-03/0601/6/partants/drivers/paginate
@@ -177,7 +175,6 @@ https://www.letrot.com/stats/fiche-course/2023-02-03/7500/2/partants/tableau
 6:[0.88440811 0.11559189 6.        ]
 7:[0.89873725 0.10126275 7.        ]
 8:[0.91414442 0.08585558 4.        ]
-9:[0.96554406 0.03445594 9.        ]
 10:[ 0.97090634  0.02909366 11.        ]
 11:[ 0.97682297  0.02317703 12.        ]
 12:[0.97831665 0.02168335 5.        ]
