@@ -1,4 +1,4 @@
-mar. 07 févr. 2023 12:00:15 CET
+mar. 07 févr. 2023 16:00:13 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=07-02-2023&publish_down=08-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-07/4404/json
 https://www.letrot.com/stats/courses/programme/2023-02-07/5008/json
@@ -12,20 +12,20 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/1/partants/tableau
-2:[0.33246559 0.66753441 7.        ]
-3:[ 0.81739442  0.18260558 13.        ]
-4:[ 0.82544275  0.17455725 11.        ]
-5:[ 0.93389609  0.06610391 14.        ]
-6:[0.93858216 0.06141784 5.        ]
-7:[0.94497427 0.05502573 3.        ]
-8:[ 0.96638539  0.03361461 10.        ]
-9:[ 0.96766489  0.03233511 12.        ]
-10:[0.9726806 0.0273194 4.       ]
-11:[0.97433411 0.02566589 9.        ]
-12:[0.9751255 0.0248745 2.       ]
-13:[0.97515027 0.02484973 8.        ]
-14:[0.97574045 0.02425955 6.        ]
-15:[ 0.97871559  0.02128441 15.        ]
+2:[ 0.1490587  0.8509413 14.       ]
+3:[0.3006221 0.6993779 4.       ]
+4:[ 0.66441946  0.33558054 11.        ]
+5:[0.81594771 0.18405229 7.        ]
+6:[ 0.90891071  0.09108929 13.        ]
+7:[0.94401267 0.05598733 5.        ]
+8:[0.95572747 0.04427253 3.        ]
+9:[ 0.96853315  0.03146685 10.        ]
+10:[ 0.96987696  0.03012304 12.        ]
+11:[0.9751255 0.0248745 2.       ]
+12:[0.97532208 0.02467792 9.        ]
+13:[0.97589949 0.02410051 8.        ]
+14:[0.97659793 0.02340207 6.        ]
+15:[ 0.97897007  0.02102993 15.        ]
 Hippodrome de la Métairie Neuve CHATEAUBRIANT
 2023-02-07/4404/2
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/2/partants/drivers/paginate
@@ -48,7 +48,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/2/partants/tableau
 12:[0.95818592 0.04181408 2.        ]
 14:[0.96378845 0.03621155 3.        ]
 15:[0.96682913 0.03317087 6.        ]
-16:[ 0.97485032  0.02514968 15.        ]
+16:[ 0.97510362  0.02489638 15.        ]
 17:[0.98482862 0.01517138 1.        ]
 Hippodrome de la Métairie Neuve CHATEAUBRIANT
 2023-02-07/4404/3
@@ -104,7 +104,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/5/partants/tableau
 5:[0.87400442 0.12599558 6.        ]
 6:[0.90848764 0.09151236 9.        ]
 7:[ 0.94816564  0.05183436 10.        ]
-8:[0.96164991 0.03835009 3.        ]
+8:[0.96203099 0.03796901 3.        ]
 9:[0.97539424 0.02460576 7.        ]
 10:[ 0.9772061  0.0227939 13.       ]
 11:[ 0.97868882  0.02131118 12.        ]
@@ -118,7 +118,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/6/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/6/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/6/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/6/partants/tableau
-1:[0.22972751 0.77027249 4.        ]
+1:[0.23156993 0.76843007 4.        ]
 2:[0.74340179 0.25659821 8.        ]
 3:[0.76405482 0.23594518 6.        ]
 4:[0.92693647 0.07306353 9.        ]
@@ -144,8 +144,8 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/7/partants/tableau
 6:[0.95557832 0.04442168 4.        ]
 7:[0.9682218 0.0317782 2.       ]
 8:[ 0.9711797  0.0288203 11.       ]
-9:[0.97794426 0.02205574 8.        ]
-10:[0.97795656 0.02204344 9.        ]
+9:[0.97795656 0.02204344 9.        ]
+10:[0.9781671 0.0218329 8.       ]
 11:[0.98064922 0.01935078 3.        ]
 Hippodrome de la Métairie Neuve CHATEAUBRIANT
 2023-02-07/4404/8
@@ -155,7 +155,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-07/4404/8/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/8/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-07/4404/8/partants/tableau
-1:[ 0.40868157  0.59131843 17.        ]
+1:[ 0.41119305  0.58880695 17.        ]
 2:[ 0.7184991  0.2815009 12.       ]
 3:[ 0.74488589  0.25511411 14.        ]
 4:[0.85243117 0.14756883 5.        ]
