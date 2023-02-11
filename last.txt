@@ -1,4 +1,4 @@
-sam. 11 févr. 2023 12:00:14 CET
+sam. 11 févr. 2023 16:00:14 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=11-02-2023&publish_down=12-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-11/0601/json
 https://www.letrot.com/stats/courses/programme/2023-02-11/3103/json
@@ -19,11 +19,10 @@ https://www.letrot.com/stats/fiche-course/2023-02-11/0601/1/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-02-11/0601/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-11/0601/1/partants/tableau
 1:[0.94891285 0.05108715 7.        ]
-2:[0.96921587 0.03078413 6.        ]
-3:[0.96981143 0.03018857 4.        ]
-4:[0.97361094 0.02638906 1.        ]
-5:[0.9738858 0.0261142 2.       ]
-6:[0.97434944 0.02565056 5.        ]
+2:[0.96981143 0.03018857 4.        ]
+3:[0.97361094 0.02638906 1.        ]
+4:[0.9738858 0.0261142 2.       ]
+5:[0.97434944 0.02565056 5.        ]
 7:[0.97573416 0.02426584 3.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
 2023-02-11/0601/2
