@@ -1,4 +1,4 @@
-lun. 13 févr. 2023 12:00:14 CET
+lun. 13 févr. 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=13-02-2023&publish_down=14-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-13/0601/json
 https://www.letrot.com/stats/courses/programme/2023-02-13/7500/json
@@ -166,8 +166,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-13/7500/1/partants/tableau
 4:[0.82198625 0.17801375 5.        ]
 5:[ 0.82861632  0.17138368 10.        ]
 6:[ 0.86675247  0.13324753 15.        ]
-7:[0.88412622 0.11587378 8.        ]
-8:[0.91064789 0.08935211 2.        ]
+7:[0.91064789 0.08935211 2.        ]
 9:[ 0.91111708  0.08888292 13.        ]
 10:[ 0.94464861  0.05535139 12.        ]
 11:[ 0.95705886  0.04294114 14.        ]
@@ -287,10 +286,9 @@ https://www.letrot.com/stats/fiche-course/2023-02-13/7500/7/partants/tableau
 7:[0.9533577 0.0466423 5.       ]
 8:[0.95923413 0.04076587 1.        ]
 9:[0.96294138 0.03705862 6.        ]
-10:[ 0.96844121  0.03155879 13.        ]
-11:[0.9706957 0.0293043 3.       ]
-12:[0.97233442 0.02766558 2.        ]
-13:[ 0.98868021  0.01131979 10.        ]
+10:[0.9706957 0.0293043 3.       ]
+11:[0.97233442 0.02766558 2.        ]
+12:[ 0.98868021  0.01131979 10.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2023-02-13/7500/8
 https://www.letrot.com/stats/fiche-course/2023-02-13/7500/8/partants/drivers/paginate
