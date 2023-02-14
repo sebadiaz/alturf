@@ -1,4 +1,4 @@
-mar. 14 févr. 2023 12:00:14 CET
+mar. 14 févr. 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=14-02-2023&publish_down=15-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-14/4701/json
 https://www.letrot.com/stats/courses/programme/2023-02-14/7500/json
@@ -34,7 +34,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-14/4701/2/partants/tableau
 4:[0.96819015 0.03180985 1.        ]
 5:[0.97491368 0.02508632 4.        ]
 6:[0.97545656 0.02454344 7.        ]
-7:[0.98057286 0.01942714 6.        ]
+7:[0.98639067 0.01360933 6.        ]
 Hippodrome d'Agen AGEN-LA GARENNE
 2023-02-14/4701/3
 https://www.letrot.com/stats/fiche-course/2023-02-14/4701/3/partants/drivers/paginate
