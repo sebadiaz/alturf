@@ -1,4 +1,4 @@
-mer. 15 févr. 2023 08:00:14 CET
+mer. 15 févr. 2023 12:00:16 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=15-02-2023&publish_down=16-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-15/5305/json
 https://www.letrot.com/stats/courses/programme/2023-02-16/6902/json
@@ -85,11 +85,10 @@ https://www.letrot.com/stats/fiche-course/2023-02-15/5305/4/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-02-15/5305/4/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-15/5305/4/partants/tableau
 1:[0.36407379 0.63592621 7.        ]
-2:[ 0.77901706  0.22098294 13.        ]
-3:[ 0.89173954  0.10826046 10.        ]
-4:[0.94485351 0.05514649 6.        ]
-5:[0.94791823 0.05208177 1.        ]
-6:[0.95220566 0.04779434 2.        ]
+3:[ 0.77901706  0.22098294 13.        ]
+4:[ 0.89173954  0.10826046 10.        ]
+5:[0.94485351 0.05514649 6.        ]
+6:[0.94791823 0.05208177 1.        ]
 7:[0.95491793 0.04508207 4.        ]
 8:[0.95576532 0.04423468 8.        ]
 9:[0.95634112 0.04365888 3.        ]
