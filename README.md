@@ -1,5 +1,5 @@
 # Daily Turf on ['17022023']
-##### Last Refresh 2023-02-17 08:00:18.884185
+##### Last Refresh 2023-02-17 08:10:17.543757
 
 ## 2023-02-17 15:54:00 HIPPODROME DE CAGNES/MER 1 1
 ### TROT_ATTELE
