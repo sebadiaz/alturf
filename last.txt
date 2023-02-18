@@ -1,4 +1,4 @@
-sam. 18 févr. 2023 12:00:13 CET
+sam. 18 févr. 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=18-02-2023&publish_down=19-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-18/4701/json
 https://www.letrot.com/stats/courses/programme/2023-02-18/5305/json
@@ -84,9 +84,9 @@ https://www.letrot.com/stats/fiche-course/2023-02-18/4701/4/partants/tableau
 6:[ 0.9522067  0.0477933 10.       ]
 7:[0.96245986 0.03754014 7.        ]
 8:[0.96356845 0.03643155 3.        ]
-9:[0.97114428 0.02885572 8.        ]
-10:[0.97588936 0.02411064 9.        ]
-11:[0.97720895 0.02279105 5.        ]
+9:[0.97588936 0.02411064 9.        ]
+10:[0.97720895 0.02279105 5.        ]
+11:[0.97945164 0.02054836 8.        ]
 Hippodrome d'Agen AGEN-LA GARENNE
 2023-02-18/4701/5
 https://www.letrot.com/stats/fiche-course/2023-02-18/4701/5/partants/drivers/paginate
@@ -129,7 +129,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-18/4701/6/partants/tableau
 8:[0.9587713 0.0412287 4.       ]
 9:[0.96356904 0.03643096 9.        ]
 10:[0.96769859 0.03230141 8.        ]
-11:[0.98176903 0.01823097 7.        ]
+11:[0.98576591 0.01423409 7.        ]
 Hippodrome d'Agen AGEN-LA GARENNE
 2023-02-18/4701/7
 https://www.letrot.com/stats/fiche-course/2023-02-18/4701/7/partants/drivers/paginate
@@ -199,15 +199,14 @@ https://www.letrot.com/stats/fiche-course/2023-02-18/5305/2/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-18/5305/2/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-18/5305/2/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-18/5305/2/partants/tableau
-1:[0.71543786 0.28456214 5.        ]
-2:[0.75019658 0.24980342 8.        ]
-3:[0.79485348 0.20514652 2.        ]
-4:[0.89930539 0.10069461 4.        ]
-5:[0.92762207 0.07237793 9.        ]
-6:[0.93507738 0.06492262 6.        ]
-7:[0.94063623 0.05936377 7.        ]
-8:[0.95785003 0.04214997 3.        ]
-9:[0.96595447 0.03404553 1.        ]
+2:[0.71543786 0.28456214 5.        ]
+3:[0.75019658 0.24980342 8.        ]
+4:[0.79485348 0.20514652 2.        ]
+5:[0.89930539 0.10069461 4.        ]
+6:[0.92762207 0.07237793 9.        ]
+7:[0.93507738 0.06492262 6.        ]
+8:[0.94063623 0.05936377 7.        ]
+9:[0.95785003 0.04214997 3.        ]
 10:[ 0.97031284  0.02968716 12.        ]
 11:[ 0.97201565  0.02798435 11.        ]
 12:[ 0.97805641  0.02194359 10.        ]
