@@ -1,4 +1,4 @@
-mar. 21 févr. 2023 08:00:01 CET
+mar. 21 févr. 2023 16:00:15 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=21-02-2023&publish_down=22-02-2023
 https://www.letrot.com/stats/courses/programme/2023-02-21/0601/json
 https://www.letrot.com/stats/courses/programme/2023-02-21/7500/json
@@ -113,14 +113,13 @@ https://www.letrot.com/stats/fiche-course/2023-02-21/0601/6/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-02-21/0601/6/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-21/0601/6/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-02-21/0601/6/partants/tableau
-1:[0.11973414 0.88026586 5.        ]
-2:[0.11999452 0.88000548 7.        ]
-3:[0.71728808 0.28271192 6.        ]
-4:[0.84911621 0.15088379 8.        ]
-5:[0.91838179 0.08161821 4.        ]
-6:[0.97452029 0.02547971 2.        ]
-7:[0.9745584 0.0254416 3.       ]
-8:[0.97544801 0.02455199 1.        ]
+2:[0.11973414 0.88026586 5.        ]
+3:[0.11999452 0.88000548 7.        ]
+4:[0.71728808 0.28271192 6.        ]
+5:[0.84911621 0.15088379 8.        ]
+6:[0.91838179 0.08161821 4.        ]
+7:[0.97452029 0.02547971 2.        ]
+8:[0.9745584 0.0254416 3.       ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
 2023-02-21/0601/7
 https://www.letrot.com/stats/fiche-course/2023-02-21/0601/7/partants/drivers/paginate
