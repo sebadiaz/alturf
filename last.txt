@@ -1,4 +1,4 @@
-mar. 28 févr. 2023 08:00:15 CET
+mar. 28 févr. 2023 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=28-02-2023&publish_down=01-03-2023
 https://www.letrot.com/stats/courses/programme/2023-02-28/0601/json
 https://www.letrot.com/stats/courses/programme/2023-02-28/7500/json
@@ -187,8 +187,7 @@ https://www.letrot.com/stats/fiche-course/2023-02-28/7500/2/partants/tableau
 5:[ 0.83484242  0.16515758 14.        ]
 6:[0.84224043 0.15775957 8.        ]
 8:[0.85831321 0.14168679 4.        ]
-9:[ 0.90956798  0.09043202 10.        ]
-10:[0.96604387 0.03395613 5.        ]
+9:[0.96604387 0.03395613 5.        ]
 11:[0.97675551 0.02324449 1.        ]
 12:[0.97706803 0.02293197 2.        ]
 13:[0.97789485 0.02210515 6.        ]
