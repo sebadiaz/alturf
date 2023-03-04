@@ -1,4 +1,4 @@
-sam. 04 mars 2023 08:00:01 CET
+sam. 04 mars 2023 12:00:16 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=04-03-2023&publish_down=05-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-04/0601/json
 https://www.letrot.com/stats/courses/programme/2023-03-04/7500/json
@@ -351,10 +351,9 @@ https://www.letrot.com/stats/fiche-course/2023-03-04/7500/10/partants/tableau
 8:[0.96085179 0.03914821 6.        ]
 9:[ 0.965145  0.034855 15.      ]
 10:[ 0.96943658  0.03056342 16.        ]
-11:[ 0.97046276  0.02953724 14.        ]
-12:[0.97424983 0.02575017 3.        ]
-13:[0.97516868 0.02483132 4.        ]
-14:[ 0.97655042  0.02344958 13.        ]
+11:[0.97424983 0.02575017 3.        ]
+12:[0.97516868 0.02483132 4.        ]
+13:[ 0.97655042  0.02344958 13.        ]
 15:[ 0.97852176  0.02147824 10.        ]
 16:[0.98287688 0.01712312 7.        ]
 Hippodrome d'Agen AGEN-LA GARENNE
