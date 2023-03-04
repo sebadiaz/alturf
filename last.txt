@@ -1,4 +1,4 @@
-sam. 04 mars 2023 12:00:16 CET
+sam. 04 mars 2023 18:00:14 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=04-03-2023&publish_down=05-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-04/0601/json
 https://www.letrot.com/stats/courses/programme/2023-03-04/7500/json
@@ -260,11 +260,10 @@ https://www.letrot.com/stats/fiche-course/2023-03-04/7500/6/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-03-04/7500/6/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-04/7500/6/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-04/7500/6/partants/tableau
-1:[0.68893083 0.31106917 5.        ]
-2:[0.73229619 0.26770381 3.        ]
-3:[0.7341131 0.2658869 1.       ]
-4:[ 0.75374186  0.24625814 12.        ]
-5:[0.78710392 0.21289608 6.        ]
+1:[0.73229619 0.26770381 3.        ]
+2:[0.7341131 0.2658869 1.       ]
+3:[ 0.75374186  0.24625814 12.        ]
+4:[0.78710392 0.21289608 6.        ]
 6:[ 0.82314194  0.17685806 10.        ]
 7:[0.84618492 0.15381508 2.        ]
 8:[0.86002668 0.13997332 4.        ]
