@@ -1,5 +1,5 @@
 # Daily Turf on ['06032023']
-##### Last Refresh 2023-03-06 22:40:30.605848
+##### Last Refresh 2023-03-06 22:50:14.990902
 
 ## 2023-03-06 11:57:00 HIPPODROME DE CAEN 1 1
 ### TROT_ATTELE
