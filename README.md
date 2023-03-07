@@ -1,5 +1,5 @@
 # Daily Turf on ['07032023']
-##### Last Refresh 2023-03-07 09:30:17.963340
+##### Last Refresh 2023-03-07 09:40:20.891376
 
 ## 2023-03-07 13:50:00 HIPPODROME DE CHANTILLY 1 1
 ### PLAT
