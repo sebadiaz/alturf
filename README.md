@@ -1,5 +1,5 @@
 # Daily Turf on ['08032023']
-##### Last Refresh 2023-03-08 21:30:17.353864
+##### Last Refresh 2023-03-08 21:40:20.040708
 
 ## 2023-03-08 13:55:00 HIPPODROME D'AMIENS 1 1
 ### TROT_ATTELE
