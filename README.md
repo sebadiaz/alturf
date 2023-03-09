@@ -1,5 +1,5 @@
 # Daily Turf on ['09032023']
-##### Last Refresh 2023-03-09 21:00:20.852625
+##### Last Refresh 2023-03-09 21:10:17.098305
 
 ## 2023-03-09 13:50:00 HIPPODROME DE SAINT-CLOUD 1 1
 ### PLAT
