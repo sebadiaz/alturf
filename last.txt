@@ -1,4 +1,4 @@
-sam. 11 mars 2023 12:00:17 CET
+sam. 11 mars 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=11-03-2023&publish_down=12-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-11/1400/json
 https://www.letrot.com/stats/courses/programme/2023-03-11/5901/json
@@ -319,12 +319,11 @@ https://www.letrot.com/stats/fiche-course/2023-03-11/5901/7/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-03-11/5901/7/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-11/5901/7/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-11/5901/7/partants/tableau
-1:[0.32277955 0.67722045 7.        ]
-2:[ 0.95719993  0.04280007 10.        ]
-3:[0.96102493 0.03897507 2.        ]
-4:[0.9707341 0.0292659 8.       ]
-5:[0.97349541 0.02650459 9.        ]
-6:[0.97491203 0.02508797 1.        ]
+2:[0.32277955 0.67722045 7.        ]
+3:[ 0.95719993  0.04280007 10.        ]
+4:[0.96102493 0.03897507 2.        ]
+5:[0.9707341 0.0292659 8.       ]
+6:[0.97349541 0.02650459 9.        ]
 7:[0.976165 0.023835 4.      ]
 8:[0.97894683 0.02105317 3.        ]
 9:[0.97992757 0.02007243 6.        ]
@@ -338,13 +337,12 @@ https://www.letrot.com/stats/fiche-course/2023-03-11/5901/8/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-03-11/5901/8/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-11/5901/8/partants/tableau
 1:[0.53786171 0.46213829 4.        ]
-2:[0.80530218 0.19469782 8.        ]
-3:[0.80918621 0.19081379 6.        ]
-4:[0.89055647 0.10944353 5.        ]
-5:[0.92349722 0.07650278 1.        ]
-6:[0.95400434 0.04599566 2.        ]
-7:[0.96452694 0.03547306 3.        ]
-8:[0.97167626 0.02832374 7.        ]
+2:[0.80918621 0.19081379 6.        ]
+3:[0.89055647 0.10944353 5.        ]
+4:[0.92349722 0.07650278 1.        ]
+5:[0.95400434 0.04599566 2.        ]
+6:[0.96452694 0.03547306 3.        ]
+7:[0.97167626 0.02832374 7.        ]
 9:[0.97780223 0.02219777 9.        ]
 10:[ 0.97832385  0.02167615 10.        ]
 Hippodrome de la Côte d'Azur CAGNES-SUR-MER
