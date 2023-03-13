@@ -1,4 +1,4 @@
-lun. 13 mars 2023 08:00:25 CET
+lun. 13 mars 2023 12:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=13-03-2023&publish_down=14-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-13/3302/json
 https://www.letrot.com/stats/courses/programme/2023-03-13/7616/json
@@ -145,8 +145,7 @@ https://www.letrot.com/stats/fiche-course/2023-03-13/3302/7/partants/tableau
 7:[0.97516733 0.02483267 6.        ]
 8:[0.97588527 0.02411473 9.        ]
 9:[0.97726646 0.02273354 3.        ]
-10:[ 0.97857389  0.02142611 11.        ]
-11:[0.98167361 0.01832639 8.        ]
+10:[0.98167361 0.01832639 8.        ]
 12:[0.982866 0.017134 4.      ]
 13:[ 0.98342003  0.01657997 13.        ]
 14:[0.98498313 0.01501687 5.        ]
