@@ -1,4 +1,4 @@
-mer. 15 mars 2023 12:00:22 CET
+mer. 15 mars 2023 16:00:01 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=15-03-2023&publish_down=16-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-15/7502/json
 https://www.letrot.com/stats/courses/programme/2023-03-16/1400/json
@@ -377,12 +377,11 @@ https://www.letrot.com/stats/fiche-course/2023-03-16/6902/3/partants/tableau
 3:[0.91449633 0.08550367 7.        ]
 4:[0.91707637 0.08292363 2.        ]
 5:[0.95142104 0.04857896 6.        ]
-6:[ 0.96337296  0.03662704 12.        ]
-7:[0.96666842 0.03333158 5.        ]
-8:[ 0.97458102  0.02541898 11.        ]
-10:[0.98116613 0.01883387 8.        ]
-11:[ 0.98544834  0.01455166 10.        ]
-12:[0.98701282 0.01298718 4.        ]
+6:[0.96666842 0.03333158 5.        ]
+7:[ 0.97458102  0.02541898 11.        ]
+8:[0.98116613 0.01883387 8.        ]
+10:[ 0.98544834  0.01455166 10.        ]
+11:[0.98701282 0.01298718 4.        ]
 Hippodrome de Lyon-La Soie LYON (A LA SOIE)
 2023-03-16/6902/4
 https://www.letrot.com/stats/fiche-course/2023-03-16/6902/4/partants/drivers/paginate
