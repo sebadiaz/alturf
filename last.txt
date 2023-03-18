@@ -1,4 +1,4 @@
-sam. 18 mars 2023 12:00:16 CET
+sam. 18 mars 2023 16:00:15 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=18-03-2023&publish_down=19-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-18/1407/json
 https://www.letrot.com/stats/courses/programme/2023-03-18/1302/json
@@ -180,10 +180,9 @@ https://www.letrot.com/stats/fiche-course/2023-03-18/1407/8/partants/tableau
 4:[0.8364066 0.1635934 8.       ]
 5:[0.89835592 0.10164408 9.        ]
 6:[ 0.93671077  0.06328923 10.        ]
-7:[0.94289033 0.05710967 1.        ]
-8:[ 0.95110249  0.04889751 11.        ]
-9:[0.95365998 0.04634002 2.        ]
-10:[0.97687038 0.02312962 7.        ]
+8:[0.94289033 0.05710967 1.        ]
+9:[ 0.95110249  0.04889751 11.        ]
+10:[0.95365998 0.04634002 2.        ]
 11:[0.98859987 0.01140013 4.        ]
 Hippodrome du Pont de Vivaux MARSEILLE (A VIVAUX)
 2023-03-18/1302/1
