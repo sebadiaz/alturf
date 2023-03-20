@@ -1,4 +1,4 @@
-lun. 20 mars 2023 12:00:15 CET
+lun. 20 mars 2023 16:00:18 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=20-03-2023&publish_down=21-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-20/1400/json
 https://www.letrot.com/stats/courses/programme/2023-03-20/0101/json
@@ -53,11 +53,10 @@ https://www.letrot.com/stats/fiche-course/2023-03-20/1400/3/partants/tableau
 4:[0.92603942 0.07396058 4.        ]
 5:[0.97989439 0.02010561 3.        ]
 6:[0.98001161 0.01998839 2.        ]
-7:[ 0.98025342  0.01974658 11.        ]
-8:[0.98050538 0.01949462 1.        ]
-9:[0.98395409 0.01604591 5.        ]
-10:[0.98458825 0.01541175 8.        ]
-11:[0.98570699 0.01429301 9.        ]
+7:[0.98050538 0.01949462 1.        ]
+8:[0.98395409 0.01604591 5.        ]
+9:[0.98458825 0.01541175 8.        ]
+10:[0.98570699 0.01429301 9.        ]
 Hippodrome de la Prairie CAEN
 2023-03-20/1400/4
 https://www.letrot.com/stats/fiche-course/2023-03-20/1400/4/partants/drivers/paginate
@@ -127,18 +126,11 @@ https://www.letrot.com/stats/fiche-course/2023-03-20/1400/7/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-03-20/1400/7/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-20/1400/7/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-20/1400/7/partants/tableau
-1:[0.39475144 0.60524856 8.        ]
-2:[0.69702061 0.30297939 3.        ]
-3:[0.82235546 0.17764454 2.        ]
-4:[0.88672593 0.11327407 4.        ]
-5:[0.94204468 0.05795532 6.        ]
-6:[0.96928575 0.03071425 9.        ]
-7:[ 0.97200798  0.02799202 10.        ]
-8:[ 0.9735159  0.0264841 12.       ]
-9:[0.97761346 0.02238654 7.        ]
-10:[ 0.98167218  0.01832782 11.        ]
-11:[0.98509916 0.01490084 1.        ]
-12:[0.99109248 0.00890752 5.        ]
+1:[0.69702061 0.30297939 3.        ]
+2:[0.82235546 0.17764454 2.        ]
+3:[0.88672593 0.11327407 4.        ]
+4:[0.98509916 0.01490084 1.        ]
+5:[0.99109248 0.00890752 5.        ]
 Hippodrome de la Prairie CAEN
 2023-03-20/1400/8
 https://www.letrot.com/stats/fiche-course/2023-03-20/1400/8/partants/drivers/paginate
