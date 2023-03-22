@@ -1,4 +1,4 @@
-mer. 22 mars 2023 08:00:18 CET
+mer. 22 mars 2023 12:00:16 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=22-03-2023&publish_down=23-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-22/1407/json
 https://www.letrot.com/stats/courses/programme/2023-03-22/8401/json
@@ -15,9 +15,8 @@ https://www.letrot.com/stats/fiche-course/2023-03-22/1407/1/partants/tableau
 2:[0.94710351 0.05289649 4.        ]
 3:[0.95476685 0.04523315 8.        ]
 4:[0.962523 0.037477 9.      ]
-5:[0.96562596 0.03437404 7.        ]
-6:[0.97521708 0.02478292 6.        ]
-7:[0.97965222 0.02034778 2.        ]
+5:[0.97521708 0.02478292 6.        ]
+6:[0.97965222 0.02034778 2.        ]
 8:[0.98200758 0.01799242 3.        ]
 9:[0.98237771 0.01762229 1.        ]
 Hippodrome de la Trésorerie LISIEUX
