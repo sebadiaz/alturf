@@ -1,4 +1,4 @@
-mer. 22 mars 2023 16:00:18 CET
+mer. 22 mars 2023 18:00:19 CET
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=22-03-2023&publish_down=23-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-22/1407/json
 https://www.letrot.com/stats/courses/programme/2023-03-22/8401/json
@@ -333,8 +333,7 @@ https://www.letrot.com/stats/fiche-course/2023-03-22/8401/8/partants/tableau
 4:[ 0.90749932  0.09250068 10.        ]
 5:[ 0.94339122  0.05660878 16.        ]
 6:[ 0.9498372  0.0501628 14.       ]
-7:[0.97340499 0.02659501 8.        ]
-8:[0.97435598 0.02564402 6.        ]
+7:[0.97435598 0.02564402 6.        ]
 9:[0.97502852 0.02497148 9.        ]
 10:[ 0.97519852  0.02480148 15.        ]
 11:[0.97642911 0.02357089 5.        ]
