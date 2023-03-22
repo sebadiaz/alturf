@@ -1,5 +1,5 @@
 # Daily Turf on ['22032023']
-##### Last Refresh 2023-03-22 21:10:17.521461
+##### Last Refresh 2023-03-22 21:20:20.174086
 
 ## 2023-03-22 11:57:00 HIPPODROME DE LISIEUX 1 1
 ### TROT_MONTE
