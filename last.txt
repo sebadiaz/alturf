@@ -1,4 +1,4 @@
-dim. 26 mars 2023 12:00:01 CEST
+dim. 26 mars 2023 16:00:18 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=26-03-2023&publish_down=27-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-26/4701/json
 https://www.letrot.com/stats/courses/programme/2023-03-26/2001/json
@@ -25,16 +25,16 @@ https://www.letrot.com/stats/fiche-course/2023-03-26/4701/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-03-26/4701/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-26/4701/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-03-26/4701/1/partants/tableau
-1:[0.30722613 0.69277387 2.        ]
-2:[0.41921012 0.58078988 6.        ]
-3:[0.87732659 0.12267341 9.        ]
-4:[0.87903398 0.12096602 5.        ]
-5:[0.95207813 0.04792187 1.        ]
-6:[ 0.96865374  0.03134626 11.        ]
+1:[0.41622131 0.58377869 6.        ]
+2:[0.77704855 0.22295145 5.        ]
+3:[0.820742 0.179258 9.      ]
+4:[0.82216664 0.17783336 2.        ]
+5:[0.95278898 0.04721102 1.        ]
+6:[ 0.969076  0.030924 11.      ]
 7:[0.97109872 0.02890128 4.        ]
-8:[0.97533966 0.02466034 3.        ]
+8:[0.97587911 0.02412089 3.        ]
 9:[0.97591215 0.02408785 8.        ]
-10:[ 0.97703595  0.02296405 12.        ]
+10:[ 0.97711217  0.02288783 12.        ]
 11:[0.97891787 0.02108213 7.        ]
 12:[ 0.9793813  0.0206187 10.       ]
 Hippodrome d'Agen AGEN-LA GARENNE
