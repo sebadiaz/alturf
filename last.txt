@@ -1,4 +1,4 @@
-mer. 29 mars 2023 12:00:19 CEST
+mer. 29 mars 2023 16:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=29-03-2023&publish_down=30-03-2023
 https://www.letrot.com/stats/courses/programme/2023-03-29/1303/json
 https://www.letrot.com/stats/courses/programme/2023-03-29/5102/json
@@ -65,7 +65,7 @@ https://www.letrot.com/stats/fiche-course/2023-03-29/1303/3/partants/tableau
 7:[0.95826439 0.04173561 3.        ]
 8:[ 0.96533731  0.03466269 13.        ]
 9:[0.96623147 0.03376853 8.        ]
-10:[0.97041201 0.02958799 4.        ]
+10:[0.97028272 0.02971728 4.        ]
 11:[ 0.97984297  0.02015703 15.        ]
 12:[ 0.98443801  0.01556199 10.        ]
 13:[9.86617592e-01 1.33824082e-02 1.40000000e+01]
