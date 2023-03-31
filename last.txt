@@ -1,4 +1,4 @@
-ven. 31 mars 2023 16:00:01 CEST
+ven. 31 mars 2023 18:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=31-03-2023&publish_down=01-04-2023
 https://www.letrot.com/stats/courses/programme/2023-03-31/1302/json
 https://www.letrot.com/stats/courses/programme/2023-03-31/7500/json
@@ -549,10 +549,9 @@ https://www.letrot.com/stats/fiche-course/2023-04-01/5401/2/partants/tableau
 6:[0.96099706 0.03900294 4.        ]
 7:[0.96924824 0.03075176 5.        ]
 8:[ 0.97177758  0.02822242 10.        ]
-9:[ 0.9725365  0.0274635 12.       ]
-10:[ 0.97426599  0.02573401 11.        ]
-11:[0.97834893 0.02165107 3.        ]
-12:[0.97948167 0.02051833 9.        ]
+9:[ 0.97426599  0.02573401 11.        ]
+10:[0.97834893 0.02165107 3.        ]
+11:[0.97948167 0.02051833 9.        ]
 Hippodrome de Nancy-Brabois NANCY
 2023-04-01/5401/3
 https://www.letrot.com/stats/fiche-course/2023-04-01/5401/3/partants/drivers/paginate
