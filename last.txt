@@ -1,4 +1,4 @@
-mar. 04 avril 2023 12:00:30 CEST
+mar. 04 avril 2023 16:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=04-04-2023&publish_down=05-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-04/7500/json
 https://www.letrot.com/stats/courses/programme/2023-04-05/4901/json
@@ -108,15 +108,14 @@ https://www.letrot.com/stats/fiche-course/2023-04-04/7500/6/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-04-04/7500/6/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-04/7500/6/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-04/7500/6/partants/tableau
-1:[0.4130211 0.5869789 9.       ]
-2:[0.93822854 0.06177146 3.        ]
-3:[ 0.940918  0.059082 14.      ]
-4:[0.96049834 0.03950166 6.        ]
-5:[ 0.96139753  0.03860247 13.        ]
-6:[ 0.96459789  0.03540211 11.        ]
-7:[0.97408746 0.02591254 7.        ]
-8:[0.97645669 0.02354331 2.        ]
-9:[0.97756015 0.02243985 1.        ]
+2:[0.4130211 0.5869789 9.       ]
+3:[0.93822854 0.06177146 3.        ]
+4:[ 0.940918  0.059082 14.      ]
+5:[0.96049834 0.03950166 6.        ]
+6:[ 0.96139753  0.03860247 13.        ]
+7:[ 0.96459789  0.03540211 11.        ]
+8:[0.97408746 0.02591254 7.        ]
+9:[0.97645669 0.02354331 2.        ]
 10:[0.977965 0.022035 4.      ]
 11:[0.97839954 0.02160046 5.        ]
 12:[ 0.97917128  0.02082872 10.        ]
@@ -181,9 +180,8 @@ https://www.letrot.com/stats/fiche-course/2023-04-05/4901/1/partants/tableau
 11:[0.96438148 0.03561852 3.        ]
 12:[ 0.97597381  0.02402619 15.        ]
 13:[0.97716495 0.02283505 9.        ]
-14:[ 0.98124511  0.01875489 12.        ]
-15:[9.84994909e-01 1.50050910e-02 1.60000000e+01]
-16:[9.8901616e-01 1.0983840e-02 1.4000000e+01]
+15:[ 0.98124511  0.01875489 12.        ]
+16:[9.84994909e-01 1.50050910e-02 1.60000000e+01]
 Hippodrome d'Eventard ANGERS
 2023-04-05/4901/2
 https://www.letrot.com/stats/fiche-course/2023-04-05/4901/2/partants/drivers/paginate
