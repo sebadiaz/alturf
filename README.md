@@ -1,5 +1,5 @@
 # Daily Turf on ['12042023']
-##### Last Refresh 2023-04-12 21:20:20.668189
+##### Last Refresh 2023-04-12 21:40:21.695263
 
 ## 2023-04-12 13:50:00 HIPPODROME DE LYON-PARILLY 1 1
 ### TROT_ATTELE
