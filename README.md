@@ -1,5 +1,5 @@
 # Daily Turf on ['13042023']
-##### Last Refresh 2023-04-13 10:30:21.692476
+##### Last Refresh 2023-04-13 10:40:21.635126
 
 ## 2023-04-13 13:50:00 HIPPODROME D'AUTEUIL 1 1
 ### OBSTACLE
