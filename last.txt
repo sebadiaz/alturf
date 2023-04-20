@@ -1,4 +1,4 @@
-jeu. 20 avril 2023 16:00:02 CEST
+jeu. 20 avril 2023 18:00:21 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=20-04-2023&publish_down=21-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-20/7502/json
 https://www.letrot.com/stats/courses/programme/2023-04-21/1302/json
@@ -43,9 +43,9 @@ https://www.letrot.com/stats/fiche-course/2023-04-20/7502/2/partants/tableau
 10:[ 0.95757394  0.04242606 13.        ]
 11:[0.95783583 0.04216417 3.        ]
 12:[ 0.96626797  0.03373203 15.        ]
-13:[0.96682347 0.03317653 6.        ]
-14:[0.97561803 0.02438197 5.        ]
-15:[0.97697133 0.02302867 2.        ]
+13:[0.97561803 0.02438197 5.        ]
+14:[0.97697133 0.02302867 2.        ]
+15:[0.97847369 0.02152631 6.        ]
 Hippodrome d'Enghien-Soisy ENGHIEN
 2023-04-20/7502/3
 https://www.letrot.com/stats/fiche-course/2023-04-20/7502/3/partants/drivers/paginate
