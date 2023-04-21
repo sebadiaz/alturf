@@ -1,4 +1,4 @@
-ven. 21 avril 2023 12:00:01 CEST
+ven. 21 avril 2023 16:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=21-04-2023&publish_down=22-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-21/1302/json
 https://www.letrot.com/stats/courses/programme/2023-04-21/7500/json
@@ -16,8 +16,7 @@ https://www.letrot.com/stats/fiche-course/2023-04-21/1302/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-04-21/1302/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-21/1302/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-21/1302/1/partants/tableau
-1:[0.79449336 0.20550664 9.        ]
-2:[0.96889985 0.03110015 1.        ]
+2:[0.79449336 0.20550664 9.        ]
 3:[0.97440424 0.02559576 2.        ]
 4:[0.97949161 0.02050839 3.        ]
 5:[0.98071255 0.01928745 5.        ]
