@@ -1,0 +1,1918 @@
+sam. 22 avril 2023 18:00:20 CEST
+https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=22-04-2023&publish_down=23-04-2023
+https://www.letrot.com/stats/courses/programme/2023-04-22/8002/json
+https://www.letrot.com/stats/courses/programme/2023-04-22/7502/json
+https://www.letrot.com/stats/courses/programme/2023-04-22/8405/json
+https://www.letrot.com/stats/courses/programme/2023-04-22/3507/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/4405/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/4701/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/2001/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/6101/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/1702/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/0202/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/2205/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/6901/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/0972/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/3702/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/7801/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/7609/json
+https://www.letrot.com/stats/courses/programme/2023-04-23/1409/json
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/1
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/1/partants/tableau
+1:[0.26058766 0.73941234 8.        ]
+2:[0.91211899 0.08788101 9.        ]
+3:[0.93501535 0.06498465 1.        ]
+4:[0.94004343 0.05995657 7.        ]
+5:[0.96600614 0.03399386 2.        ]
+6:[0.97079761 0.02920239 3.        ]
+7:[0.9780936 0.0219064 6.       ]
+8:[0.98105963 0.01894037 4.        ]
+9:[0.98248618 0.01751382 5.        ]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/2
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/2/partants/tableau
+1:[0.4530679 0.5469321 5.       ]
+2:[0.57549954 0.42450046 4.        ]
+3:[0.69038449 0.30961551 6.        ]
+4:[0.69272683 0.30727317 8.        ]
+5:[0.700762 0.299238 9.      ]
+6:[0.7854942 0.2145058 1.       ]
+7:[ 0.82496648  0.17503352 13.        ]
+8:[ 0.87845905  0.12154095 12.        ]
+9:[0.94079317 0.05920683 3.        ]
+10:[0.94331345 0.05668655 2.        ]
+11:[0.94696375 0.05303625 7.        ]
+12:[ 0.97339313  0.02660687 10.        ]
+13:[ 0.98066502  0.01933498 11.        ]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/3
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/3/partants/tableau
+2:[0.16701395 0.83298605 5.        ]
+3:[ 0.64200103  0.35799897 10.        ]
+4:[0.81782222 0.18217778 6.        ]
+5:[0.87210306 0.12789694 7.        ]
+6:[0.90258399 0.09741601 8.        ]
+7:[0.91990137 0.08009863 2.        ]
+8:[ 0.96666326  0.03333674 13.        ]
+9:[ 0.97077906  0.02922094 11.        ]
+10:[0.9735165 0.0264835 9.       ]
+11:[0.97429884 0.02570116 3.        ]
+12:[ 0.97435191  0.02564809 14.        ]
+13:[0.99000377 0.00999623 4.        ]
+14:[9.91778925e-01 8.22107514e-03 1.20000000e+01]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/4
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/4/partants/tableau
+1:[0.31440447 0.68559553 3.        ]
+2:[0.74662576 0.25337424 9.        ]
+3:[0.8692898 0.1307102 1.       ]
+4:[0.8953974 0.1046026 2.       ]
+5:[0.91946113 0.08053887 7.        ]
+6:[0.92041438 0.07958562 5.        ]
+7:[ 0.94908942  0.05091058 11.        ]
+8:[0.95084978 0.04915022 4.        ]
+9:[0.97318168 0.02681832 8.        ]
+10:[ 0.9757414  0.0242586 10.       ]
+11:[ 0.98464775  0.01535225 12.        ]
+12:[0.98763448 0.01236552 6.        ]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/5
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/5/partants/tableau
+1:[0.69619818 0.30380182 9.        ]
+2:[ 0.77598365  0.22401635 11.        ]
+3:[ 0.79580797  0.20419203 12.        ]
+4:[ 0.83777473  0.16222527 10.        ]
+5:[0.8866683 0.1133317 4.       ]
+6:[0.89661089 0.10338911 5.        ]
+7:[0.93487506 0.06512494 1.        ]
+8:[0.94453014 0.05546986 3.        ]
+9:[0.94520142 0.05479858 7.        ]
+10:[0.97419921 0.02580079 8.        ]
+11:[0.98155609 0.01844391 6.        ]
+12:[0.98748695 0.01251305 2.        ]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/6
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/6/partants/tableau
+1:[ 0.20356216  0.79643784 13.        ]
+2:[0.32402453 0.67597547 1.        ]
+3:[ 0.8516246  0.1483754 12.       ]
+4:[0.85918485 0.14081515 3.        ]
+5:[0.8676044 0.1323956 2.       ]
+6:[ 0.88885223  0.11114777 10.        ]
+7:[0.90955494 0.09044506 9.        ]
+8:[0.94140595 0.05859405 5.        ]
+9:[ 0.96877533  0.03122467 11.        ]
+10:[0.97463251 0.02536749 7.        ]
+11:[0.97549155 0.02450845 8.        ]
+12:[0.97560779 0.02439221 4.        ]
+13:[0.97783027 0.02216973 6.        ]
+Hippodrome du Petit Saint-Jean AMIENS
+2023-04-22/8002/7
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8002/7/partants/tableau
+1:[0.08966346 0.91033654 5.        ]
+2:[0.13799769 0.86200231 9.        ]
+3:[0.84771674 0.15228326 7.        ]
+4:[0.85454861 0.14545139 3.        ]
+5:[0.89103261 0.10896739 4.        ]
+6:[0.9217213 0.0782787 6.       ]
+7:[ 0.92831244  0.07168756 11.        ]
+8:[0.95244299 0.04755701 8.        ]
+9:[ 0.95366043  0.04633957 12.        ]
+10:[ 0.97408791  0.02591209 10.        ]
+11:[0.97594535 0.02405465 2.        ]
+12:[0.98065028 0.01934972 1.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/1
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/1/partants/tableau
+1:[0.14447152 0.85552848 4.        ]
+2:[ 0.19926702  0.80073298 11.        ]
+3:[0.55648557 0.44351443 7.        ]
+4:[0.78644666 0.21355334 6.        ]
+5:[0.90129347 0.09870653 8.        ]
+6:[ 0.90183487  0.09816513 10.        ]
+7:[ 0.93449563  0.06550437 12.        ]
+8:[0.96790681 0.03209319 9.        ]
+9:[0.97085516 0.02914484 2.        ]
+10:[0.97085594 0.02914406 3.        ]
+11:[0.98180605 0.01819395 5.        ]
+12:[0.98344533 0.01655467 1.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/2
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/2/partants/tableau
+1:[0.32531378 0.67468622 7.        ]
+2:[ 0.33359661  0.66640339 13.        ]
+3:[ 0.36444341  0.63555659 16.        ]
+4:[ 0.71897985  0.28102015 10.        ]
+5:[0.81509748 0.18490252 2.        ]
+6:[0.83996532 0.16003468 4.        ]
+7:[0.9016032 0.0983968 6.       ]
+8:[ 0.95337244  0.04662756 12.        ]
+9:[ 0.95426595  0.04573405 15.        ]
+10:[0.95594065 0.04405935 3.        ]
+11:[ 0.9573663  0.0426337 14.       ]
+12:[0.96499518 0.03500482 9.        ]
+13:[0.96623606 0.03376394 1.        ]
+14:[0.9665711 0.0334289 8.       ]
+15:[ 0.97800427  0.02199573 11.        ]
+16:[0.97902142 0.02097858 5.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/3
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/3/partants/tableau
+1:[0.23987553 0.76012447 2.        ]
+2:[ 0.75246999  0.24753001 12.        ]
+3:[0.75759811 0.24240189 1.        ]
+4:[0.8305632 0.1694368 8.       ]
+5:[0.84894881 0.15105119 4.        ]
+6:[0.84996182 0.15003818 5.        ]
+7:[0.86092167 0.13907833 9.        ]
+8:[0.92051728 0.07948272 6.        ]
+9:[ 0.94535363  0.05464637 10.        ]
+10:[0.94625295 0.05374705 3.        ]
+11:[ 0.95710693  0.04289307 13.        ]
+12:[ 0.96863345  0.03136655 14.        ]
+13:[0.9758881 0.0241119 7.       ]
+14:[ 0.9779802  0.0220198 11.       ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/4
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/4/partants/tableau
+1:[0.18746191 0.81253809 4.        ]
+2:[0.32318142 0.67681858 9.        ]
+3:[0.5919832 0.4080168 8.       ]
+4:[ 0.75032294  0.24967706 10.        ]
+5:[0.78312611 0.21687389 1.        ]
+6:[ 0.80777272  0.19222728 12.        ]
+7:[ 0.83683976  0.16316024 14.        ]
+8:[ 0.86404487  0.13595513 13.        ]
+9:[0.89605965 0.10394035 2.        ]
+10:[0.96376028 0.03623972 3.        ]
+11:[0.97059046 0.02940954 6.        ]
+12:[0.97624449 0.02375551 7.        ]
+13:[ 0.98185335  0.01814665 11.        ]
+14:[0.98733837 0.01266163 5.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/5
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/5/partants/tableau
+1:[0.5411061 0.4588939 2.       ]
+2:[0.61756901 0.38243099 8.        ]
+3:[ 0.73543769  0.26456231 11.        ]
+4:[ 0.82264045  0.17735955 12.        ]
+5:[ 0.82911032  0.17088968 15.        ]
+6:[0.8547193 0.1452807 5.       ]
+7:[0.87289412 0.12710588 4.        ]
+8:[0.9055328 0.0944672 6.       ]
+9:[ 0.92643967  0.07356033 14.        ]
+10:[0.93407813 0.06592187 9.        ]
+11:[0.94799499 0.05200501 1.        ]
+12:[0.95412775 0.04587225 7.        ]
+13:[0.96943888 0.03056112 3.        ]
+14:[ 0.97572529  0.02427471 16.        ]
+15:[ 0.97714631  0.02285369 13.        ]
+16:[ 0.98119525  0.01880475 10.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/6
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/6/partants/tableau
+1:[ 0.21173084  0.78826916 12.        ]
+2:[ 0.65387383  0.34612617 11.        ]
+3:[0.66280441 0.33719559 5.        ]
+4:[0.71050354 0.28949646 8.        ]
+5:[0.71550183 0.28449817 9.        ]
+6:[0.79369713 0.20630287 4.        ]
+7:[0.90404628 0.09595372 7.        ]
+8:[0.91679581 0.08320419 2.        ]
+9:[0.95694092 0.04305908 3.        ]
+10:[ 0.95977306  0.04022694 10.        ]
+11:[0.97385304 0.02614696 1.        ]
+12:[0.98337588 0.01662412 6.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/7
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/7/partants/tableau
+1:[0.27355144 0.72644856 2.        ]
+2:[0.62472239 0.37527761 1.        ]
+3:[ 0.64165537  0.35834463 12.        ]
+4:[0.78206469 0.21793531 3.        ]
+5:[ 0.79600173  0.20399827 10.        ]
+6:[0.81375485 0.18624515 7.        ]
+7:[ 0.89963236  0.10036764 11.        ]
+8:[0.9330059 0.0669941 8.       ]
+9:[0.95653227 0.04346773 9.        ]
+10:[ 0.96869831  0.03130169 13.        ]
+11:[0.97229854 0.02770146 4.        ]
+12:[0.97771995 0.02228005 6.        ]
+13:[0.98154799 0.01845201 5.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/8
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/8/partants/tableau
+1:[0.54893178 0.45106822 5.        ]
+2:[ 0.68435808  0.31564192 10.        ]
+3:[0.75233298 0.24766702 4.        ]
+4:[0.7760813 0.2239187 3.       ]
+5:[ 0.88179926  0.11820074 14.        ]
+6:[ 0.88463442  0.11536558 12.        ]
+7:[0.89537402 0.10462598 6.        ]
+9:[ 0.95115737  0.04884263 16.        ]
+10:[0.97365527 0.02634473 7.        ]
+11:[0.97619017 0.02380983 9.        ]
+12:[ 0.98100969  0.01899031 11.        ]
+13:[9.88547046e-01 1.14529540e-02 1.50000000e+01]
+14:[9.89808349e-01 1.01916509e-02 1.30000000e+01]
+15:[0.98990174 0.01009826 2.        ]
+16:[0.99140541 0.00859459 1.        ]
+Hippodrome d'Enghien-Soisy ENGHIEN
+2023-04-22/7502/9
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/7502/9/partants/tableau
+1:[0.18656705 0.81343295 7.        ]
+2:[0.29932904 0.70067096 6.        ]
+4:[0.40721104 0.59278896 2.        ]
+5:[0.42021263 0.57978737 8.        ]
+6:[0.64270796 0.35729204 4.        ]
+7:[0.97436149 0.02563851 5.        ]
+8:[0.97955796 0.02044204 1.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/1
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/1/partants/tableau
+1:[ 0.11920364  0.88079636 14.        ]
+2:[0.14304258 0.85695742 1.        ]
+3:[ 0.4397989  0.5602011 13.       ]
+4:[ 0.85151133  0.14848867 12.        ]
+5:[ 0.88813302  0.11186698 15.        ]
+6:[ 0.92388356  0.07611644 11.        ]
+7:[ 0.96906311  0.03093689 16.        ]
+8:[0.97014255 0.02985745 7.        ]
+10:[0.97106827 0.02893173 6.        ]
+11:[0.97356249 0.02643751 4.        ]
+12:[0.97577784 0.02422216 5.        ]
+13:[ 0.97610241  0.02389759 10.        ]
+14:[0.97637662 0.02362338 3.        ]
+15:[0.97649467 0.02350533 2.        ]
+16:[0.97673648 0.02326352 8.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/2
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/2/partants/tableau
+1:[0.28885827 0.71114173 4.        ]
+2:[ 0.6349922  0.3650078 14.       ]
+3:[0.8552751 0.1447249 5.       ]
+4:[0.8854465 0.1145535 9.       ]
+5:[ 0.94263478  0.05736522 16.        ]
+6:[0.94905023 0.05094977 6.        ]
+7:[ 0.96092816  0.03907184 11.        ]
+8:[ 0.96277636  0.03722364 15.        ]
+9:[ 0.9684533  0.0315467 10.       ]
+10:[0.96994364 0.03005636 1.        ]
+11:[ 0.97121737  0.02878263 13.        ]
+12:[0.97476467 0.02523533 7.        ]
+13:[0.97564105 0.02435895 8.        ]
+14:[0.97577435 0.02422565 3.        ]
+15:[0.97823521 0.02176479 2.        ]
+16:[ 0.97840942  0.02159058 12.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/3
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/3/partants/tableau
+2:[0.43259204 0.56740796 3.        ]
+3:[ 0.74364828  0.25635172 12.        ]
+4:[ 0.8461501  0.1538499 11.       ]
+5:[0.95787444 0.04212556 7.        ]
+6:[0.97468066 0.02531934 5.        ]
+7:[0.9755009 0.0244991 2.       ]
+8:[0.97668193 0.02331807 4.        ]
+9:[0.97874541 0.02125459 6.        ]
+10:[0.98192815 0.01807185 8.        ]
+11:[0.98276099 0.01723901 9.        ]
+12:[ 0.98577624  0.01422376 10.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/4
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/4/partants/tableau
+1:[ 0.39112523  0.60887477 11.        ]
+2:[ 0.40190529  0.59809471 12.        ]
+3:[0.77814488 0.22185512 2.        ]
+4:[0.90023874 0.09976126 8.        ]
+5:[ 0.95123742  0.04876258 10.        ]
+6:[0.96270337 0.03729663 9.        ]
+7:[0.96416614 0.03583386 5.        ]
+8:[0.96969516 0.03030484 7.        ]
+9:[0.97425419 0.02574581 3.        ]
+10:[0.97729096 0.02270904 6.        ]
+11:[0.97934296 0.02065704 1.        ]
+12:[0.98183481 0.01816519 4.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/5
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/5/partants/tableau
+1:[0.69951855 0.30048145 9.        ]
+2:[ 0.76633994  0.23366006 11.        ]
+3:[0.8404443 0.1595557 3.       ]
+4:[0.88728409 0.11271591 4.        ]
+5:[0.88799029 0.11200971 1.        ]
+6:[0.91018242 0.08981758 5.        ]
+7:[ 0.92090302  0.07909698 12.        ]
+8:[0.92871911 0.07128089 7.        ]
+9:[0.94152152 0.05847848 8.        ]
+10:[ 0.94363102  0.05636898 10.        ]
+11:[ 0.96521096  0.03478904 13.        ]
+12:[0.96885827 0.03114173 6.        ]
+13:[0.9741092 0.0258908 2.       ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/6
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/6/partants/tableau
+1:[0.89544487 0.10455513 7.        ]
+2:[0.90421288 0.09578712 2.        ]
+3:[0.94073713 0.05926287 4.        ]
+4:[0.95416835 0.04583165 6.        ]
+5:[0.95907227 0.04092773 9.        ]
+6:[0.96562078 0.03437922 8.        ]
+7:[0.96724116 0.03275884 3.        ]
+8:[0.97014404 0.02985596 5.        ]
+9:[0.98145121 0.01854879 1.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/7
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/7/partants/tableau
+1:[0.32905114 0.67094886 1.        ]
+2:[0.37773874 0.62226126 3.        ]
+3:[ 0.56495924  0.43504076 12.        ]
+4:[ 0.83005628  0.16994372 11.        ]
+5:[0.93825398 0.06174602 2.        ]
+6:[ 0.94799943  0.05200057 13.        ]
+7:[0.95017404 0.04982596 6.        ]
+8:[0.95187845 0.04812155 7.        ]
+9:[ 0.96957947  0.03042053 10.        ]
+10:[0.97425612 0.02574388 8.        ]
+11:[0.97865085 0.02134915 9.        ]
+12:[0.97982136 0.02017864 4.        ]
+13:[0.98356397 0.01643603 5.        ]
+Hippodrome de Saint-Gervais L'ISLE SUR LA SORGUE
+2023-04-22/8405/8
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/8405/8/partants/tableau
+1:[0.33652396 0.66347604 2.        ]
+2:[ 0.84742689  0.15257311 10.        ]
+3:[0.85495016 0.14504984 5.        ]
+4:[ 0.90269136  0.09730864 11.        ]
+5:[0.96268063 0.03731937 3.        ]
+6:[0.97213816 0.02786184 9.        ]
+7:[0.97502854 0.02497146 1.        ]
+8:[0.97585884 0.02414116 4.        ]
+9:[0.98075297 0.01924703 7.        ]
+10:[0.98320916 0.01679084 8.        ]
+11:[0.99017699 0.00982301 6.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/1
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/1/partants/tableau
+1:[0.2252278 0.7747722 2.       ]
+2:[ 0.66500651  0.33499349 15.        ]
+3:[0.6974536 0.3025464 5.       ]
+4:[0.79830064 0.20169936 7.        ]
+5:[ 0.86139751  0.13860249 13.        ]
+6:[ 0.9504624  0.0495376 12.       ]
+7:[ 0.95723538  0.04276462 11.        ]
+8:[0.96748043 0.03251957 8.        ]
+9:[ 0.9675724  0.0324276 14.       ]
+10:[0.96901412 0.03098588 3.        ]
+11:[ 0.9745234  0.0254766 16.       ]
+12:[0.97563337 0.02436663 6.        ]
+13:[ 0.97915031  0.02084969 10.        ]
+14:[0.98809633 0.01190367 4.        ]
+15:[0.98869934 0.01130066 1.        ]
+16:[0.98895187 0.01104813 9.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/2
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/2/partants/tableau
+1:[0.10106741 0.89893259 1.        ]
+2:[0.21083221 0.78916779 7.        ]
+3:[ 0.31552128  0.68447872 10.        ]
+4:[ 0.94917643  0.05082357 15.        ]
+5:[0.96421796 0.03578204 6.        ]
+6:[0.96599554 0.03400446 5.        ]
+7:[0.96938542 0.03061458 3.        ]
+8:[0.97503386 0.02496614 9.        ]
+9:[0.97890127 0.02109873 2.        ]
+10:[0.98139486 0.01860514 8.        ]
+11:[ 0.98340007  0.01659993 12.        ]
+12:[ 0.98464419  0.01535581 11.        ]
+13:[9.87372339e-01 1.26276609e-02 1.30000000e+01]
+15:[0.9886579 0.0113421 4.       ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/3
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/3/partants/tableau
+1:[ 0.75693584  0.24306416 12.        ]
+2:[0.81645733 0.18354267 6.        ]
+3:[ 0.88785438  0.11214562 11.        ]
+4:[0.92435838 0.07564162 7.        ]
+5:[ 0.94059129  0.05940871 10.        ]
+6:[0.95276583 0.04723417 1.        ]
+7:[0.96008287 0.03991713 9.        ]
+8:[0.96190016 0.03809984 8.        ]
+9:[0.97157038 0.02842962 5.        ]
+10:[ 0.97822908  0.02177092 13.        ]
+11:[0.97825082 0.02174918 4.        ]
+12:[0.98143105 0.01856895 2.        ]
+13:[0.98254501 0.01745499 3.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/4
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/4/partants/tableau
+1:[0.24040398 0.75959602 6.        ]
+2:[0.24361116 0.75638884 5.        ]
+3:[0.5831166 0.4168834 7.       ]
+4:[0.7887528 0.2112472 9.       ]
+5:[0.96889856 0.03110144 4.        ]
+6:[0.9722097 0.0277903 8.       ]
+7:[0.97409952 0.02590048 3.        ]
+8:[0.97831101 0.02168899 2.        ]
+9:[0.98514308 0.01485692 1.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/5
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/5/partants/tableau
+1:[ 0.24101994  0.75898006 15.        ]
+2:[ 0.26279275  0.73720725 11.        ]
+3:[0.44841086 0.55158914 7.        ]
+4:[0.6147073 0.3852927 8.       ]
+5:[0.81938453 0.18061547 1.        ]
+6:[ 0.85917139  0.14082861 14.        ]
+7:[0.88597671 0.11402329 5.        ]
+8:[ 0.95623657  0.04376343 10.        ]
+9:[0.96988532 0.03011468 9.        ]
+10:[0.97821298 0.02178702 4.        ]
+11:[ 0.97878248  0.02121752 13.        ]
+12:[ 0.97948218  0.02051782 16.        ]
+13:[0.98240631 0.01759369 6.        ]
+14:[0.98422213 0.01577787 2.        ]
+15:[9.88331635e-01 1.16683652e-02 1.20000000e+01]
+16:[0.99045948 0.00954052 3.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/6
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/6/partants/tableau
+1:[0.77964427 0.22035573 5.        ]
+2:[ 0.91659498  0.08340502 10.        ]
+3:[0.96100042 0.03899958 7.        ]
+4:[0.96315881 0.03684119 3.        ]
+5:[0.96846417 0.03153583 2.        ]
+6:[0.97149343 0.02850657 6.        ]
+7:[0.97221749 0.02778251 4.        ]
+8:[0.97353801 0.02646199 1.        ]
+9:[0.97458362 0.02541638 8.        ]
+10:[0.97577427 0.02422573 9.        ]
+11:[ 0.98089435  0.01910565 11.        ]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/7
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/7/partants/tableau
+1:[0.32865154 0.67134846 2.        ]
+2:[ 0.74338489  0.25661511 14.        ]
+3:[0.89739923 0.10260077 8.        ]
+4:[ 0.92014766  0.07985234 15.        ]
+5:[ 0.93362561  0.06637439 11.        ]
+6:[0.95599487 0.04400513 7.        ]
+7:[ 0.96026952  0.03973048 10.        ]
+8:[0.96666973 0.03333027 4.        ]
+9:[0.96974604 0.03025396 3.        ]
+10:[0.97463056 0.02536944 5.        ]
+11:[ 0.97509514  0.02490486 13.        ]
+12:[ 0.97531191  0.02468809 16.        ]
+13:[0.97711966 0.02288034 1.        ]
+14:[0.98220027 0.01779973 9.        ]
+15:[0.98235904 0.01764096 6.        ]
+16:[9.89339514e-01 1.06604859e-02 1.20000000e+01]
+Hippodrome des Bruyères MAURE DE BRETAGNE
+2023-04-22/3507/8
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-22/3507/8/partants/tableau
+1:[0.40881047 0.59118953 1.        ]
+2:[ 0.76707355  0.23292645 10.        ]
+3:[ 0.79384905  0.20615095 12.        ]
+4:[ 0.94907003  0.05092997 11.        ]
+5:[0.95361553 0.04638447 4.        ]
+6:[ 0.96868636  0.03131364 14.        ]
+7:[0.97419327 0.02580673 5.        ]
+8:[0.97434666 0.02565334 3.        ]
+9:[0.97478441 0.02521559 2.        ]
+10:[ 0.97494947  0.02505053 15.        ]
+11:[0.97765013 0.02234987 6.        ]
+12:[0.97791997 0.02208003 8.        ]
+13:[ 0.98069089  0.01930911 13.        ]
+14:[0.98244888 0.01755112 7.        ]
+15:[9.84702023e-01 1.52979774e-02 1.60000000e+01]
+16:[9.92619705e-01 7.38029539e-03 9.00000000e+00]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/1/partants/tableau
+1:[ 0.60357041  0.39642959 13.        ]
+2:[0.74697734 0.25302266 3.        ]
+3:[0.77499826 0.22500174 4.        ]
+4:[ 0.82172839  0.17827161 12.        ]
+5:[ 0.83190252  0.16809748 14.        ]
+6:[ 0.89964532  0.10035468 10.        ]
+7:[ 0.9416062  0.0583938 15.       ]
+8:[ 0.94887651  0.05112349 16.        ]
+9:[0.95001209 0.04998791 2.        ]
+10:[0.95907651 0.04092349 8.        ]
+11:[0.96784325 0.03215675 9.        ]
+12:[0.97191231 0.02808769 5.        ]
+13:[0.97333492 0.02666508 6.        ]
+14:[0.97754196 0.02245804 7.        ]
+15:[ 0.97943671  0.02056329 11.        ]
+16:[0.98826479 0.01173521 1.        ]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/2/partants/tableau
+1:[0.2993627 0.7006373 9.       ]
+2:[0.33136361 0.66863639 2.        ]
+3:[0.40786971 0.59213029 3.        ]
+4:[ 0.6679469  0.3320531 10.       ]
+5:[0.73419487 0.26580513 8.        ]
+6:[0.81100842 0.18899158 6.        ]
+7:[0.89165279 0.10834721 7.        ]
+8:[0.9010359 0.0989641 4.       ]
+9:[0.92103825 0.07896175 5.        ]
+10:[0.98255612 0.01744388 1.        ]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/3/partants/tableau
+1:[ 0.20231665  0.79768335 15.        ]
+2:[0.53180714 0.46819286 1.        ]
+3:[0.64817775 0.35182225 8.        ]
+4:[0.65669461 0.34330539 5.        ]
+5:[0.81735485 0.18264515 9.        ]
+6:[0.91343721 0.08656279 4.        ]
+7:[ 0.91965727  0.08034273 14.        ]
+8:[0.94581419 0.05418581 6.        ]
+9:[ 0.94652548  0.05347452 10.        ]
+10:[0.94655104 0.05344896 7.        ]
+11:[ 0.94888136  0.05111864 17.        ]
+12:[ 0.95902211  0.04097789 11.        ]
+13:[0.96330313 0.03669687 2.        ]
+14:[0.96339708 0.03660292 3.        ]
+15:[ 0.98109314  0.01890686 13.        ]
+16:[ 0.98416036  0.01583964 12.        ]
+17:[9.89007963e-01 1.09920369e-02 1.60000000e+01]
+18:[9.90912626e-01 9.08737441e-03 1.80000000e+01]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/4/partants/tableau
+1:[0.27538002 0.72461998 7.        ]
+2:[ 0.288091  0.711909 11.      ]
+3:[0.8764421 0.1235579 1.       ]
+4:[0.91424006 0.08575994 6.        ]
+5:[ 0.95882525  0.04117475 12.        ]
+6:[0.96612914 0.03387086 2.        ]
+7:[ 0.96645781  0.03354219 13.        ]
+8:[0.9739319 0.0260681 3.       ]
+9:[0.97994432 0.02005568 4.        ]
+10:[0.98078555 0.01921445 8.        ]
+11:[0.98233541 0.01766459 5.        ]
+12:[ 0.98546429  0.01453571 10.        ]
+13:[9.91881192e-01 8.11880828e-03 9.00000000e+00]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/5/partants/tableau
+1:[ 0.53577527  0.46422473 13.        ]
+2:[ 0.57818729  0.42181271 15.        ]
+3:[ 0.90689917  0.09310083 12.        ]
+4:[0.91270027 0.08729973 5.        ]
+5:[0.92019393 0.07980607 3.        ]
+6:[ 0.93653106  0.06346894 10.        ]
+7:[0.96004132 0.03995868 8.        ]
+8:[0.96312082 0.03687918 4.        ]
+9:[0.96924745 0.03075255 7.        ]
+10:[0.9754817 0.0245183 2.       ]
+11:[ 0.979637  0.020363 11.      ]
+12:[0.97975823 0.02024177 6.        ]
+13:[0.98106465 0.01893535 1.        ]
+14:[ 0.98142663  0.01857337 16.        ]
+15:[0.98212797 0.01787203 9.        ]
+16:[9.8975324e-01 1.0246760e-02 1.4000000e+01]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/6/partants/tableau
+1:[ 0.15166378  0.84833622 12.        ]
+2:[ 0.29815213  0.70184787 11.        ]
+3:[ 0.33508855  0.66491145 13.        ]
+4:[0.4696275 0.5303725 2.       ]
+5:[0.62692507 0.37307493 8.        ]
+6:[0.91505408 0.08494592 7.        ]
+7:[0.91745164 0.08254836 5.        ]
+8:[0.94617208 0.05382792 4.        ]
+9:[0.96132327 0.03867673 6.        ]
+10:[0.96360366 0.03639634 3.        ]
+11:[0.96816925 0.03183075 1.        ]
+12:[ 0.97228507  0.02771493 10.        ]
+13:[0.98103394 0.01896606 9.        ]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/7/partants/tableau
+1:[0.18562172 0.81437828 8.        ]
+2:[0.57865018 0.42134982 3.        ]
+3:[0.73844171 0.26155829 5.        ]
+4:[0.76100246 0.23899754 7.        ]
+5:[0.93894754 0.06105246 4.        ]
+6:[0.958766 0.041234 6.      ]
+7:[ 0.96145811  0.03854189 10.        ]
+8:[0.9635099 0.0364901 2.       ]
+9:[0.96487493 0.03512507 1.        ]
+10:[0.9770301 0.0229699 9.       ]
+Hippodrome de la Loire CORDEMAIS
+2023-04-23/4405/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4405/8/partants/tableau
+1:[0.83876053 0.16123947 1.        ]
+2:[0.87366877 0.12633123 7.        ]
+3:[0.9434438 0.0565562 4.       ]
+4:[0.94614298 0.05385702 5.        ]
+5:[0.95066022 0.04933978 9.        ]
+6:[0.9514143 0.0485857 3.       ]
+7:[ 0.96416912  0.03583088 10.        ]
+8:[0.96486628 0.03513372 2.        ]
+9:[0.96703746 0.03296254 6.        ]
+10:[ 0.96902389  0.03097611 11.        ]
+11:[0.98219525 0.01780475 8.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/1/partants/tableau
+1:[ 0.96361693  0.03638307 13.        ]
+2:[ 0.96595778  0.03404222 11.        ]
+3:[0.96814871 0.03185129 9.        ]
+4:[0.97039305 0.02960695 4.        ]
+5:[0.97218615 0.02781385 2.        ]
+6:[0.9760095 0.0239905 3.       ]
+7:[ 0.97619407  0.02380593 12.        ]
+8:[0.97653389 0.02346611 7.        ]
+9:[0.97659278 0.02340722 1.        ]
+10:[ 0.97669251  0.02330749 14.        ]
+11:[0.97742765 0.02257235 5.        ]
+12:[0.97754564 0.02245436 8.        ]
+13:[ 0.97775349  0.02224651 10.        ]
+14:[0.97959628 0.02040372 6.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/2/partants/tableau
+1:[0.12924297 0.87075703 3.        ]
+2:[0.90828673 0.09171327 5.        ]
+3:[ 0.95395528  0.04604472 12.        ]
+4:[0.96098223 0.03901777 6.        ]
+5:[0.96528751 0.03471249 7.        ]
+6:[ 0.96820248  0.03179752 11.        ]
+7:[0.97099078 0.02900922 9.        ]
+8:[0.97377305 0.02622695 2.        ]
+9:[0.97577683 0.02422317 8.        ]
+10:[0.9762173 0.0237827 1.       ]
+11:[0.97652383 0.02347617 4.        ]
+12:[ 0.97824495  0.02175505 10.        ]
+13:[ 0.97969301  0.02030699 13.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/3/partants/tableau
+1:[ 0.15975297  0.84024703 10.        ]
+2:[ 0.36504245  0.63495755 11.        ]
+3:[0.65162138 0.34837862 4.        ]
+4:[0.65955405 0.34044595 8.        ]
+5:[0.70998251 0.29001749 6.        ]
+6:[0.85952264 0.14047736 7.        ]
+7:[ 0.86225252  0.13774748 13.        ]
+8:[0.94040641 0.05959359 9.        ]
+9:[ 0.95555545  0.04444455 14.        ]
+10:[0.96420465 0.03579535 2.        ]
+11:[ 0.96777022  0.03222978 12.        ]
+12:[0.97464614 0.02535386 1.        ]
+13:[0.97638011 0.02361989 3.        ]
+14:[0.98585678 0.01414322 5.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/4/partants/tableau
+1:[0.30973598 0.69026402 4.        ]
+2:[0.32849302 0.67150698 3.        ]
+3:[0.66819218 0.33180782 2.        ]
+4:[0.76662555 0.23337445 5.        ]
+5:[ 0.91710397  0.08289603 10.        ]
+6:[0.92411375 0.07588625 7.        ]
+7:[ 0.9573132  0.0426868 11.       ]
+8:[ 0.96416368  0.03583632 14.        ]
+9:[ 0.97505092  0.02494908 13.        ]
+10:[0.97518342 0.02481658 6.        ]
+11:[ 0.975209  0.024791 12.      ]
+12:[0.97629507 0.02370493 1.        ]
+13:[0.97635679 0.02364321 9.        ]
+14:[0.97708242 0.02291758 8.        ]
+15:[9.84392877e-01 1.56071228e-02 1.60000000e+01]
+16:[9.85419446e-01 1.45805541e-02 1.50000000e+01]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/5/partants/tableau
+1:[ 0.18400507  0.81599493 13.        ]
+2:[ 0.60015444  0.39984556 11.        ]
+3:[0.96198295 0.03801705 6.        ]
+4:[0.9645681 0.0354319 9.       ]
+5:[0.96548538 0.03451462 1.        ]
+6:[ 0.96653239  0.03346761 12.        ]
+7:[0.96659131 0.03340869 5.        ]
+8:[ 0.97456451  0.02543549 10.        ]
+9:[0.97671502 0.02328498 2.        ]
+10:[0.97875414 0.02124586 7.        ]
+11:[0.9797184 0.0202816 3.       ]
+12:[0.98148721 0.01851279 8.        ]
+13:[0.98388802 0.01611198 4.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/6/partants/tableau
+1:[ 0.38815389  0.61184611 18.        ]
+2:[0.68321505 0.31678495 8.        ]
+3:[0.78222544 0.21777456 2.        ]
+4:[0.80065097 0.19934903 3.        ]
+5:[0.84621855 0.15378145 5.        ]
+6:[ 0.87121806  0.12878194 16.        ]
+7:[0.89703211 0.10296789 9.        ]
+8:[ 0.90268739  0.09731261 17.        ]
+9:[0.93185779 0.06814221 6.        ]
+10:[ 0.94674741  0.05325259 10.        ]
+11:[ 0.95209895  0.04790105 14.        ]
+12:[0.96745035 0.03254965 7.        ]
+13:[0.96794492 0.03205508 1.        ]
+14:[0.97061292 0.02938708 4.        ]
+15:[ 0.97382314  0.02617686 15.        ]
+16:[ 0.98334983  0.01665017 12.        ]
+17:[ 0.98461798  0.01538202 11.        ]
+18:[9.89874129e-01 1.01258705e-02 1.30000000e+01]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/7/partants/tableau
+1:[ 0.27313362  0.72686638 14.        ]
+2:[0.34092202 0.65907798 6.        ]
+3:[0.74674827 0.25325173 2.        ]
+4:[0.75026189 0.24973811 7.        ]
+5:[0.79375657 0.20624343 3.        ]
+6:[0.80231546 0.19768454 9.        ]
+7:[0.8639401 0.1360599 5.       ]
+8:[ 0.87330669  0.12669331 13.        ]
+9:[ 0.87916361  0.12083639 15.        ]
+10:[0.94530177 0.05469823 4.        ]
+11:[ 0.95251865  0.04748135 10.        ]
+12:[ 0.96328686  0.03671314 11.        ]
+13:[0.97943787 0.02056213 1.        ]
+14:[ 0.98204341  0.01795659 12.        ]
+15:[0.99007774 0.00992226 8.        ]
+Hippodrome d'Agen AGEN-LA GARENNE
+2023-04-23/4701/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/4701/8/partants/tableau
+1:[0.20401625 0.79598375 2.        ]
+2:[0.53416455 0.46583545 3.        ]
+3:[ 0.81805314  0.18194686 14.        ]
+4:[ 0.90681067  0.09318933 13.        ]
+5:[ 0.9482498  0.0517502 10.       ]
+6:[ 0.95269384  0.04730616 12.        ]
+7:[0.95360582 0.04639418 6.        ]
+8:[0.9642648 0.0357352 7.       ]
+9:[0.96909323 0.03090677 8.        ]
+10:[0.97030608 0.02969392 5.        ]
+11:[0.97341645 0.02658355 4.        ]
+12:[ 0.97355075  0.02644925 11.        ]
+13:[0.97428481 0.02571519 9.        ]
+14:[0.97438489 0.02561511 1.        ]
+Hippodrome de Vignetta AJACCIO
+2023-04-23/2001/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/4/partants/tableau
+1:[0.34225354 0.65774646 7.        ]
+2:[0.40200256 0.59799744 5.        ]
+3:[0.90066797 0.09933203 3.        ]
+4:[0.95393222 0.04606778 2.        ]
+5:[0.95521499 0.04478501 6.        ]
+6:[0.97485747 0.02514253 1.        ]
+7:[0.98447624 0.01552376 4.        ]
+8:[0.99093129 0.00906871 8.        ]
+Hippodrome de Vignetta AJACCIO
+2023-04-23/2001/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2001/7/partants/tableau
+1:[0.21835462 0.78164538 6.        ]
+2:[0.41284407 0.58715593 8.        ]
+3:[0.79498848 0.20501152 1.        ]
+4:[0.79680478 0.20319522 7.        ]
+5:[0.88600262 0.11399738 3.        ]
+6:[0.9107007 0.0892993 9.       ]
+7:[0.9825536 0.0174464 2.       ]
+8:[0.98352662 0.01647338 5.        ]
+9:[0.99244512 0.00755488 4.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/1/partants/tableau
+1:[0.30566412 0.69433588 8.        ]
+2:[0.70325883 0.29674117 9.        ]
+3:[ 0.80747391  0.19252609 15.        ]
+4:[ 0.84031699  0.15968301 14.        ]
+5:[0.8913793 0.1086207 1.       ]
+6:[ 0.92247531  0.07752469 11.        ]
+7:[ 0.96900994  0.03099006 10.        ]
+8:[ 0.96991191  0.03008809 16.        ]
+9:[ 0.97292979  0.02707021 17.        ]
+10:[ 0.97638298  0.02361702 13.        ]
+11:[0.97894289 0.02105711 3.        ]
+12:[0.97945825 0.02054175 5.        ]
+13:[0.98199972 0.01800028 6.        ]
+14:[9.83838610e-01 1.61613902e-02 1.80000000e+01]
+15:[ 0.9849447  0.0150553 12.       ]
+16:[0.98598124 0.01401876 7.        ]
+17:[0.98674642 0.01325358 2.        ]
+18:[0.98850196 0.01149804 4.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/2/partants/tableau
+1:[0.96320106 0.03679894 7.        ]
+2:[ 0.96340669  0.03659331 12.        ]
+3:[0.96701801 0.03298199 6.        ]
+4:[0.97089425 0.02910575 5.        ]
+5:[ 0.973133  0.026867 10.      ]
+6:[0.97387197 0.02612803 1.        ]
+7:[0.97516212 0.02483788 8.        ]
+8:[0.97523386 0.02476614 9.        ]
+9:[0.97535634 0.02464366 3.        ]
+10:[ 0.97553871  0.02446129 11.        ]
+11:[0.97609689 0.02390311 2.        ]
+12:[0.97824495 0.02175505 4.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/3/partants/tableau
+1:[ 0.68484337  0.31515663 12.        ]
+2:[0.92997495 0.07002505 9.        ]
+3:[ 0.96034824  0.03965176 10.        ]
+4:[ 0.96114776  0.03885224 11.        ]
+5:[0.96176392 0.03823608 7.        ]
+6:[0.96404406 0.03595594 6.        ]
+7:[0.96578982 0.03421018 5.        ]
+8:[0.97412653 0.02587347 2.        ]
+9:[0.97447036 0.02552964 8.        ]
+10:[0.97672429 0.02327571 4.        ]
+11:[0.97719095 0.02280905 1.        ]
+12:[0.97945698 0.02054302 3.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/4/partants/tableau
+1:[ 0.14509152  0.85490848 10.        ]
+2:[0.78397312 0.21602688 4.        ]
+3:[0.80770279 0.19229721 9.        ]
+4:[0.81724866 0.18275134 5.        ]
+5:[0.85490232 0.14509768 7.        ]
+6:[ 0.94623461  0.05376539 15.        ]
+7:[0.94893602 0.05106398 3.        ]
+8:[ 0.95570987  0.04429013 14.        ]
+9:[0.95662851 0.04337149 2.        ]
+10:[ 0.97016939  0.02983061 16.        ]
+11:[0.97232849 0.02767151 6.        ]
+12:[0.97242586 0.02757414 1.        ]
+13:[0.97383909 0.02616091 8.        ]
+14:[ 0.97392834  0.02607166 12.        ]
+15:[ 0.97541788  0.02458212 13.        ]
+16:[ 0.97551235  0.02448765 11.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/5/partants/tableau
+1:[0.08958031 0.91041969 3.        ]
+2:[0.25415578 0.74584422 5.        ]
+3:[ 0.88521305  0.11478695 11.        ]
+4:[ 0.90056375  0.09943625 10.        ]
+5:[0.9083623 0.0916377 9.       ]
+6:[0.90872821 0.09127179 4.        ]
+7:[0.93429726 0.06570274 2.        ]
+8:[0.943505 0.056495 1.      ]
+9:[ 0.95265166  0.04734834 16.        ]
+10:[ 0.95408588  0.04591412 12.        ]
+11:[0.95500362 0.04499638 8.        ]
+12:[ 0.96318827  0.03681173 13.        ]
+13:[0.96690035 0.03309965 6.        ]
+14:[0.97043708 0.02956292 7.        ]
+15:[ 0.97535805  0.02464195 15.        ]
+16:[ 0.97878003  0.02121997 14.        ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/6/partants/tableau
+1:[ 0.29699576  0.70300424 12.        ]
+2:[0.87961891 0.12038109 3.        ]
+3:[0.8816463 0.1183537 7.       ]
+4:[0.90925337 0.09074663 6.        ]
+5:[0.92606977 0.07393023 4.        ]
+6:[0.95353288 0.04646712 1.        ]
+7:[ 0.96251223  0.03748777 14.        ]
+8:[0.96712999 0.03287001 9.        ]
+9:[0.97090427 0.02909573 8.        ]
+10:[ 0.9724579  0.0275421 16.       ]
+11:[0.97912904 0.02087096 5.        ]
+12:[ 0.98827817  0.01172183 11.        ]
+13:[9.88284190e-01 1.17158101e-02 1.30000000e+01]
+14:[9.88467593e-01 1.15324065e-02 1.50000000e+01]
+15:[0.99064804 0.00935196 2.        ]
+16:[9.91358688e-01 8.64131219e-03 1.00000000e+01]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/7/partants/tableau
+1:[ 0.64646455  0.35353545 15.        ]
+2:[ 0.65925788  0.34074212 14.        ]
+3:[ 0.74585123  0.25414877 10.        ]
+4:[ 0.8584607  0.1415393 12.       ]
+5:[0.87663758 0.12336242 9.        ]
+6:[0.8840222 0.1159778 3.       ]
+7:[ 0.89317912  0.10682088 11.        ]
+8:[0.91564201 0.08435799 4.        ]
+9:[0.923424 0.076576 5.      ]
+10:[0.9330907 0.0669093 6.       ]
+11:[ 0.94564114  0.05435886 13.        ]
+12:[0.96544665 0.03455335 7.        ]
+13:[0.96643545 0.03356455 2.        ]
+14:[0.97238103 0.02761897 8.        ]
+15:[0.98368286 0.01631714 1.        ]
+16:[9.84171845e-01 1.58281553e-02 1.60000000e+01]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/8/partants/tableau
+1:[ 0.68127216  0.31872784 13.        ]
+2:[ 0.85614477  0.14385523 14.        ]
+3:[ 0.90107752  0.09892248 10.        ]
+4:[ 0.92443091  0.07556909 16.        ]
+5:[0.93781877 0.06218123 6.        ]
+6:[0.94202877 0.05797123 4.        ]
+7:[0.95245857 0.04754143 8.        ]
+8:[ 0.95630535  0.04369465 12.        ]
+9:[ 0.96155682  0.03844318 15.        ]
+10:[0.96429248 0.03570752 2.        ]
+11:[ 0.96506211  0.03493789 11.        ]
+12:[0.97522275 0.02477725 3.        ]
+13:[0.97585739 0.02414261 1.        ]
+14:[0.97668568 0.02331432 9.        ]
+15:[0.97996888 0.02003112 5.        ]
+16:[0.982457 0.017543 7.      ]
+Hippodrome d'Alençon ALENCON
+2023-04-23/6101/9
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6101/9/partants/tableau
+1:[ 0.26621729  0.73378271 13.        ]
+2:[ 0.74778009  0.25221991 12.        ]
+3:[ 0.86629578  0.13370422 16.        ]
+4:[ 0.95480223  0.04519777 10.        ]
+5:[ 0.96132936  0.03867064 14.        ]
+6:[0.96684828 0.03315172 5.        ]
+7:[ 0.96824118  0.03175882 15.        ]
+8:[0.96878867 0.03121133 8.        ]
+9:[0.97558361 0.02441639 6.        ]
+10:[0.97617081 0.02382919 4.        ]
+11:[0.97803264 0.02196736 9.        ]
+12:[0.97834546 0.02165454 1.        ]
+13:[0.98250559 0.01749441 2.        ]
+14:[0.9833838 0.0166162 7.       ]
+15:[0.98365207 0.01634793 3.        ]
+16:[ 0.98587776  0.01412224 11.        ]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/1/partants/tableau
+1:[0.15237704 0.84762296 5.        ]
+2:[0.69724797 0.30275203 6.        ]
+3:[0.85174826 0.14825174 7.        ]
+4:[0.96307839 0.03692161 2.        ]
+5:[0.96634811 0.03365189 4.        ]
+6:[0.96684219 0.03315781 8.        ]
+7:[0.97289323 0.02710677 1.        ]
+8:[0.98073463 0.01926537 3.        ]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/2/partants/tableau
+1:[0.82374393 0.17625607 8.        ]
+2:[0.89218852 0.10781148 7.        ]
+3:[0.89498612 0.10501388 5.        ]
+4:[0.9074043 0.0925957 6.       ]
+5:[ 0.91528201  0.08471799 10.        ]
+6:[ 0.92349618  0.07650382 14.        ]
+7:[0.92466162 0.07533838 9.        ]
+8:[ 0.94478282  0.05521718 12.        ]
+9:[0.95169768 0.04830232 1.        ]
+10:[0.95391464 0.04608536 2.        ]
+11:[ 0.97156647  0.02843353 11.        ]
+12:[0.97311843 0.02688157 4.        ]
+13:[0.97412204 0.02587796 3.        ]
+14:[ 0.97816768  0.02183232 13.        ]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/3/partants/tableau
+1:[ 0.32841514  0.67158486 13.        ]
+2:[ 0.69372323  0.30627677 10.        ]
+3:[0.6989575 0.3010425 5.       ]
+4:[0.87364809 0.12635191 9.        ]
+5:[ 0.9056715  0.0943285 12.       ]
+6:[0.96088121 0.03911879 6.        ]
+7:[0.96272262 0.03727738 4.        ]
+8:[0.96994803 0.03005197 3.        ]
+9:[0.97160014 0.02839986 8.        ]
+10:[0.9752712 0.0247288 7.       ]
+11:[ 0.97802758  0.02197242 11.        ]
+12:[0.9824081 0.0175919 1.       ]
+13:[0.98306121 0.01693879 2.        ]
+14:[9.87696607e-01 1.23033931e-02 1.40000000e+01]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/4/partants/tableau
+1:[0.45283324 0.54716676 1.        ]
+2:[0.82689646 0.17310354 2.        ]
+3:[0.83188585 0.16811415 8.        ]
+4:[0.84144773 0.15855227 5.        ]
+5:[0.89377619 0.10622381 6.        ]
+6:[0.97239518 0.02760482 7.        ]
+7:[0.97839294 0.02160706 4.        ]
+8:[0.98462417 0.01537583 3.        ]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/5/partants/tableau
+1:[ 0.21241813  0.78758187 12.        ]
+2:[ 0.93198772  0.06801228 13.        ]
+3:[0.94646156 0.05353844 8.        ]
+4:[0.94695926 0.05304074 2.        ]
+5:[0.95866001 0.04133999 5.        ]
+6:[ 0.96149857  0.03850143 14.        ]
+7:[ 0.9698511  0.0301489 11.       ]
+8:[0.97258292 0.02741708 6.        ]
+9:[0.97380895 0.02619105 3.        ]
+10:[0.97815923 0.02184077 7.        ]
+11:[ 0.98088037  0.01911963 10.        ]
+12:[ 0.98256201  0.01743799 15.        ]
+13:[0.98428893 0.01571107 4.        ]
+14:[0.98436953 0.01563047 1.        ]
+15:[0.98663806 0.01336194 9.        ]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/6/partants/tableau
+1:[0.20383253 0.79616747 9.        ]
+2:[ 0.78773814  0.21226186 15.        ]
+3:[ 0.88399005  0.11600995 13.        ]
+4:[0.96057966 0.03942034 2.        ]
+5:[ 0.97172265  0.02827735 12.        ]
+6:[0.97259831 0.02740169 4.        ]
+7:[0.9746244 0.0253756 3.       ]
+8:[0.97621557 0.02378443 5.        ]
+9:[0.97738464 0.02261536 7.        ]
+10:[ 0.9791472  0.0208528 11.       ]
+11:[0.98027424 0.01972576 8.        ]
+12:[0.98083762 0.01916238 6.        ]
+13:[0.98303647 0.01696353 1.        ]
+14:[ 0.98484111  0.01515889 10.        ]
+15:[ 0.98561983  0.01438017 14.        ]
+16:[9.91102559e-01 8.89744073e-03 1.60000000e+01]
+Hippodrome du Haut-Rillon CHATELAILLON-LA ROCHELLE
+2023-04-23/1702/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/tableau
+1:[0.33174452 0.66825548 9.        ]
+2:[0.87458113 0.12541887 5.        ]
+3:[0.94153946 0.05846054 8.        ]
+4:[0.94492892 0.05507108 2.        ]
+5:[0.94686601 0.05313399 1.        ]
+6:[ 0.96266731  0.03733269 10.        ]
+7:[0.97938314 0.02061686 4.        ]
+8:[0.97989632 0.02010368 7.        ]
+9:[0.98114672 0.01885328 3.        ]
+10:[0.98503284 0.01496716 6.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/tableau
+1:[ 0.06625923  0.93374077 12.        ]
+2:[0.95322982 0.04677018 7.        ]
+3:[ 0.95996539  0.04003461 11.        ]
+4:[0.96144137 0.03855863 9.        ]
+5:[0.9667386 0.0332614 4.       ]
+6:[0.96761138 0.03238862 8.        ]
+7:[0.97243898 0.02756102 5.        ]
+8:[0.97422792 0.02577208 6.        ]
+9:[0.97577272 0.02422728 1.        ]
+10:[0.97597771 0.02402229 3.        ]
+11:[0.97730927 0.02269073 2.        ]
+12:[ 0.98601046  0.01398954 10.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/2/partants/tableau
+1:[0.32951446 0.67048554 6.        ]
+2:[0.49729235 0.50270765 2.        ]
+3:[0.68684968 0.31315032 5.        ]
+4:[0.87273729 0.12726271 3.        ]
+5:[0.91390287 0.08609713 1.        ]
+6:[0.92402562 0.07597438 4.        ]
+7:[ 0.94827128  0.05172872 13.        ]
+8:[0.94940951 0.05059049 7.        ]
+9:[ 0.95368533  0.04631467 12.        ]
+10:[ 0.96797984  0.03202016 11.        ]
+11:[0.97090598 0.02909402 9.        ]
+12:[0.97729267 0.02270733 8.        ]
+13:[ 0.97769116  0.02230884 10.        ]
+15:[ 0.97790184  0.02209816 15.        ]
+16:[9.87116333e-01 1.28836673e-02 1.60000000e+01]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/3/partants/tableau
+1:[ 0.81354739  0.18645261 14.        ]
+2:[ 0.82740212  0.17259788 15.        ]
+3:[0.92445818 0.07554182 5.        ]
+4:[0.92729244 0.07270756 3.        ]
+5:[0.95009693 0.04990307 8.        ]
+6:[0.9595062 0.0404938 7.       ]
+7:[0.96700569 0.03299431 1.        ]
+8:[0.97058559 0.02941441 2.        ]
+9:[0.97221098 0.02778902 6.        ]
+10:[ 0.97954084  0.02045916 12.        ]
+11:[0.98018746 0.01981254 4.        ]
+12:[0.98138666 0.01861334 9.        ]
+13:[ 0.98227225  0.01772775 11.        ]
+14:[ 0.98333257  0.01666743 10.        ]
+15:[ 0.98452042  0.01547958 13.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/4/partants/tableau
+1:[ 0.77944245  0.22055755 16.        ]
+2:[ 0.80740083  0.19259917 15.        ]
+3:[ 0.86683422  0.13316578 14.        ]
+4:[ 0.87297507  0.12702493 10.        ]
+5:[ 0.87615727  0.12384273 12.        ]
+6:[0.88143788 0.11856212 9.        ]
+7:[0.91260723 0.08739277 1.        ]
+8:[0.91681264 0.08318736 5.        ]
+9:[0.95061014 0.04938986 4.        ]
+10:[0.9640743 0.0359257 8.       ]
+11:[ 0.9648104  0.0351896 11.       ]
+12:[0.97297844 0.02702156 2.        ]
+13:[0.97348385 0.02651615 7.        ]
+14:[0.97439016 0.02560984 6.        ]
+15:[ 0.98079131  0.01920869 13.        ]
+16:[0.98151694 0.01848306 3.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/5/partants/tableau
+1:[ 0.25959553  0.74040447 12.        ]
+2:[ 0.90175699  0.09824301 10.        ]
+4:[0.9121031 0.0878969 9.       ]
+5:[0.94652943 0.05347057 8.        ]
+6:[0.94706014 0.05293986 6.        ]
+7:[ 0.94918861  0.05081139 11.        ]
+8:[0.9584484 0.0415516 2.       ]
+9:[0.97342717 0.02657283 5.        ]
+10:[0.97516515 0.02483485 1.        ]
+11:[0.97556173 0.02443827 4.        ]
+12:[0.97971808 0.02028192 7.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/6/partants/tableau
+1:[0.07200772 0.92799228 6.        ]
+2:[0.85655993 0.14344007 9.        ]
+3:[0.873132 0.126868 8.      ]
+4:[0.95440308 0.04559692 2.        ]
+5:[ 0.96026871  0.03973129 11.        ]
+6:[0.96793262 0.03206738 7.        ]
+7:[ 0.97045098  0.02954902 12.        ]
+8:[ 0.97318783  0.02681217 10.        ]
+9:[0.97408676 0.02591324 1.        ]
+10:[0.97686697 0.02313303 3.        ]
+11:[0.97824588 0.02175412 5.        ]
+12:[0.981216 0.018784 4.      ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/7/partants/tableau
+1:[0.21656528 0.78343472 8.        ]
+2:[ 0.86655577  0.13344423 12.        ]
+3:[0.89001157 0.10998843 5.        ]
+4:[0.92870286 0.07129714 9.        ]
+5:[0.96664277 0.03335723 4.        ]
+6:[ 0.96667723  0.03332277 13.        ]
+7:[ 0.97309267  0.02690733 10.        ]
+8:[0.97311136 0.02688864 1.        ]
+9:[ 0.97476601  0.02523399 11.        ]
+10:[0.97584724 0.02415276 7.        ]
+11:[0.97743953 0.02256047 2.        ]
+12:[0.97825119 0.02174881 3.        ]
+13:[0.9785266 0.0214734 6.       ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/8/partants/tableau
+1:[0.18033397 0.81966603 7.        ]
+2:[0.68936872 0.31063128 3.        ]
+3:[0.96670361 0.03329639 5.        ]
+4:[0.96923019 0.03076981 8.        ]
+5:[ 0.97035744  0.02964256 10.        ]
+6:[0.97463547 0.02536453 6.        ]
+7:[0.97535752 0.02464248 1.        ]
+8:[ 0.97607631  0.02392369 12.        ]
+9:[0.9767356 0.0232644 4.       ]
+10:[0.97759635 0.02240365 2.        ]
+11:[ 0.984158  0.015842 11.      ]
+12:[0.98447164 0.01552836 9.        ]
+Hippodrome de la Thiérache LA CAPELLE
+2023-04-23/0202/9
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/0202/9/partants/tableau
+1:[0.30104549 0.69895451 3.        ]
+2:[0.6543548 0.3456452 4.       ]
+3:[0.90438991 0.09561009 8.        ]
+4:[0.90508753 0.09491247 7.        ]
+5:[0.94506209 0.05493791 1.        ]
+6:[0.96078867 0.03921133 9.        ]
+7:[ 0.96465465  0.03534535 11.        ]
+8:[0.96708829 0.03291171 2.        ]
+9:[0.97573285 0.02426715 5.        ]
+10:[ 0.98017865  0.01982135 10.        ]
+11:[0.98208377 0.01791623 6.        ]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/1/partants/tableau
+1:[ 0.59126399  0.40873601 11.        ]
+2:[0.95450111 0.04549889 5.        ]
+3:[0.96319922 0.03680078 9.        ]
+4:[0.96901525 0.03098475 7.        ]
+5:[ 0.96995892  0.03004108 12.        ]
+6:[ 0.97106288  0.02893712 10.        ]
+7:[0.97477078 0.02522922 8.        ]
+8:[0.97863371 0.02136629 1.        ]
+9:[0.97893622 0.02106378 4.        ]
+10:[0.97941974 0.02058026 2.        ]
+11:[0.98007104 0.01992896 6.        ]
+12:[0.98094929 0.01905071 3.        ]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/2/partants/tableau
+1:[ 0.08247733  0.91752267 12.        ]
+2:[0.95929678 0.04070322 9.        ]
+3:[ 0.96312885  0.03687115 11.        ]
+4:[ 0.97402085  0.02597915 10.        ]
+5:[0.97484884 0.02515116 5.        ]
+6:[0.97559958 0.02440042 8.        ]
+7:[0.97645999 0.02354001 7.        ]
+8:[0.97719212 0.02280788 6.        ]
+9:[0.97730927 0.02269073 4.        ]
+10:[0.97838968 0.02161032 3.        ]
+11:[0.97941974 0.02058026 2.        ]
+12:[0.98187169 0.01812831 1.        ]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/3/partants/tableau
+1:[ 0.20537637  0.79462363 12.        ]
+2:[0.94098996 0.05901004 9.        ]
+3:[ 0.96015395  0.03984605 11.        ]
+4:[0.96514614 0.03485386 8.        ]
+5:[ 0.97280116  0.02719884 10.        ]
+6:[0.97528465 0.02471535 7.        ]
+7:[0.97720259 0.02279741 1.        ]
+8:[0.97845454 0.02154546 2.        ]
+9:[0.97893622 0.02106378 4.        ]
+10:[0.98023434 0.01976566 3.        ]
+11:[0.98091503 0.01908497 5.        ]
+12:[0.98142282 0.01857718 6.        ]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/5/partants/tableau
+1:[ 0.71391175  0.28608825 15.        ]
+2:[0.7509709 0.2490291 5.       ]
+3:[0.76959126 0.23040874 9.        ]
+4:[ 0.80661374  0.19338626 14.        ]
+5:[0.81650985 0.18349015 6.        ]
+6:[0.92838578 0.07161422 7.        ]
+7:[ 0.93183644  0.06816356 13.        ]
+8:[ 0.95273512  0.04726488 11.        ]
+9:[0.95660979 0.04339021 8.        ]
+10:[0.96087375 0.03912625 3.        ]
+11:[ 0.97615053  0.02384947 10.        ]
+12:[0.97873931 0.02126069 4.        ]
+13:[0.98096112 0.01903888 1.        ]
+14:[0.98118473 0.01881527 2.        ]
+15:[9.88279382e-01 1.17206176e-02 1.60000000e+01]
+16:[9.88988594e-01 1.10114057e-02 1.20000000e+01]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/6/partants/tableau
+1:[0.12590431 0.87409569 4.        ]
+2:[ 0.67574664  0.32425336 16.        ]
+3:[0.87841944 0.12158056 6.        ]
+4:[ 0.92024908  0.07975092 11.        ]
+5:[ 0.94883595  0.05116405 15.        ]
+6:[ 0.9493188  0.0506812 10.       ]
+7:[0.96485101 0.03514899 8.        ]
+8:[ 0.97136535  0.02863465 14.        ]
+9:[0.97264583 0.02735417 9.        ]
+10:[0.97314688 0.02685312 3.        ]
+11:[0.97404222 0.02595778 1.        ]
+12:[ 0.97654136  0.02345864 13.        ]
+13:[0.97686344 0.02313656 7.        ]
+14:[ 0.9775692  0.0224308 12.       ]
+15:[0.98122416 0.01877584 2.        ]
+16:[0.9862405 0.0137595 5.       ]
+Hippodrome de Calouet LOUDEAC
+2023-04-23/2205/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/2205/8/partants/tableau
+1:[ 0.42308602  0.57691398 16.        ]
+2:[ 0.60528058  0.39471942 15.        ]
+3:[0.71864524 0.28135476 8.        ]
+4:[0.77300033 0.22699967 7.        ]
+5:[0.81805634 0.18194366 6.        ]
+6:[ 0.84729694  0.15270306 13.        ]
+7:[ 0.88117352  0.11882648 11.        ]
+8:[0.90610568 0.09389432 1.        ]
+9:[0.92647683 0.07352317 3.        ]
+10:[0.93745665 0.06254335 2.        ]
+11:[ 0.93962195  0.06037805 12.        ]
+12:[ 0.94769502  0.05230498 10.        ]
+13:[0.9691768 0.0308232 5.       ]
+14:[ 0.97325358  0.02674642 14.        ]
+15:[0.97949952 0.02050048 4.        ]
+16:[0.98888283 0.01111717 9.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/1
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/1/partants/tableau
+1:[0.95890181 0.04109819 8.        ]
+2:[0.96458664 0.03541336 6.        ]
+3:[0.96509764 0.03490236 3.        ]
+4:[0.96886753 0.03113247 4.        ]
+5:[0.97492016 0.02507984 2.        ]
+6:[0.97551125 0.02448875 5.        ]
+7:[0.97723369 0.02276631 7.        ]
+8:[0.97885658 0.02114342 1.        ]
+9:[0.97979414 0.02020586 9.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/2
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/2/partants/tableau
+1:[ 0.60662621  0.39337379 12.        ]
+2:[0.70784344 0.29215656 8.        ]
+3:[0.71591199 0.28408801 2.        ]
+4:[ 0.8523086  0.1476914 13.       ]
+5:[0.88014328 0.11985672 7.        ]
+6:[ 0.93668682  0.06331318 14.        ]
+7:[0.93882141 0.06117859 9.        ]
+8:[0.9585294 0.0414706 1.       ]
+9:[0.96552942 0.03447058 3.        ]
+10:[ 0.97117601  0.02882399 15.        ]
+11:[0.97214497 0.02785503 6.        ]
+12:[0.97304942 0.02695058 5.        ]
+13:[ 0.97418016  0.02581984 16.        ]
+14:[ 0.97704132  0.02295868 11.        ]
+15:[0.97743637 0.02256363 4.        ]
+16:[ 0.97894066  0.02105934 10.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/3
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/3/partants/tableau
+1:[0.14430167 0.85569833 8.        ]
+2:[0.62134639 0.37865361 5.        ]
+3:[ 0.75478772  0.24521228 10.        ]
+4:[0.81893046 0.18106954 9.        ]
+5:[ 0.88181363  0.11818637 16.        ]
+6:[0.93927471 0.06072529 4.        ]
+7:[0.9433102 0.0566898 2.       ]
+8:[0.95578459 0.04421541 7.        ]
+9:[0.96605035 0.03394965 3.        ]
+10:[ 0.96760563  0.03239437 15.        ]
+11:[ 0.9706621  0.0293379 12.       ]
+12:[ 0.97483599  0.02516401 11.        ]
+13:[ 0.97558749  0.02441251 13.        ]
+14:[ 0.976396  0.023604 14.      ]
+15:[0.97741645 0.02258355 1.        ]
+16:[0.97878722 0.02121278 6.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/4
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/4/partants/tableau
+1:[ 0.77186849  0.22813151 12.        ]
+2:[0.77320367 0.22679633 9.        ]
+3:[0.86416719 0.13583281 4.        ]
+4:[0.89142131 0.10857869 8.        ]
+5:[ 0.92485208  0.07514792 13.        ]
+6:[0.92690021 0.07309979 6.        ]
+7:[ 0.92754316  0.07245684 11.        ]
+8:[0.93189173 0.06810827 7.        ]
+9:[ 0.95334304  0.04665696 14.        ]
+10:[0.96178254 0.03821746 5.        ]
+11:[ 0.97104527  0.02895473 10.        ]
+12:[0.97161764 0.02838236 3.        ]
+13:[0.97803502 0.02196498 1.        ]
+14:[0.97846405 0.02153595 2.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/5
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/5/partants/tableau
+1:[0.51382949 0.48617051 2.        ]
+2:[0.69605096 0.30394904 5.        ]
+3:[ 0.88686472  0.11313528 13.        ]
+4:[ 0.92611504  0.07388496 14.        ]
+5:[0.93965574 0.06034426 4.        ]
+6:[ 0.94642711  0.05357289 12.        ]
+7:[0.94823137 0.05176863 7.        ]
+8:[0.95945055 0.04054945 3.        ]
+9:[0.96117952 0.03882048 1.        ]
+10:[0.96556641 0.03443359 8.        ]
+11:[0.96574808 0.03425192 6.        ]
+12:[ 0.96802848  0.03197152 11.        ]
+13:[0.97812112 0.02187888 9.        ]
+14:[ 0.9812038  0.0187962 10.       ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/6
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/6/partants/tableau
+1:[0.65129652 0.34870348 1.        ]
+2:[ 0.78395876  0.21604124 10.        ]
+3:[0.86379423 0.13620577 6.        ]
+4:[0.88583046 0.11416954 7.        ]
+5:[0.94050852 0.05949148 4.        ]
+6:[ 0.94669986  0.05330014 11.        ]
+7:[ 0.95040916  0.04959084 12.        ]
+8:[0.95648082 0.04351918 8.        ]
+9:[0.95897036 0.04102964 3.        ]
+10:[0.95929026 0.04070974 5.        ]
+11:[0.9698543 0.0301457 2.       ]
+12:[0.97619704 0.02380296 9.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/7
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/7/partants/tableau
+1:[ 0.60467493  0.39532507 16.        ]
+2:[ 0.68683283  0.31316717 13.        ]
+3:[0.85788862 0.14211138 5.        ]
+4:[0.87918387 0.12081613 2.        ]
+5:[ 0.88128345  0.11871655 15.        ]
+6:[ 0.90498246  0.09501754 14.        ]
+7:[0.92430802 0.07569198 7.        ]
+8:[0.9324239 0.0675761 8.       ]
+9:[ 0.93609874  0.06390126 10.        ]
+10:[ 0.93846503  0.06153497 12.        ]
+11:[0.94558629 0.05441371 3.        ]
+12:[0.94965361 0.05034639 1.        ]
+13:[0.9613612 0.0386388 6.       ]
+14:[0.97412361 0.02587639 4.        ]
+15:[ 0.98625282  0.01374718 11.        ]
+16:[0.99078929 0.00921071 9.        ]
+Hippodrome de Parilly LYON (A PARILLY)
+2023-04-23/6901/8
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/drivers/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/chevaux/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/couples/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/tandems/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/entraineurs/paginate
+https://www.letrot.com/stats/fiche-course/2023-04-23/6901/8/partants/tableau
+1:[0.23139172 0.76860828 7.        ]
+2:[0.24905167 0.75094833 9.        ]
+3:[0.66075662 0.33924338 8.        ]
+4:[0.86370328 0.13629672 5.        ]
+5:[0.92957471 0.07042529 1.        ]
+6:[ 0.95063022  0.04936978 10.        ]
+7:[ 0.96199261  0.03800739 11.        ]
+8:[0.97166414 0.02833586 4.        ]
+9:[0.98150527 0.01849473 2.        ]
+10:[0.98432447 0.01567553 3.        ]
+11:[0.989334 0.010666 6.      ]
