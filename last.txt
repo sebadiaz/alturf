@@ -1,4 +1,4 @@
-dim. 23 avril 2023 12:00:01 CEST
+dim. 23 avril 2023 16:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=23-04-2023&publish_down=24-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-23/4405/json
 https://www.letrot.com/stats/courses/programme/2023-04-23/4701/json
@@ -740,10 +740,9 @@ https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-23/1702/7/partants/tableau
 1:[0.33174452 0.66825548 9.        ]
-2:[0.87458113 0.12541887 5.        ]
-3:[0.94153946 0.05846054 8.        ]
-4:[0.94492892 0.05507108 2.        ]
-5:[0.94686601 0.05313399 1.        ]
+2:[0.94153946 0.05846054 8.        ]
+3:[0.94492892 0.05507108 2.        ]
+4:[0.94686601 0.05313399 1.        ]
 6:[ 0.96266731  0.03733269 10.        ]
 7:[0.97938314 0.02061686 4.        ]
 8:[0.97989632 0.02010368 7.        ]
@@ -761,8 +760,7 @@ https://www.letrot.com/stats/fiche-course/2023-04-23/0202/1/partants/tableau
 2:[ 0.95996539  0.04003461 11.        ]
 3:[0.96144137 0.03855863 9.        ]
 4:[0.9667386 0.0332614 4.       ]
-5:[0.96761138 0.03238862 8.        ]
-6:[0.97243898 0.02756102 5.        ]
+6:[0.96761138 0.03238862 8.        ]
 7:[0.97422792 0.02577208 6.        ]
 8:[0.97577272 0.02422728 1.        ]
 9:[0.97597771 0.02402229 3.        ]
