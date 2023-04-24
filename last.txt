@@ -1,4 +1,4 @@
-lun. 24 avril 2023 08:00:01 CEST
+lun. 24 avril 2023 12:00:18 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=24-04-2023&publish_down=25-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-24/1400/json
 https://www.letrot.com/stats/courses/programme/2023-04-24/5102/json
@@ -12,17 +12,16 @@ https://www.letrot.com/stats/fiche-course/2023-04-24/1400/1/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-04-24/1400/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-24/1400/1/partants/tableau
 1:[ 0.04594056  0.95405944 16.        ]
-2:[ 0.11538425  0.88461575 12.        ]
-3:[ 0.73103818  0.26896182 14.        ]
-4:[ 0.90782013  0.09217987 15.        ]
-5:[0.92323552 0.07676448 4.        ]
-6:[0.93049911 0.06950089 6.        ]
-7:[0.96388866 0.03611134 5.        ]
-8:[0.96865794 0.03134206 8.        ]
-9:[ 0.96936398  0.03063602 10.        ]
-10:[0.97524827 0.02475173 1.        ]
-11:[0.97526266 0.02473734 2.        ]
-12:[0.97614625 0.02385375 7.        ]
+2:[ 0.73103818  0.26896182 14.        ]
+3:[ 0.90782013  0.09217987 15.        ]
+4:[0.92323552 0.07676448 4.        ]
+5:[0.93049911 0.06950089 6.        ]
+6:[0.96388866 0.03611134 5.        ]
+7:[0.96865794 0.03134206 8.        ]
+8:[ 0.96936398  0.03063602 10.        ]
+9:[0.97524827 0.02475173 1.        ]
+10:[0.97526266 0.02473734 2.        ]
+11:[0.97614625 0.02385375 7.        ]
 14:[0.97692378 0.02307622 9.        ]
 15:[ 0.97701326  0.02298674 11.        ]
 16:[0.97802587 0.02197413 3.        ]
@@ -323,9 +322,8 @@ https://www.letrot.com/stats/fiche-course/2023-04-24/5102/7/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-04-24/5102/7/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-24/5102/7/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-04-24/5102/7/partants/tableau
-1:[0.96594 0.03406 3.     ]
-2:[ 0.9711614  0.0288386 11.       ]
-3:[0.97173441 0.02826559 2.        ]
+1:[ 0.9711614  0.0288386 11.       ]
+2:[0.97173441 0.02826559 2.        ]
 4:[0.97501337 0.02498663 1.        ]
 5:[0.97643671 0.02356329 8.        ]
 6:[0.97962528 0.02037472 6.        ]
