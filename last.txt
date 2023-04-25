@@ -1,4 +1,4 @@
-mar. 25 avril 2023 12:00:24 CEST
+mar. 25 avril 2023 16:00:20 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=25-04-2023&publish_down=26-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-25/7500/json
 https://www.letrot.com/stats/courses/programme/2023-04-26/2210/json
@@ -158,11 +158,10 @@ https://www.letrot.com/stats/fiche-course/2023-04-25/7500/8/partants/entraineurs
 https://www.letrot.com/stats/fiche-course/2023-04-25/7500/8/partants/tableau
 1:[ 0.20501962  0.79498038 14.        ]
 2:[0.39410899 0.60589101 4.        ]
-3:[0.41115117 0.58884883 7.        ]
-4:[0.58253714 0.41746286 5.        ]
-5:[ 0.74078762  0.25921238 11.        ]
-6:[0.79638852 0.20361148 2.        ]
-7:[0.84741008 0.15258992 3.        ]
+3:[0.58253714 0.41746286 5.        ]
+4:[ 0.74078762  0.25921238 11.        ]
+5:[0.79638852 0.20361148 2.        ]
+6:[0.84741008 0.15258992 3.        ]
 8:[0.85506791 0.14493209 1.        ]
 9:[0.87688284 0.12311716 6.        ]
 10:[ 0.94343246  0.05656754 12.        ]
