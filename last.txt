@@ -1,4 +1,4 @@
-mar. 25 avril 2023 16:00:20 CEST
+mar. 25 avril 2023 18:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=25-04-2023&publish_down=26-04-2023
 https://www.letrot.com/stats/courses/programme/2023-04-25/7500/json
 https://www.letrot.com/stats/courses/programme/2023-04-26/2210/json
@@ -18,9 +18,9 @@ https://www.letrot.com/stats/fiche-course/2023-04-25/7500/1/partants/tableau
 6:[0.60601396 0.39398604 7.        ]
 7:[0.61544344 0.38455656 2.        ]
 8:[ 0.84375643  0.15624357 12.        ]
-9:[0.89913179 0.10086821 5.        ]
-10:[0.95707239 0.04292761 3.        ]
-11:[0.9666336 0.0333664 1.       ]
+9:[0.95707239 0.04292761 3.        ]
+10:[0.9666336 0.0333664 1.       ]
+11:[0.98273572 0.01726428 5.        ]
 12:[0.98567523 0.01432477 9.        ]
 Vincennes Hippodrome de Paris VINCENNES
 2023-04-25/7500/2
