@@ -1,5 +1,5 @@
 # Daily Turf on ['26042023']
-##### Last Refresh 2023-04-26 20:40:22.112031
+##### Last Refresh 2023-04-26 20:50:19.592052
 
 ## 2023-04-26 13:50:00 HIPPODROME DE SAINT BRIEUC 1 1
 ### TROT_ATTELE
