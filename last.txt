@@ -1,4 +1,4 @@
-mar. 13 juin 2023 12:00:01 CEST
+mar. 13 juin 2023 16:00:20 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=13-06-2023&publish_down=14-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-13/4901/json
 https://www.letrot.com/stats/courses/programme/2023-06-13/7500/json
@@ -226,7 +226,6 @@ https://www.letrot.com/stats/fiche-course/2023-06-13/7500/4/partants/tableau
 3:[0.2720232 0.7279768 9.       ]
 4:[0.39201718 0.60798282 8.        ]
 5:[0.77139304 0.22860696 2.        ]
-6:[0.91757706 0.08242294 6.        ]
 7:[0.94958765 0.05041235 5.        ]
 8:[ 0.9544864  0.0455136 10.       ]
 9:[0.95927623 0.04072377 1.        ]
