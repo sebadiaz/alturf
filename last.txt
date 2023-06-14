@@ -1,4 +1,4 @@
-mer. 14 juin 2023 12:00:01 CEST
+mer. 14 juin 2023 16:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=14-06-2023&publish_down=15-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-14/6102/json
 https://www.letrot.com/stats/courses/programme/2023-06-14/0305/json
@@ -855,9 +855,8 @@ https://www.letrot.com/stats/fiche-course/2023-06-15/5008/7/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-06-15/5008/7/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-15/5008/7/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-15/5008/7/partants/tableau
-1:[0.68396196 0.31603804 3.        ]
-2:[0.86860396 0.13139604 7.        ]
-3:[ 0.91986554  0.08013446 14.        ]
+1:[0.86860396 0.13139604 7.        ]
+2:[ 0.91986554  0.08013446 14.        ]
 4:[ 0.92889962  0.07110038 12.        ]
 5:[0.93092063 0.06907937 4.        ]
 6:[ 0.94835289  0.05164711 10.        ]
