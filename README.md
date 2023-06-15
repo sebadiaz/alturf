@@ -1,5 +1,5 @@
 # Daily Turf on ['15062023']
-##### Last Refresh 2023-06-15 09:00:24.918700
+##### Last Refresh 2023-06-15 09:10:24.208796
 
 ## 2023-06-15 17:15:00 HIPPODROME DE PARISLONGCHAMP 1 1
 ### PLAT
