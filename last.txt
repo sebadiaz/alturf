@@ -1,4 +1,4 @@
-mar. 20 juin 2023 08:00:01 CEST
+mar. 20 juin 2023 12:00:02 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=20-06-2023&publish_down=21-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-20/8404/json
 https://www.letrot.com/stats/courses/programme/2023-06-20/7500/json
@@ -376,15 +376,14 @@ https://www.letrot.com/stats/fiche-course/2023-06-21/1400/3/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-06-21/1400/3/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-21/1400/3/partants/tableau
 1:[0.90855907 0.09144093 7.        ]
-2:[0.93665113 0.06334887 9.        ]
-3:[0.9509197 0.0490803 1.       ]
-4:[0.96529928 0.03470072 6.        ]
-5:[0.97248882 0.02751118 5.        ]
-6:[ 0.9751075  0.0248925 10.       ]
-7:[ 0.9759859  0.0240141 12.       ]
-8:[0.97863256 0.02136744 8.        ]
-9:[ 0.97978352  0.02021648 11.        ]
-10:[0.98008559 0.01991441 2.        ]
+3:[0.93665113 0.06334887 9.        ]
+4:[0.9509197 0.0490803 1.       ]
+5:[0.96529928 0.03470072 6.        ]
+6:[0.97248882 0.02751118 5.        ]
+7:[ 0.9751075  0.0248925 10.       ]
+8:[ 0.9759859  0.0240141 12.       ]
+9:[0.97863256 0.02136744 8.        ]
+10:[ 0.97978352  0.02021648 11.        ]
 11:[0.98375368 0.01624632 4.        ]
 12:[0.98696709 0.01303291 3.        ]
 Hippodrome de la Prairie CAEN
