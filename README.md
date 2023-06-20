@@ -1,5 +1,5 @@
 # Daily Turf on ['20062023']
-##### Last Refresh 2023-06-20 09:00:22.438066
+##### Last Refresh 2023-06-20 09:10:24.011619
 
 ## 2023-06-20 17:33:00 HIPPODROME DE NANTES 1 1
 ### PLAT
