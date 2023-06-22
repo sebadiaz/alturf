@@ -1,5 +1,5 @@
 # Daily Turf on ['22062023']
-##### Last Refresh 2023-06-22 08:30:26.750900
+##### Last Refresh 2023-06-22 08:40:32.571770
 
 ## 2023-06-22 16:23:00 HIPPODROME DE LA TESTE DE BUCH 1 1
 ### PLAT
