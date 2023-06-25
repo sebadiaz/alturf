@@ -1,4 +1,4 @@
-dim. 25 juin 2023 16:00:21 CEST
+dim. 25 juin 2023 18:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=25-06-2023&publish_down=26-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-25/6201/json
 https://www.letrot.com/stats/courses/programme/2023-06-25/7500/json
@@ -28,18 +28,18 @@ https://www.letrot.com/stats/fiche-course/2023-06-25/6201/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/1/partants/tableau
-1:[0.22790941 0.77209059 4.        ]
-2:[ 0.90666913  0.09333087 12.        ]
-3:[ 0.961342  0.038658 10.      ]
-4:[0.96388787 0.03611213 7.        ]
-5:[0.96478318 0.03521682 3.        ]
+1:[0.19900283 0.80099717 4.        ]
+2:[ 0.72634557  0.27365443 10.        ]
+3:[ 0.91561906  0.08438094 12.        ]
+4:[0.95569134 0.04430866 9.        ]
+5:[0.96569652 0.03430348 3.        ]
 6:[0.96607917 0.03392083 2.        ]
-7:[0.969117 0.030883 9.      ]
-8:[0.97030861 0.02969139 5.        ]
+7:[0.96721219 0.03278781 7.        ]
+8:[0.97066059 0.02933941 5.        ]
 9:[0.97319032 0.02680968 8.        ]
 10:[0.97852482 0.02147518 6.        ]
 11:[0.98642628 0.01357372 1.        ]
-12:[ 0.98723998  0.01276002 11.        ]
+12:[ 0.98739385  0.01260615 11.        ]
 Hippodrome des Hauts Blancs-Monts ARRAS
 2023-06-25/6201/2
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/2/partants/drivers/paginate
@@ -48,18 +48,18 @@ https://www.letrot.com/stats/fiche-course/2023-06-25/6201/2/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/2/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/2/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/2/partants/tableau
-1:[0.73271815 0.26728185 8.        ]
-2:[0.78985187 0.21014813 9.        ]
-3:[0.89681407 0.10318593 7.        ]
-4:[0.89878022 0.10121978 6.        ]
-5:[ 0.92195286  0.07804714 10.        ]
-6:[ 0.96064035  0.03935965 12.        ]
-7:[0.96077735 0.03922265 4.        ]
-8:[0.96593259 0.03406741 5.        ]
-9:[0.97506616 0.02493384 1.        ]
-10:[ 0.97533841  0.02466159 11.        ]
-11:[0.97634121 0.02365879 2.        ]
-12:[0.97930957 0.02069043 3.        ]
+1:[0.62895883 0.37104117 9.        ]
+2:[ 0.8103689  0.1896311 11.       ]
+3:[ 0.85295441  0.14704559 10.        ]
+4:[0.86354415 0.13645585 8.        ]
+5:[0.9179128 0.0820872 7.       ]
+6:[0.9269162 0.0730838 6.       ]
+7:[0.96103302 0.03896698 4.        ]
+8:[ 0.9626794  0.0373206 12.       ]
+9:[0.96681714 0.03318286 5.        ]
+10:[0.97506616 0.02493384 1.        ]
+11:[0.97673145 0.02326855 2.        ]
+12:[0.97944702 0.02055298 3.        ]
 Hippodrome des Hauts Blancs-Monts ARRAS
 2023-06-25/6201/3
 https://www.letrot.com/stats/fiche-course/2023-06-25/6201/3/partants/drivers/paginate
