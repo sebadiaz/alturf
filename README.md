@@ -1,5 +1,5 @@
 # Daily Turf on ['26062023']
-##### Last Refresh 2023-06-26 10:30:30.546543
+##### Last Refresh 2023-06-26 10:40:24.380618
 
 ## 2023-06-26 13:48:00 HIPPODROME DE LYON-PARILLY 1 1
 ### PLAT
