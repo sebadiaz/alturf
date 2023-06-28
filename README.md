@@ -1,5 +1,5 @@
 # Daily Turf on ['28062023']
-##### Last Refresh 2023-06-28 22:20:22.441791
+##### Last Refresh 2023-06-28 22:30:34.701982
 
 ## 2023-06-28 16:08:00 HIPPODROME DE VICHY 1 1
 ### TROT_ATTELE
