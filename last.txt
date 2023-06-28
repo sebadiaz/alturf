@@ -1,4 +1,4 @@
-mer. 28 juin 2023 08:00:01 CEST
+mer. 28 juin 2023 12:00:02 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=28-06-2023&publish_down=29-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-28/5012/json
 https://www.letrot.com/stats/courses/programme/2023-06-28/0305/json
@@ -66,10 +66,9 @@ https://www.letrot.com/stats/fiche-course/2023-06-28/5012/3/partants/tableau
 7:[0.93198261 0.06801739 1.        ]
 8:[ 0.97274507  0.02725493 11.        ]
 9:[ 0.97573618  0.02426382 13.        ]
-10:[0.9818851 0.0181149 7.       ]
-11:[0.98204598 0.01795402 2.        ]
-12:[0.98224448 0.01775552 8.        ]
-13:[ 0.98550791  0.01449209 10.        ]
+11:[0.9818851 0.0181149 7.       ]
+12:[0.98204598 0.01795402 2.        ]
+13:[0.98224448 0.01775552 8.        ]
 Hippodrome de l'Anse de Moidrey LE MONT-SAINT-MICHEL-PONTORSON
 2023-06-28/5012/4
 https://www.letrot.com/stats/fiche-course/2023-06-28/5012/4/partants/drivers/paginate
@@ -166,12 +165,11 @@ https://www.letrot.com/stats/fiche-course/2023-06-28/5012/7/partants/tableau
 8:[ 0.91885278  0.08114722 13.        ]
 9:[0.92295188 0.07704812 5.        ]
 10:[0.93331233 0.06668767 1.        ]
-11:[ 0.93335297  0.06664703 14.        ]
-12:[0.95741361 0.04258639 7.        ]
-13:[0.96987791 0.03012209 8.        ]
-14:[0.97039132 0.02960868 3.        ]
-15:[0.97163066 0.02836934 9.        ]
-16:[ 0.97968809  0.02031191 11.        ]
+12:[ 0.93335297  0.06664703 14.        ]
+13:[0.95741361 0.04258639 7.        ]
+14:[0.96987791 0.03012209 8.        ]
+15:[0.97039132 0.02960868 3.        ]
+16:[0.97163066 0.02836934 9.        ]
 17:[0.98245963 0.01754037 2.        ]
 18:[0.98528585 0.01471415 4.        ]
 Hippodrome de l'Anse de Moidrey LE MONT-SAINT-MICHEL-PONTORSON
