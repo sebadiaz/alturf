@@ -1,4 +1,4 @@
-jeu. 29 juin 2023 16:00:23 CEST
+jeu. 29 juin 2023 18:00:28 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=29-06-2023&publish_down=30-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-29/7502/json
 https://www.letrot.com/stats/courses/programme/2023-06-29/5305/json
@@ -655,7 +655,6 @@ https://www.letrot.com/stats/fiche-course/2023-06-29/5008/7/partants/tableau
 10:[0.9731659 0.0268341 1.       ]
 11:[0.97700265 0.02299735 5.        ]
 12:[ 0.97873499  0.02126501 12.        ]
-13:[ 0.98322983  0.01677017 13.        ]
 14:[0.98454992 0.01545008 9.        ]
 15:[0.98463142 0.01536858 3.        ]
 16:[0.98520066 0.01479934 8.        ]
