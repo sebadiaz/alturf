@@ -1,4 +1,4 @@
-jeu. 29 juin 2023 08:00:01 CEST
+jeu. 29 juin 2023 12:00:02 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=29-06-2023&publish_down=30-06-2023
 https://www.letrot.com/stats/courses/programme/2023-06-29/7502/json
 https://www.letrot.com/stats/courses/programme/2023-06-29/5305/json
@@ -57,11 +57,10 @@ https://www.letrot.com/stats/fiche-course/2023-06-29/7502/3/partants/tableau
 3:[0.78873655 0.21126345 8.        ]
 4:[0.83633871 0.16366129 4.        ]
 5:[0.92736432 0.07263568 9.        ]
-6:[ 0.93003457  0.06996543 10.        ]
-7:[ 0.95810452  0.04189548 15.        ]
-8:[0.96082142 0.03917858 2.        ]
-9:[0.97337469 0.02662531 3.        ]
-10:[0.97697591 0.02302409 6.        ]
+7:[ 0.93003457  0.06996543 10.        ]
+8:[ 0.95810452  0.04189548 15.        ]
+9:[0.96082142 0.03917858 2.        ]
+10:[0.97337469 0.02662531 3.        ]
 11:[0.97807504 0.02192496 5.        ]
 12:[ 0.97893914  0.02106086 12.        ]
 13:[0.980709 0.019291 7.      ]
@@ -582,8 +581,7 @@ https://www.letrot.com/stats/fiche-course/2023-06-29/5008/4/partants/tandems/pag
 https://www.letrot.com/stats/fiche-course/2023-06-29/5008/4/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-06-29/5008/4/partants/tableau
 1:[0.81162385 0.18837615 8.        ]
-2:[0.82263116 0.17736884 4.        ]
-3:[0.91786112 0.08213888 2.        ]
+3:[0.82263116 0.17736884 4.        ]
 4:[0.91789779 0.08210221 9.        ]
 5:[ 0.95794807  0.04205193 14.        ]
 6:[ 0.96966619  0.03033381 12.        ]
