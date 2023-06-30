@@ -1,4 +1,4 @@
-ven. 30 juin 2023 16:00:23 CEST
+ven. 30 juin 2023 18:00:01 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=30-06-2023&publish_down=01-07-2023
 https://www.letrot.com/stats/courses/programme/2023-06-30/2801/json
 https://www.letrot.com/stats/courses/programme/2023-06-30/7500/json
@@ -45,8 +45,8 @@ https://www.letrot.com/stats/fiche-course/2023-06-30/2801/2/partants/tableau
 8:[0.95358956 0.04641044 2.        ]
 9:[0.95623598 0.04376402 6.        ]
 10:[0.95878301 0.04121699 9.        ]
-11:[0.97890491 0.02109509 7.        ]
-12:[ 0.98455157  0.01544843 10.        ]
+11:[ 0.9772877  0.0227123 10.       ]
+12:[0.97890491 0.02109509 7.        ]
 Hippodrome de Chartres CHARTRES
 2023-06-30/2801/3
 https://www.letrot.com/stats/fiche-course/2023-06-30/2801/3/partants/drivers/paginate
@@ -389,12 +389,11 @@ https://www.letrot.com/stats/fiche-course/2023-07-01/7502/4/partants/tableau
 8:[ 0.89307999  0.10692001 13.        ]
 9:[0.91150275 0.08849725 1.        ]
 10:[0.94180556 0.05819444 2.        ]
-11:[ 0.95902871  0.04097129 16.        ]
-12:[0.97139342 0.02860658 4.        ]
-13:[ 0.9717117  0.0282883 12.       ]
-14:[0.97527522 0.02472478 9.        ]
-15:[ 0.97842013  0.02157987 11.        ]
-16:[0.98482639 0.01517361 5.        ]
+11:[0.97139342 0.02860658 4.        ]
+12:[ 0.9717117  0.0282883 12.       ]
+13:[0.97527522 0.02472478 9.        ]
+14:[ 0.97842013  0.02157987 11.        ]
+15:[0.98482639 0.01517361 5.        ]
 Hippodrome d'Enghien-Soisy ENGHIEN
 2023-07-01/7502/5
 https://www.letrot.com/stats/fiche-course/2023-07-01/7502/5/partants/drivers/paginate
