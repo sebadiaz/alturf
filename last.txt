@@ -1,4 +1,4 @@
-sam. 01 juil. 2023 12:00:21 CEST
+sam. 01 juil. 2023 16:00:22 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=01-07-2023&publish_down=02-07-2023
 https://www.letrot.com/stats/courses/programme/2023-07-01/7502/json
 https://www.letrot.com/stats/courses/programme/2023-07-01/4201/json
@@ -97,11 +97,10 @@ https://www.letrot.com/stats/fiche-course/2023-07-01/7502/4/partants/tableau
 6:[ 0.81240947  0.18759053 14.        ]
 7:[0.85086571 0.14913429 6.        ]
 8:[ 0.89307999  0.10692001 13.        ]
-9:[0.91150275 0.08849725 1.        ]
-10:[0.94180556 0.05819444 2.        ]
-11:[0.97139342 0.02860658 4.        ]
-12:[ 0.9717117  0.0282883 12.       ]
-13:[0.97527522 0.02472478 9.        ]
+10:[0.91150275 0.08849725 1.        ]
+11:[0.94180556 0.05819444 2.        ]
+12:[0.97139342 0.02860658 4.        ]
+13:[ 0.9717117  0.0282883 12.       ]
 14:[ 0.97842013  0.02157987 11.        ]
 15:[0.98482639 0.01517361 5.        ]
 Hippodrome d'Enghien-Soisy ENGHIEN
