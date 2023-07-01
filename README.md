@@ -1,5 +1,5 @@
 # Daily Turf on ['01072023']
-##### Last Refresh 2023-07-01 08:30:23.562555
+##### Last Refresh 2023-07-01 08:40:24.141202
 
 ## 2023-07-01 13:23:00 HIPPODROME D'ENGHIEN SOISY 1 1
 ### TROT_MONTE
