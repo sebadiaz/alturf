@@ -1,4 +1,4 @@
-lun. 03 juil. 2023 12:00:23 CEST
+lun. 03 juil. 2023 16:00:25 CEST
 https://www.letrot.com/fr/courses/calendrier-resultats?publish_up=03-07-2023&publish_down=04-07-2023
 https://www.letrot.com/stats/courses/programme/2023-07-03/0305/json
 https://www.letrot.com/stats/courses/programme/2023-07-03/1409/json
@@ -668,16 +668,16 @@ https://www.letrot.com/stats/fiche-course/2023-07-04/6401/1/partants/couples/pag
 https://www.letrot.com/stats/fiche-course/2023-07-04/6401/1/partants/tandems/paginate
 https://www.letrot.com/stats/fiche-course/2023-07-04/6401/1/partants/entraineurs/paginate
 https://www.letrot.com/stats/fiche-course/2023-07-04/6401/1/partants/tableau
-1:[0.94992655 0.05007345 4.        ]
-2:[0.96991596 0.03008404 9.        ]
-3:[0.98014167 0.01985833 8.        ]
-4:[0.98028589 0.01971411 2.        ]
-5:[0.98060712 0.01939288 6.        ]
-6:[0.98064942 0.01935058 7.        ]
-7:[0.98199195 0.01800805 3.        ]
-8:[0.9829752 0.0170248 5.       ]
-9:[ 0.98548646  0.01451354 10.        ]
-10:[0.99056925 0.00943075 1.        ]
+1:[0.24773144 0.75226856 2.        ]
+2:[0.92495665 0.07504335 4.        ]
+3:[0.96520902 0.03479098 9.        ]
+4:[0.96774067 0.03225933 6.        ]
+5:[0.9713207 0.0286793 3.       ]
+6:[0.97317726 0.02682274 7.        ]
+7:[0.97325504 0.02674496 8.        ]
+8:[0.97478922 0.02521078 5.        ]
+9:[ 0.9846726  0.0153274 10.       ]
+10:[0.98615816 0.01384184 1.        ]
 Hippodrome des Fleurs BIARRITZ
 2023-07-04/6401/2
 https://www.letrot.com/stats/fiche-course/2023-07-04/6401/2/partants/drivers/paginate
