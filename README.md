@@ -1,5 +1,5 @@
 # Daily Turf on ['04072023']
-##### Last Refresh 2023-07-04 09:30:24.530153
+##### Last Refresh 2023-07-04 09:40:23.868828
 
 ## 2023-07-04 13:48:00 HIPPODROME DE VICHY 1 1
 ### TROT_MONTE
