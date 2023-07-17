@@ -1,5 +1,5 @@
 # Daily Turf on ['17072023']
-##### Last Refresh 2023-07-17 10:30:28.648767
+##### Last Refresh 2023-07-17 10:40:28.202399
 
 ## 2023-07-17 13:48:00 HIPPODROME DE VIRE 1 1
 ### TROT_ATTELE
