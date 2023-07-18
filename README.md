@@ -1,5 +1,5 @@
 # Daily Turf on ['18072023']
-##### Last Refresh 2023-07-18 10:00:29.281222
+##### Last Refresh 2023-07-18 10:10:27.562062
 
 ## 2023-07-18 18:00:00 HIPPODROME DE VICHY 1 1
 ### PLAT
