@@ -1,5 +1,5 @@
 # Daily Turf on ['28072023']
-##### Last Refresh 2023-07-28 09:30:31.911822
+##### Last Refresh 2023-07-28 09:40:31.447785
 
 ## 2023-07-28 18:20:00 HIPPODROME DE CABOURG 1 1
 ### TROT_ATTELE
