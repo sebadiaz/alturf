@@ -1,5 +1,5 @@
 # Daily Turf on ['09082023']
-##### Last Refresh 2023-08-09 10:00:31.498031
+##### Last Refresh 2023-08-09 10:10:29.059965
 
 ## 2023-08-09 16:08:00 HIPPODROME DE SAINT MALO 1 1
 ### TROT_ATTELE
