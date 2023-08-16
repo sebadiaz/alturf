@@ -1,5 +1,5 @@
 # Daily Turf on ['16082023']
-##### Last Refresh 2023-08-16 08:30:28.894599
+##### Last Refresh 2023-08-16 08:40:28.191208
 
 ## 2023-08-16 16:08:00 HIPPODROME D'ENGHIEN SOISY 1 1
 ### TROT_ATTELE
