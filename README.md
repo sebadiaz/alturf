@@ -1,5 +1,5 @@
 # Daily Turf on ['18082023']
-##### Last Refresh 2023-08-18 08:30:30.121996
+##### Last Refresh 2023-08-18 08:40:26.248857
 
 ## 2023-08-18 17:27:00 HIPPODROME DE PORNICHET 1 1
 ### TROT_ATTELE
