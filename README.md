@@ -1,5 +1,5 @@
 # Daily Turf on ['26082023']
-##### Last Refresh 2023-08-26 22:00:34.476668
+##### Last Refresh 2023-08-26 22:10:36.729238
 
 ## 2023-08-26 13:23:00 HIPPODROME DE CLAIREFONTAINE 1 1
 ### PLAT
