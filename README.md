@@ -1,5 +1,5 @@
 # Daily Turf on ['29082023']
-##### Last Refresh 2023-08-29 11:00:32.441550
+##### Last Refresh 2023-08-29 11:10:36.807881
 
 ## 2023-08-29 13:48:00 HIPPODROME DE DIEPPE 1 1
 ### PLAT
