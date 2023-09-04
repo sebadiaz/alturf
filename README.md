@@ -1,5 +1,5 @@
 # Daily Turf on ['04092023']
-##### Last Refresh 2023-09-04 08:30:33.266896
+##### Last Refresh 2023-09-04 08:40:33.340016
 
 ## 2023-09-04 13:50:00 HIPPODROME DE CRAON 1 1
 ### TROT_ATTELE
