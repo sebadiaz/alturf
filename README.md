@@ -1,5 +1,5 @@
 # Daily Turf on ['06092023']
-##### Last Refresh 2023-09-06 21:20:30.979756
+##### Last Refresh 2023-09-06 21:30:32.114118
 
 ## 2023-09-06 13:50:00 HIPPODROME DE LA CAPELLE 1 1
 ### TROT_ATTELE
