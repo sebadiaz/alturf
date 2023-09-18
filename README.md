@@ -1,5 +1,5 @@
 # Daily Turf on ['18092023']
-##### Last Refresh 2023-09-18 08:00:42.543604
+##### Last Refresh 2023-09-18 08:10:37.082377
 
 ## 2023-09-18 13:50:00 HIPPODROME DE COMPIEGNE 1 1
 ### PLAT
