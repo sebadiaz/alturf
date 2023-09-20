@@ -1,5 +1,5 @@
 # Daily Turf on ['20092023']
-##### Last Refresh 2023-09-20 20:30:35.601621
+##### Last Refresh 2023-09-20 20:40:34.862122
 
 ## 2023-09-20 13:50:00 HIPPODROME DE FEURS 1 1
 ### TROT_ATTELE
