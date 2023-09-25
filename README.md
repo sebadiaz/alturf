@@ -1,5 +1,5 @@
 # Daily Turf on ['25092023']
-##### Last Refresh 2023-09-25 09:30:28.901194
+##### Last Refresh 2023-09-25 09:40:29.880875
 
 ## 2023-09-25 11:55:00 HIPPODROME DE LA CAPELLE 1 1
 ### TROT_MONTE
