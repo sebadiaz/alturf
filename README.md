@@ -1,5 +1,5 @@
 # Daily Turf on ['26092023']
-##### Last Refresh 2023-09-26 21:30:28.857787
+##### Last Refresh 2023-09-26 21:40:30.131910
 
 ## 2023-09-26 13:50:00 HIPPODROME DE COMPIEGNE 1 1
 ### OBSTACLE
