@@ -1,5 +1,5 @@
 # Daily Turf on ['27092023']
-##### Last Refresh 2023-09-27 20:50:34.415213
+##### Last Refresh 2023-09-27 21:00:32.293202
 
 ## 2023-09-27 13:50:00 MONT ST MICHEL - PONTORSON 1 1
 ### TROT_ATTELE
