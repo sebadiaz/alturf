@@ -1,5 +1,5 @@
 # Daily Turf on ['04102023']
-##### Last Refresh 2023-10-04 10:00:31.237664
+##### Last Refresh 2023-10-04 10:10:31.271798
 
 ## 2023-10-04 13:50:00 HIPPODROME DU MANS 1 1
 ### TROT_ATTELE
