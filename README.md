@@ -1,5 +1,5 @@
 # Daily Turf on ['18102023']
-##### Last Refresh 2023-10-18 22:30:34.470546
+##### Last Refresh 2023-10-18 22:40:34.396473
 
 ## 2023-10-18 13:50:00 HIPPODROME DE REIMS 1 1
 ### TROT_ATTELE
