@@ -1,5 +1,5 @@
 # Daily Turf on ['23102023']
-##### Last Refresh 2023-10-23 10:00:39.805028
+##### Last Refresh 2023-10-23 10:10:42.357749
 
 ## 2023-10-23 11:55:00 HIPPODROME DE MARSEILLE BORELY 1 1
 ### PLAT
