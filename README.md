@@ -1,5 +1,5 @@
 # Daily Turf on ['01112023']
-##### Last Refresh 2023-11-01 22:30:30.864040
+##### Last Refresh 2023-11-01 22:40:31.646483
 
 ## 2023-11-01 13:58:00 HIPPODROME DE LAVAL 1 1
 ### TROT_ATTELE
