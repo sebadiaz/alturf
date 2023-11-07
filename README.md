@@ -1,5 +1,5 @@
 # Daily Turf on ['07112023']
-##### Last Refresh 2023-11-07 22:20:37.480090
+##### Last Refresh 2023-11-07 22:30:34.587631
 
 ## 2023-11-07 12:32:00 HIPPODROME DE FONTAINEBLEAU 1 1
 ### PLAT
