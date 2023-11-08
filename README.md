@@ -1,5 +1,5 @@
 # Daily Turf on ['08112023']
-##### Last Refresh 2023-11-08 21:30:38.015185
+##### Last Refresh 2023-11-08 21:50:37.924039
 
 ## 2023-11-08 13:13:00 HIPPODROME DE NANTES 1 1
 ### TROT_ATTELE
