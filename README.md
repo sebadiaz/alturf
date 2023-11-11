@@ -1,5 +1,5 @@
 # Daily Turf on ['11112023']
-##### Last Refresh 2023-11-11 09:30:37.157608
+##### Last Refresh 2023-11-11 09:40:34.628301
 
 ## 2023-11-11 13:58:00 HIPPODROME DE TOULOUSE LA CEPIERE 1 1
 ### PLAT
