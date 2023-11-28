@@ -1,5 +1,5 @@
 # Daily Turf on ['28112023']
-##### Last Refresh 2023-11-28 20:50:37.203506
+##### Last Refresh 2023-11-28 21:00:37.389990
 
 ## 2023-11-28 13:50:00 HIPPODROME DE DEAUVILLE 1 1
 ### PLAT
